@@ -5,12 +5,13 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
+    color: black;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul {
+nav {
     border-bottom: 1px solid #d5d5d5;
 }
 nav ul li, footer ul li {
