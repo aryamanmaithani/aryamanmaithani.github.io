@@ -5,7 +5,6 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    color: black;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -13,6 +12,7 @@ nav ul, footer ul {
 }
 nav {
     border-bottom: 1px solid #d5d5d5;
+    color: black;
 }
 nav ul li, footer ul li {
     display: inline;
