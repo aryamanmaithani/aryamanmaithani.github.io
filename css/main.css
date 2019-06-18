@@ -12,7 +12,6 @@ nav ul, footer ul {
 }
 nav {
     border-bottom: 1px solid #d5d5d5;
-    color: black;
 }
 nav ul li, footer ul li {
     display: inline;
