@@ -4,6 +4,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+body .navbar {
+   background-color: black;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
