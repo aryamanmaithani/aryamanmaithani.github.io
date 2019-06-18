@@ -1,4 +1,6 @@
 body {
+    background-color: rgb(46, 51, 63);
+    font-color: white
     margin: 60px auto;
     width: 70%;
 }
