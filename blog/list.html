@@ -1,0 +1,16 @@
+---
+layout: page
+title: Blog
+subtitle: This is where I tell the world about me
+image: /img/blog.jpg
+---
+<div class="text-center">
+<a href = "{{'/blog' | relative_url}}" class="blog-button"><button class="button blog-button-unactive">Posts</button></a> 
+<button class="button blog-button-active">List</button> 
+</div>
+<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date: "%b %d, %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+</ul>
