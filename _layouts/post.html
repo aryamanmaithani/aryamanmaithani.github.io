@@ -48,6 +48,10 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.social-share %}
+          {% include social-share.html %}
+        {% endif %}
+
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
@@ -61,11 +65,9 @@ layout: base
         {% endif %}
       </ul>
 
-      <div class="text-center">
-        {% if page.social-share %}
-          {% include social-share.html %}
-        {% endif %}
-      </div>
+    <!--  <div class="text-center"> -->
+        
+    <!--  </div> -->
 
       {% if page.comments %}
         <div class="disqus-comments">

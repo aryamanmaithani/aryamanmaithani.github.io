@@ -122,7 +122,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "aryamanmaithani"
+disqus: "aryamanmaithani"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
@@ -175,7 +175,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      #social-share: true # add social media sharing buttons to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
