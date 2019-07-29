@@ -12,6 +12,8 @@ image: /img/blog.jpg
 <ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date: "%b %d, %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  	{% if post.blog-category contains 'blog' %}
+	    	<li><span>{{ post.date | date: "%b %d, %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    {% endif %}
 	  {% endfor %}
 </ul>

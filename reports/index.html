@@ -1,25 +1,23 @@
 ---
 layout: page
-title: Notes
-subtitle: This is where I post the notes I've made
+title: Reports
+subtitle: Collection of the reports I've made
 image: /img/notes.jpg
 ---
 <div class="posts-list">
     {% for post in site.posts %}
-      {% if post.blog-category contains 'notes' %}
+      {% if post.blog-category contains 'report' %}
       <article class="post-preview">
-      <a href="{{ post.repo-link }}">
+      <a href="{{ post.url | relative_url }}">
   	  <h2 class="post-title">{{ post.title }}</h2>
-
-  	  {% if post.subtitle %}
-  	  <h3 class="post-subtitle">
-  	    {{ post.subtitle }}
-  	  </h3>
-  	  {% endif %}
       </a>
-
+      {% if post.pdf-link %}
+      <div class="blog-tags">
+        <a href="{{ post.pdf-link | relative_url }}">PDF</a>
+      </div>
+      {% endif %}
       <p class="post-meta">
-        {{ post.semester }}
+        {{ post.date | date: "%B %-d, %Y" }}
       </p>
 
       <div class="post-entry-container">
@@ -30,6 +28,10 @@ image: /img/notes.jpg
           </a>
         </div>
         {% endif %}
+        <div class="post-entry">
+          <a href="{{ post.url | relative_url }}"> {{ post.abstract | strip_html | xml_escape | truncatewords: site.excerpt_length }} </a>
+          {% assign excerpt_word_count = post.abstract | number_of_words %}
+        </div>
       </div>
 
       {% if post.tags.size > 0 %}

@@ -1,5 +1,6 @@
 ---
 layout: post
+blog-category: blog
 title: First post!
 author: Aryaman Maithani
 image: /img/hello_world.jpeg

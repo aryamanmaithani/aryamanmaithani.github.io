@@ -1,5 +1,5 @@
 # --- General options --- #
-
+# bundle exec jekyll serve
 # Name of website
 title: Home
 
@@ -22,11 +22,11 @@ description: math boi
 navbar-links:
   Notes: "notes"
   Blog: "blog"
+  Reports: "reports"
   About Me: "aboutme"
-  #Resources:
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #Author's home: "http://deanattali.com"
+  #Dropdown:
+  #  - Item 1: "http://www.google.com/"
+  #  - Item 2: "http://www.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
