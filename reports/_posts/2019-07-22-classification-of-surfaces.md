@@ -7,6 +7,7 @@ pdf-link: /files/Classification of Surfaces.pdf
 image: /img/cover.png
 tags: topology
 ---
+#### [PDF](/files/Classification of Surfaces.pdf)  
 This is a report that I made over the summer of 2019. This was under the Summer of Science initiative by the Maths and Physics Club. This was made under the mentorship of a senior student of the Mathematics Department.
 
 ### Abstract

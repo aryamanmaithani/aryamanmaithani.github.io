@@ -24,6 +24,8 @@ navbar-links:
   Blog: "blog"
   Reports: "reports"
   About Me: "aboutme"
+  Tutorials:
+    - MA 105: "tuts/ma-105"
   #Dropdown:
   #  - Item 1: "http://www.google.com/"
   #  - Item 2: "http://www.github.com/"
@@ -257,6 +259,3 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 paginate_path: "/blog/page:num/"
-
-#notes links
-ma-107-link: "https://aryamanmaithani.github.io/ma-107/"
