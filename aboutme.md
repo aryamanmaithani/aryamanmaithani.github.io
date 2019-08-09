@@ -9,8 +9,6 @@ Hello! My name is Aryaman Maithani.
 I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http://www.math.iitb.ac.in).  
 I am also the convener of [The Maths and Physics Club](https://mnp-club.github.io) of [IIT Bombay](http://www.iitb.ac.in).
 
-These days, I'm studying [Topology](https://en.wikipedia.org/wiki/Topology) for a report that I hope to complete by the end of July.
-
 ### Math Courses I've Taken
 * [MA 105](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20105) 
 * [MA 106](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20106)
