@@ -7,6 +7,7 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 # Slides
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf)
 ### [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf)
+### [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)
 
 # Short Quizzes
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf)
