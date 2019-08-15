@@ -13,5 +13,6 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf)
 
 # Additional Resources
-1. [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf)  
-2. [Equivalence of the definitions of continuity](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Equivalence%20of%20the%20two%20definitions%20of%20continuity.pdf)
+* [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf)  
+* [Equivalence of the definitions of continuity](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Equivalence%20of%20the%20two%20definitions%20of%20continuity.pdf)
+* [Ten Tips for Writing Mathematical Proofs](https://www.ms.uky.edu/~kott/proof_help.pdf), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
