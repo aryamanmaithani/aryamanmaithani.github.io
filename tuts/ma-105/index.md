@@ -21,4 +21,4 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
 
 #### Last Update
-###### 20-08-2019 16:32
+###### 20-08-2019 16:31
