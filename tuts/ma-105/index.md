@@ -20,5 +20,8 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 * [Ten Tips for Writing Mathematical Proofs](https://www.ms.uky.edu/~kott/proof_help.pdf), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
 
+## Feedback/Suggestions
+If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
+
 #### Last Update
-###### 20-08-2019 16:31
+###### 20-08-2019 22:46
