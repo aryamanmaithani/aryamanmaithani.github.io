@@ -13,6 +13,7 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 # Short Quizzes
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf)
 ### [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf)
+### [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf)  
