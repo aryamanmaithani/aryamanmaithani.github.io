@@ -26,4 +26,4 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
 #### Last Update
-###### 20-08-2019 22:46
+###### 28-08-2019 16:59
