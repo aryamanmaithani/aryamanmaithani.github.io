@@ -16,6 +16,9 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 ### [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf)
 ### [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)
 
+# Topological Perspective
+Here is a link to a document I'm writing that interested students may read about - [Restricted Topology](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Restricted%20Topology.pdf)  
+
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf)  
 * [Equivalence of the definitions of continuity](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Equivalence%20of%20the%20two%20definitions%20of%20continuity.pdf)
