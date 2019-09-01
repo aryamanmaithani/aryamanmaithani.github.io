@@ -2,7 +2,7 @@
 layout: page
 title: MA 105
 subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
-image: /img/cover.png
+image: /img/ma-105.png
 ---
 
 # Slides
