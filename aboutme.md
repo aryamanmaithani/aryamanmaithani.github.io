@@ -16,11 +16,6 @@ These days, I'm a TA for the course MA 105.
 * [MA 107](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20107)
 * [MA 108](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20108)
 
-| Week 1 | Week 2 | Week 3 |
-|--------|--------|--------|
-| SD | DDF | ADF |
-
-
 ### Contact
 
 * [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)
