@@ -10,12 +10,6 @@ I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http:
 I am also the convener of [The Maths and Physics Club](https://mnp-club.github.io) of [IIT Bombay](http://www.iitb.ac.in).  
 These days, I'm a TA for the course MA 105.
 
-### Math Courses I've Taken
-* [MA 105](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20105) 
-* [MA 106](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20106)
-* [MA 107](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20107)
-* [MA 108](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20108)
-
 ### Contact
 
 * [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)

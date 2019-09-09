@@ -24,6 +24,7 @@ navbar-links:
   Blog: "blog"
   Reports: "reports"
   About Me: "aboutme"
+    - Courses: "aboutme/courses"
   Tutorials:
     - MA 105: "tuts/ma-105"
   #Dropdown:
