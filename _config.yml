@@ -21,12 +21,13 @@ description: math boi
 # List of links in the navigation bar
 navbar-links:
   Notes: "notes"
-  Blog: "blog"
   Reports: "reports"
   About Me: "aboutme"
-    - Courses: "aboutme/courses"
   Tutorials:
     - MA 105: "tuts/ma-105"
+  More:
+    - Courses: "aboutme/courses"
+    - Blog: "blog"
   #Dropdown:
   #  - Item 1: "http://www.google.com/"
   #  - Item 2: "http://www.github.com/"
