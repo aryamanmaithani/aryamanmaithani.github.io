@@ -11,7 +11,7 @@ image: /img/ma-105.png
 
 # Short Quizzes
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf) | [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf) | [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)  
-### [Quiz 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-4.pdf) 
+### [Quiz 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-4.pdf) | [Quiz 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-5.pdf) 
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf)  
@@ -25,4 +25,4 @@ image: /img/ma-105.png
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
 #### Last Update
-###### 04-09-2019 16:06
+###### 09-09-2019 19:39
