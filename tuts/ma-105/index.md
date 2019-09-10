@@ -15,7 +15,7 @@ image: /img/ma-105.png
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf) 
-* [Collection of some counterexamples](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Counterexamples.pdf) 
+* [Collection of some counterexamples](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Counterexamples.pdf) 
 * [Equivalence of the definitions of continuity](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Equivalence%20of%20the%20two%20definitions%20of%20continuity.pdf)
 * Here is a link to a document I'm writing that interested students may read about - [Topology, restricted](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Topology%2C%20restricted.pdf) 
 * [A slightly different definition of Riemann integration](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Integration%20with%20tagged%20partition.pdf)
@@ -26,4 +26,4 @@ image: /img/ma-105.png
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
 #### Last Update
-###### 10-09-2019 11:16
+###### 10-09-2019 11:22
