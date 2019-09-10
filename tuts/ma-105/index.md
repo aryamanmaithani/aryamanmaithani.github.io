@@ -8,10 +8,11 @@ image: /img/ma-105.png
 # Slides
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)  
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
+The questions can be found in this [Information Booklet](http://www.math.iitb.ac.in/~srg/courses/autumn2019/Booklet_29July2019.pdf).
 
 # Short Quizzes
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf) | [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf) | [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)  
-### [Quiz 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-4.pdf) | [Quiz 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-5.pdf) 
+### [Quiz 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-4.pdf) | [Quiz 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-5.pdf) |
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf) 
@@ -26,4 +27,4 @@ image: /img/ma-105.png
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
 #### Last Update
-###### 10-09-2019 11:22
+###### 10-09-2019 12:26

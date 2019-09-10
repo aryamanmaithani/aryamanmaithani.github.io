@@ -1,9 +1,16 @@
 ---
 layout: page
 title: Notes
-subtitle: This is where I post the notes I've made
+subtitle: This is where I post the notes/solutions I've made
 image: /img/notes.jpg
 ---
+<div class="text-right">
+  <a href="{{ "/notes/instructions/" | relative_url}}" style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;letter-spacing: 1px;text-transform: uppercase;">
+    Instructions
+  </a>
+</div>
+
+
 <div class="posts-list">
     {% for post in site.posts %}
       {% if post.blog-category contains 'notes' %}
@@ -21,16 +28,6 @@ image: /img/notes.jpg
       <p class="post-meta">
         {{ post.semester }}
       </p>
-
-      <div class="post-entry-container">
-        {% if post.image %}
-        <div class="post-image">
-          <a href="{{ post.url | relative_url }}">
-            <img src="{{ post.image | relative_url }}">
-          </a>
-        </div>
-        {% endif %}
-      </div>
 
       {% if post.tags.size > 0 %}
       <div class="blog-tags">
