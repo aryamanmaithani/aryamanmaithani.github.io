@@ -5,7 +5,7 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 image: /img/ma-105.png
 ---
 
-# Slides
+# Slides (Tutorial Solutions)
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)  
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
 ### [Week 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-7.pdf) |
@@ -28,4 +28,4 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
 #### Last Update
-###### 10-09-2019 12:26
+###### 11-09-2019 17:23
