@@ -27,5 +27,8 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 ## Feedback
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
+## Contact
+You can mail me at [this](mailto:aryamanmaithani@gmial.com) address.
+
 #### Last Update
-###### 11-09-2019 17:23
+###### 15-09-2019 18:41
