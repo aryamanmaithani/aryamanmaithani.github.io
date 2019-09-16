@@ -28,7 +28,8 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.
 
 ## Contact
-[aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmial.com)
+[aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
+Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 15-09-2019 18:57
+###### 16-09-2019 11:57
