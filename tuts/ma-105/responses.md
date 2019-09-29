@@ -7,7 +7,7 @@ image:
 > "What about question 7 of tut sheet 6? what do they mean by bounded in a disc?"  
 > \- CuriousFreshie  
 
-Hello, what the question means is that given any $$\epsilon > 0$$ and any $$M \in \mathbb{R}$$, there will be a point $$(x_0, y_0)$$ in the disc of radius $$\epsilon$$ centered at origin such that the value of $$\mid f_x(x_0, y_0)\mid$$ is greater than $$M$$.
+Hello, what the question means is that given any $$\epsilon > 0$$ and any $$M \in \mathbb{R}$$, there will be a point $$(x_0, y_0)$$ in the disc of radius $$\epsilon$$ centered at origin such that the value of $$\mid f_x(x_0, y_0)\mid$$ is greater than $$M$$. (This is what is means for the derivative to *not* be *bounded* in any disc around $$(0, 0)$$.)
 
 ---  
 
