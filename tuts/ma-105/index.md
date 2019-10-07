@@ -5,6 +5,9 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 image: /img/ma-105.png
 ---
 
+### Announcement for students from other tutorials
+I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel free to come and ask me doubts in the half an hour before the tutorial starts.
+
 # Slides (Tutorial Solutions)
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)  
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
