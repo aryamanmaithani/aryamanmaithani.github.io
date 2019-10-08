@@ -29,7 +29,7 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
 
 ## Feedback
-If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that.  
+If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that. You may also ask questions here.   
 [Here](/tuts/ma-105/responses) are my responses to some of your responses.
 
 ## Contact
@@ -37,4 +37,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 07-10-2019 19:16
+###### 08-10-2019 12:20
