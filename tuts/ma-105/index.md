@@ -12,6 +12,7 @@ I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel f
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)  
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
 ### [Week 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-7.pdf) | [Week 8](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-8.pdf) | [Week 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-9.pdf) 
+### [Week 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-10.pdf) |
 The questions can be found in this [Information Booklet](http://www.math.iitb.ac.in/~srg/courses/autumn2019/Booklet_29July2019.pdf).
 
 # Short Quizzes
@@ -37,4 +38,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 08-10-2019 12:20
+###### 09-10-2019 15:46
