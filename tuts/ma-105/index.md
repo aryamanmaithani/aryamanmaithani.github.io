@@ -6,7 +6,7 @@ image: /img/ma-105.png
 ---
 
 ### Announcement for students from other tutorials
-I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel free to come and ask me doubts in the half an hour before the tutorial starts.
+I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel free to come and ask me doubts in the half an hour before the tutorial starts. You may also ask your doubts in the form linked below.
 
 # Slides (Tutorial Solutions)
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)  
@@ -18,7 +18,7 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 # Short Quizzes
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf) | [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf) | [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)  
 ### [Quiz 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-4.pdf) | [Quiz 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-5.pdf) | [Quiz 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-6.pdf)  
-### [Quiz 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-7.pdf) | [Quiz 8](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-8.pdf) 
+### [Quiz 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-7.pdf) | [Quiz 8](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-8.pdf) | [Quiz 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-9.pdf) 
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf) 
@@ -38,4 +38,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 09-10-2019 15:46
+###### 12-10-2019 21:37
