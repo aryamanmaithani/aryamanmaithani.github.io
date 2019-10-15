@@ -4,6 +4,14 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "The solutions are very helpful! Thanks!"  
+> \- someoneNotFromD1T5  
+
+Ayy, I'm glad you find them helpful!  
+Also, thanks for not asking me for physics solutions, lol.
+
+---  
+
 > "What about question 7 of tut sheet 6? what do they mean by bounded in a disc?"  
 > \- CuriousFreshie  
 
