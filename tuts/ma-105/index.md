@@ -28,6 +28,7 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 * [A slightly different definition of Riemann integration](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Integration%20with%20tagged%20partition.pdf)
 * [Ten Tips for Writing Mathematical Proofs](https://www.ms.uky.edu/~kott/proof_help.pdf), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
+* [A geometric approach to saddle points of surfaces](http://www.math.iitb.ac.in/~srg/preprints/TechPaperGhorpade-1.pdf), by [Sudhir R. Ghorpade](http://www.math.iitb.ac.in/~srg/) and [Balmohan V. Limaye](http://www.math.iitb.ac.in/~bvl/). However, note that this is **not** the definition that we will be following in this course.
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here](https://docs.google.com/forms/d/e/1FAIpQLScCRPfWX5aJUPLv-1UNiYHNxFfOOXHUiaK2ma2BDIkZ3k_VnA/viewform?usp=sf_link) is where you can do that. You may also ask questions here.   
@@ -38,4 +39,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 16-10-2019 16:37
+###### 18-10-2019 14:02
