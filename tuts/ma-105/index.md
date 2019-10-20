@@ -19,6 +19,7 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf) | [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf) | [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)  
 ### [Quiz 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-4.pdf) | [Quiz 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-5.pdf) | [Quiz 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-6.pdf)  
 ### [Quiz 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-7.pdf) | [Quiz 8](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-8.pdf) | [Quiz 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-9.pdf) 
+### [Quiz 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-10.pdf) |
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf) 
@@ -39,4 +40,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 18-10-2019 14:02
+###### 20-10-2019 19:47
