@@ -22,8 +22,8 @@ P.S.: Nothing is stopping you from making your own solutions for your own batch.
 > "Can a continuous function with bounded and open domain be. integrable "  
 > \- A person who is going to revolutionize whole world 
 
-We only talk about integrability on *closed* domains. So, if you take a closed subset of your domain, then yeah, it'll be integrable on that. But we won't say that it's integrable on the domain itself as it's not closed.  
-(Note that technically open doesn't mean not closed but the only closed and open subsets of $$\mathbb{R}^n$$ are the empty set and the whole set and the question doesn't make sense for those anyway.)
+Yes, it *can*. But it's not necessary. This is because a continuous function need not be bounded on a bounded and open domain. (Think of an example.)  
+Hence, the function won't be integrable.
 
 ---  
 
