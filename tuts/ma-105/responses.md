@@ -4,6 +4,29 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "You are really helpful .I attended tsc class you took.And I really understand the concept .Thanking You"  
+> \- Enthu Wala frieshie 
+
+That's what I hoped to do. Glad to know I was successful :)
+
+---  
+
+> "Thanks for taking the efforts to actually write out the solutions, they are really helpful. Hope I can do the same for a future batch."  
+> \- Random Guy
+
+You're welcome!  
+P.S.: Nothing is stopping you from making your own solutions for your own batch. I'm sure that there are plenty of subjects for which solutions aren't being made.
+
+---  
+
+> "Can a continuous function with bounded and open domain be. integrable "  
+> \- A person who is going to revolutionize whole world 
+
+We only talk about integrability on *closed* domains. So, if you take a closed subset of your domain, then yeah, it'll be integrable on that. But we won't say that it's integrable on the domain itself as it's not closed.  
+(Note that technically open doesn't mean not closed but the only closed and open subsets of $$\mathbb{R}^n$$ are the empty set and the whole set and the question doesn't make sense for those anyway.)
+
+---  
+
 > "The solutions are very helpful! Thanks!"  
 > \- someoneNotFromD1T5  
 
