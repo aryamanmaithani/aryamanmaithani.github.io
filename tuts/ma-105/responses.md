@@ -4,6 +4,17 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "Can you please give the solution to Q7 Sheet 8?"  
+> \- Freshie 
+
+I *can* and I shall.  
+By symmetry, the given volume is 8 times the volume in the positive octant.  
+In that octant the volume lies above the region $$Q := \{(x, y, 0) \in \mathbb{R}^3 :x \ge 0, y \ge 0, x^2 + y^2 \le a^2\}$$ and underneath the cylinder given by $$x^2 + z^2 = a^2$$.  
+Therefore,  
+$$V = 8\displaystyle\int_0^a\left(\int_0^{\sqrt{a^2-x^2}}\left(\int_0^{\sqrt{a^2-x^2}}1dz\right)dy\right)dx = \dfrac{16a^3}{3}$$.
+
+---  
+
 > "You are really helpful .I attended tsc class you took.And I really understand the concept .Thanking You"  
 > \- Enthu Wala frieshie 
 
