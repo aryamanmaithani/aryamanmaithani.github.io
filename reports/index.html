@@ -56,12 +56,12 @@ image: /img/notes.jpg
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Notes</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Reports</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Notes &rarr;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Reports &rarr;</a>
   </li>
   {% endif %}
 </ul>
