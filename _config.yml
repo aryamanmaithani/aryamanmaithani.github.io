@@ -20,8 +20,10 @@ description: math boi
 
 # List of links in the navigation bar
 navbar-links:
-  Notes: "notes"
-  Reports: "reports"
+  Academic:
+    - Notes: "notes"
+    - Reports: "reports"
+    - Presentations: "presentations"
   About Me: "aboutme"
   Tutorials:
     - MA 105: "tuts/ma-105"
