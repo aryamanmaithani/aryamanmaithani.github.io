@@ -28,6 +28,7 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 * [Equivalence of the definitions of continuity](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Equivalence%20of%20the%20two%20definitions%20of%20continuity.pdf)
 * Here is a link to a document I'm writing that interested students may read about - [Topology, restricted](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Topology%2C%20restricted.pdf) 
 * [A slightly different definition of Riemann integration](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Integration%20with%20tagged%20partition.pdf)
+* [A precise definition of simply-connected sets](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Simply%20connected%20sets.pdf)
 * [Ten Tips for Writing Mathematical Proofs](https://www.ms.uky.edu/~kott/proof_help.pdf), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
 * [A geometric approach to saddle points of surfaces](http://www.math.iitb.ac.in/~srg/preprints/TechPaperGhorpade-1.pdf), by [Sudhir R. Ghorpade](http://www.math.iitb.ac.in/~srg/) and [Balmohan V. Limaye](http://www.math.iitb.ac.in/~bvl/). However, note that this is **not** the definition that we will be following in this course.
