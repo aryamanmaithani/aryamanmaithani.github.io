@@ -4,6 +4,14 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "Please provide a solution for Sheet 10 Q11"  
+> \- Iron man 
+
+Surely Iron man shouldn't be having a problem with this.  
+Anyway, [here's](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q10.pdf) the solution.
+
+---  
+
 > "Can you please give the solution to Q7 Sheet 8?"  
 > \- Freshie 
 
