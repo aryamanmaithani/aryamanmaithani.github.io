@@ -4,11 +4,26 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "Tony forgot to ask Q9(ii) Sheet11. Please provide a solution for that too."  
+> \- Thor Odinson
+
+I guess MA 105 questions are an Avengers' level threat, huh?  
+However, question 9 is indeed a nice question in my opinion. So, [here](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q09.pdf) you have the solution for all parts.
+
+---  
+
+> "Iron man has a problem with the solution too! Shouldn't phi_x=xf(r) instead of xf(x) in the first slide??"  
+> \- Iron man 
+
+Iron man is indeed correct. The typo has been fixed.
+
+---  
+
 > "Please provide a solution for Sheet 10 Q11"  
 > \- Iron man 
 
 Surely Iron man shouldn't be having a problem with this.  
-Anyway, [here's](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q10.pdf) the solution.
+Anyway, [here's](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S10-Q11.pdf) the solution.
 
 ---  
 
