@@ -25,7 +25,8 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 
 # Additional Solutions
 Solutions to some of the problems not discussed in tutorials.
-* [Sheet 11 Question 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q10.pdf)
+* [Sheet 10 Question 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S10-Q11.pdf)
+* [Sheet 11 Question 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q09.pdf)
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf) 
