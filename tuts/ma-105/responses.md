@@ -4,6 +4,16 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "Parametization was the problem indeed. 
+Speaking of revealing my identity, did you even watch my latest movie (till the very end)?"  
+> \- Peter Parker
+
+Oh, good to know that I solved your doubt then.  
+Yes, I had, I was thinking of making a Mysterio reference but couldn't think of a nice one.  
+P.S.: How often do you refresh this page to reply quickly enough?
+
+---
+
 > "My Spidey Sense tells me that Q7 Sheet 10 is a threat. Can you help me fight it?"  
 > \- Peter Parker
 
