@@ -4,6 +4,27 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "My Spidey Sense tells me that Q7 Sheet 10 is a threat. Can you help me fight it?"  
+> \- Peter Parker
+
+Good job giving away your identity.  
+I'm not sure what exactly is the problem with this question, though. I guess you had a problem finding a parameterisation for the curve $$C$$ because it's quite straightforward otherwise.  
+Note that the cylinder is given by $$\left(x-\frac{a}{2}\right)^{2}+y^{2}=\frac{a^{2}}{4}$$.  
+The equation of the sphere tells us that the points lying on the intersection, that is, the points of $$C$$ satisfy: $$z^2 = a^2 - ax$$.  
+The first equation leads to the natural parameterisation of $$x = \frac{a}{2} + \frac{a}{2}\cos\theta$$ and $$y = \frac{a}{2}\sin\theta$$ where $$\theta \in [0, 2\pi]$$.  
+Also, substituting this value of $$x$$ in the second equation and noting that $$z \ge 0$$ gives us that $$z = a\sin\frac{\theta}{2}$$.  
+Thus, we now have a parameterisation for the curve and can (hopefully) easily solve it now.  
+You just need to compute the integral $$\oint_C \mathbf{F}\cdot d\mathbf{r}$$. Check the solutions for the similar tutorial problems if you don't get it.
+
+--- 
+
+> "There should be summary of all the content covered in the tutorial in the start as you have done in week1 sheet. It will be very helpful"  
+> \- Harry Potter
+
+I'm not quite sure as to what you're referring to as there was no summary at the beginning of the Week-1 slides. But I guess I can add the questions covered at the beginning for easier reference.
+
+---  
+
 > "Tony forgot to ask Q9(ii) Sheet11. Please provide a solution for that too."  
 > \- Thor Odinson
 
