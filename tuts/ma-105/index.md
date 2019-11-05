@@ -13,7 +13,9 @@ I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel f
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
 ### [Week 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-7.pdf) | [Week 8](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-8.pdf) | [Week 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-9.pdf)
 ### [Week 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-10.pdf) | [Week 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-11.pdf) | [Week 12](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-12.pdf)
-### [Week 13](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-13.pdf)
+### [Week 13](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-13.pdf) | [Week 14](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-14.pdf) 
+
+Hope these slides have been helpful to whoever had used them. All the best for endsem! :)
 
 The questions can be found in this [Information Booklet](http://www.math.iitb.ac.in/~srg/courses/autumn2019/Booklet_29July2019.pdf).
 
@@ -48,4 +50,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 04-11-2019 22:27
+###### 05-11-2019 22:08
