@@ -4,7 +4,17 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
-> "Parametization was the problem indeed. 
+> "You could have quoted The Daily Bugle.  
+I check this page every day, once in the evening and once before going to bed.  
+I must admit that I envy and appreciate your math skills. Any tips?"  
+> \- Peter Parker
+
+Ah, looks like I don't remember it well enough to quote that.  
+I guess just be patient and practice.
+
+---
+
+> "Parametization was the problem indeed.  
 Speaking of revealing my identity, did you even watch my latest movie (till the very end)?"  
 > \- Peter Parker
 
