@@ -15,9 +15,11 @@ I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel f
 ### [Week 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-10.pdf) | [Week 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-11.pdf) | [Week 12](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-12.pdf)
 ### [Week 13](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-13.pdf) | [Week 14](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-14.pdf) 
 
-Hope these slides have been helpful to whoever had used them. All the best for endsem! :)
+Hope these slides have been helpful to whoever has used them. All the best for endsem! :)
 
 The questions can be found in this [Information Booklet](http://www.math.iitb.ac.in/~srg/courses/autumn2019/Booklet_29July2019.pdf).
+
+### [Memes](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Memes/Memes.pdf)
 
 # Short Quizzes
 ### [Quiz 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-1.pdf) | [Quiz 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-2.pdf) | [Quiz 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-3.pdf)  
@@ -50,4 +52,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 05-11-2019 22:08
+###### 06-11-2019 12:44
