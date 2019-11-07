@@ -4,6 +4,46 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "Hey! Can you help me solve Q9(b) Sheet 14? And yes, please reply Bruce."  
+> \- Natasha Romanoff
+
+Consider $$ \psi = \frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2}$$.  
+Note that the outwards unit normal $$\mathbf{n}$$ at any point $$\mathbf{r} = (x, y, z)$$ on the ellipsoid is in the same direction as $$\nabla \psi$$ and one also has $$p = \mathbf{r}\cdot\mathbf{n}$$. Also note that $$\mathbf{r}\cdot\nabla\psi=2$$. I will use these facts in the following equations. It is your task to see where I've used what and how.  
+$$\displaystyle\iint_S\frac{1}{p}dS$$  
+$$ = \displaystyle\iint_S\frac{1}{\mathbf{r}\cdot\mathbf{n}}dS$$  
+$$ = \displaystyle\iint_S\frac{\mathbf{n}\cdot\mathbf{n}}{\mathbf{r}\cdot\mathbf{n}}dS$$  
+$$ = \displaystyle\iint_S\left(\frac{\mathbf{n}}{\mathbf{r}\cdot\mathbf{n}}\right)\cdot\mathbf{n}dS$$  
+$$ = \displaystyle\iint_S\left(\frac{\nabla\psi}{\mathbf{r}\cdot\nabla\psi}\right)\cdot\mathbf{n}dS$$  
+$$ = \displaystyle\iint_S\left(\frac{\nabla\psi}{2}\right)\cdot\mathbf{n}dS$$  
+$$ = \displaystyle\iiint_W\frac{\nabla^2\psi}{2}dV$$  
+$$ = \displaystyle\left(\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}\right)\iiint_W 1dV$$   
+$$ = \displaystyle\frac{4}{3}abc\left(\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}\right).$$  
+Note that I have used Gauss' divergence theorem and the fact that the volume of $$W$$, the solid ellipsoid, is what it is. 
+
+---
+
+> "Can u explain in brief or post something about the alternative formulations of greens theorem."  
+> \- Green
+
+Could you be more specific as to what you want? The alternate formulations are there in slides and I'm not sure as to what more I can tell about that.
+
+---
+
+> "Q9 Sheet 12 is making me turn green. Please help!"  
+> \- Bruce Banner
+
+Here's an outline of what to do. Hopefully you can complete it.  
+The hemisphere satisfies $$z = \sqrt{1 - x^2 - y^2}$$ and $$x^2 + y^2 \le 1$$.  
+Using the fact that $$\mathbf{n}dS = (-z_x, -z_y, 1)d(x, y)$$.  
+In this case, $$z_x = -x/z$$ and $$z_y = -y/z$$.  
+Thus, $$\mathbf{F}\cdot\mathbf{n}dS = \frac{1 - 2xy - 2y^2}{z}d(x, y).$$  
+(Note that both the above equations involving $$dS$$ are just written in differential notation. I'm not treating $$dS$$ as a real number or any such thing.)  
+Now the mass blah blah blah stuff asked is just the flux which equals:  
+$$\displaystyle\iint_S\mathbf{F}\cdot\mathbf{n}dS = \iint_D{1 - 2xy - 2y^2}{\sqrt{1 - x^2 - y^2}}d(x, y)$$.  
+Where $$D = \{(x, y) \in \mathbb{R}^2 : x^2 + y^2 \le 1\}$$. The above can be solved using polar coordinates.
+
+---
+
 > "You could have quoted The Daily Bugle.  
 I check this page every day, once in the evening and once before going to bed.  
 I must admit that I envy and appreciate your math skills. Any tips?"  
