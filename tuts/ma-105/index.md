@@ -5,9 +5,6 @@ subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 image: /img/ma-105.png
 ---
 
-### Announcement for students from other tutorials
-I usually come to my tutorial room (LT 005) around 1:30 PM on Wednesdays. Feel free to come and ask me doubts in the half an hour before the tutorial starts. You may also ask your doubts in the form linked below.
-
 # Slides (Tutorial Solutions)
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
@@ -28,7 +25,7 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 ### [Quiz 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-10.pdf) | [Quiz 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-11.pdf) | [Quiz 12](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-12.pdf)
 
 # Additional Solutions
-Solutions to some of the problems not discussed in tutorials.
+Solutions to some of the problems not discussed in tutorials. Also, I have outlined the solutions to some questions asked on [this](/tuts/ma-105/responses) page.
 * [Sheet 10 Question 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S10-Q11.pdf)
 * [Sheet 11 Question 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q09.pdf)
 
@@ -52,4 +49,4 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 06-11-2019 12:44
+###### 07-11-2019 20:30
