@@ -4,6 +4,41 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "nice"  
+> \- 
+
+such low effort. thank.
+
+---
+
+> "Could you please upload the solution of question 1, tut 13? Thanks!"  
+> \- A confused nibba
+
+Here's an outline for part (a):  
+You most likely would be having trouble with parameterising the line integral part. Mainly because of a messy $$z$$ coordinate.  
+Note that the line integral can be written as:  
+$$\displaystyle\oint_C (x-y)dx + (x+y)dy + (y+z)dz = \oint_C xdy - ydx + \oint_C \nabla\left(yz + \frac{1}{2}(x^2 + z^2)\right)\cdot d\mathbb{r}$$.  
+The second line integral will simply be $$0$$ as it's a smooth grad field along a smooth closed loop. The first can now be simply done as you don't need to worry about $$z$$. The projection of that curve onto the XY-plane can be simply parameterised as $$\left(\frac{a}{2}\cos\theta, \frac{a}{2} + \frac{a}{2}\sin\theta\right)$$. (Or you can observe this as twice the area of the projected circle.)  
+For the surface integral part, note that $$\nabla\times\mathbf{F} = (0, 0, 2)$$.  
+Note that the surface is part of the cone given by $$z = f(x, y) = \sqrt{x^2 + y^2}$$. Thus, the normal is given as $$(-z_x, -z_y, 1)$$ which gives $$(\nabla\times\mathbf{F})\cdot\mathbb{n}=2$$. Now, find the appropriate domain for $$x$$ and $$y$$ to get the answer. (Same projection as last which would again give twice the area as the answer.)
+
+---
+
+> "Thank you so much for the slides, also the memes are spicy"  
+> \- MelonMusk
+
+danke
+
+---
+
+> "When we write n.dS while evaluating surface integrals, do we take n to be unit vector in case of planes? And what exactly is dS?"  
+> \- Clint Barton
+
+$$\mathbf{n}$$ is always taken to be the unit vector at the point. It's just that $$\mathbf{n}$$ is constant in the case of planes.  
+$$dS$$ is just notation, it does have any more meaning than that. In differential notation, we may also write $$dS = \|\Phi_u\times\Phi_v\|d(u, v)$$. Again, I'll emphasise that this is just notation.
+
+---
+
 > "Hey! Can you help me solve Q9(b) Sheet 14? And yes, please reply Bruce."  
 > \- Natasha Romanoff
 
