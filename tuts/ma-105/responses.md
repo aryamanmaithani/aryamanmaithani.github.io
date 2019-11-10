@@ -4,6 +4,16 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "You showed exemplary courage in the times of war (exam prep?). I thank you very much. May this never stop!  
+>P.S. All the Avengers' doubts came from just one guy :p"  
+> \- Steve Rogers
+
+Hehe, I'm not too surprised to know that it was just one person.  
+It was fun having this little running gag. All the best for your exam!  
+Maybe we shall continue this during the days of MA106 or MA108.
+
+---
+
 > "A friendly suggestion here. I feel that the tutorials can be improved a little bit by giving more focus to tutorials 11-14. They were rushed through in the last 2 weeks and given that they consist of such important topics, I feel they should be emphasized on more rather than giving so much time to differentiation and integration in multiple variables. Hope you take this into consideration. Good going with the website, it's really helpful. Thanks for everything :)"  
 > \- Batman
 
