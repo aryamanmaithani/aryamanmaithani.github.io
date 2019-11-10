@@ -4,6 +4,14 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "A friendly suggestion here. I feel that the tutorials can be improved a little bit by giving more focus to tutorials 11-14. They were rushed through in the last 2 weeks and given that they consist of such important topics, I feel they should be emphasized on more rather than giving so much time to differentiation and integration in multiple variables. Hope you take this into consideration. Good going with the website, it's really helpful. Thanks for everything :)"  
+> \- Batman
+
+Hey, I can see where you're coming from. I hope you entered this in your course feedback as I have no control over how these things go but raising this issue there may make a difference.  
+As for the last part, you're most welcome :)
+
+---
+
 > "Thanks a lot for this! Really helped me (especially considering my TA doesn't explain concepts well).  
 >  
 > Also, a small typo. In the last question of week 10 slides(Sheet 7, Q10), it's written maximize instead of minimize."  
