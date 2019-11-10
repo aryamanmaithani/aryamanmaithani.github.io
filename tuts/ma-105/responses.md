@@ -5,8 +5,8 @@ subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
 > "Thanks a lot for this! Really helped me (especially considering my TA doesn't explain concepts well).  
-  
-Also, a small typo. In the last question of week 10 slides(Sheet 7, Q10), it's written maximize instead of minimize."  
+>  
+> Also, a small typo. In the last question of week 10 slides(Sheet 7, Q10), it's written maximize instead of minimize."  
 > \- MythV
 
 I'm happy to know that I have been of help! :)  
@@ -62,7 +62,7 @@ $$ = \displaystyle\iint_S\left(\frac{\nabla\psi}{\mathbf{r}\cdot\nabla\psi}\righ
 $$ = \displaystyle\iint_S\left(\frac{\nabla\psi}{2}\right)\cdot\mathbf{n}dS$$  
 $$ = \displaystyle\iiint_W\frac{\nabla^2\psi}{2}dV$$  
 $$ = \displaystyle\left(\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}\right)\iiint_W 1dV$$   
-$$ = \displaystyle\frac{4}{3}abc\left(\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}\right).$$  
+$$ = \displaystyle\frac{4}{3}\pi abc\left(\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}\right).$$  
 Note that I have used Gauss' divergence theorem and the fact that the volume of $$W$$, the solid ellipsoid, is what it is. 
 
 ---
