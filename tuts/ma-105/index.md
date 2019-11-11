@@ -4,15 +4,16 @@ title: MA 105
 subtitle: Resources related to MA 105 (Calculus) Tutorials will be posted here
 image: /img/ma-105.png
 ---
+This is the webpage I maintained for sharing the resources of MA 105 when I was a TA for that course in Autumn 2019.  
+I had the privilege of interacting with numerous first year students due to this opportunity for which I am forever grateful.  
+I hope that this page will be helpful to whosoever is ever taking this course.
 
 # Slides (Tutorial Solutions)
 ### [Week 1](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-3.pdf)
 ### [Week 4](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-5.pdf) | [Week 6](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-6.pdf)
 ### [Week 7](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-7.pdf) | [Week 8](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-8.pdf) | [Week 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-9.pdf)
 ### [Week 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-10.pdf) | [Week 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-11.pdf) | [Week 12](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-12.pdf)
-### [Week 13](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-13.pdf) | [Week 14](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-14.pdf) 
-
-Hope these slides have been helpful to whoever has used them. All the best for endsem! :)
+### [Week 13](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-13.pdf) | [Week 14](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Slides/Week-14.pdf) |
 
 The questions can be found in this [Information Booklet](http://www.math.iitb.ac.in/~srg/courses/autumn2019/Booklet_29July2019.pdf).
 
@@ -25,9 +26,10 @@ The questions can be found in this [Information Booklet](http://www.math.iitb.ac
 ### [Quiz 10](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-10.pdf) | [Quiz 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-11.pdf) | [Quiz 12](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Quizzes/Quiz-12.pdf)
 
 # Additional Solutions
-Solutions to some of the problems not discussed in tutorials. Also, I have outlined the solutions to some questions asked on [this](/tuts/ma-105/responses) page.
+Solutions to some of the problems not discussed in tutorials. 
 * [Sheet 10 Question 11](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S10-Q11.pdf)
 * [Sheet 11 Question 9](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20solutions/S11-Q09.pdf)
+Also, I have also outlined the solutions to some questions asked via the form, on [this](/tuts/ma-105/responses) page.
 
 # Additional Resources
 * [Extra questions](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Extra%20Questions.pdf) 
@@ -46,7 +48,6 @@ If there's something that you want to tell me anonymously, [here](https://docs.g
 
 ## Contact
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
-Thank you, anonymous for pointing out the original typo!
 
 #### Last Update
-###### 07-11-2019 20:30
+###### 11-11-2019 18:30
