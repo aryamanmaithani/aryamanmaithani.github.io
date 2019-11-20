@@ -4,6 +4,26 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "\*thancc  
+> P.S THIS WEBPAGE WAS AMAZING AND THANKS FOR DOING ALL THIS AND YOURE WONDERFUL.  
+> P.P.S look at all that high effort."  
+> \- Artemis
+
+oof, thancccccccc.  
+P.S. thancc.  
+P.P.S. looked.
+
+---
+
+> "They dont teach relativity in PH107 why because its ""difficult"" then  why do they are allowed and interested to teach a whole lot of difficult complicated and sophisticated things in MA105"  
+> \- Artemis
+
+Why they chose to not teach relativity in PH107 is not for me to judge. (Even though I am extremely happy that they don't. :))  
+Coming to MA105, there was nothing "difficult complicated" that was taught. You will most likely use Calculus at some point of time in your courses here. So it is important to know the basic theory that builds up these concepts. If not, you'd be left with just some hand-wavy and half-baked-rigour-less knowledge of limits and the sort.  
+Now you may argue that as an engineer (I'm assuming you're getting an engineering degree), you may not be required to know these fundamentals. In which case, I am saddened by your attitude.
+
+---
+
 > "You showed exemplary courage in the times of war (exam prep?). I thank you very much. May this never stop!  
 >P.S. All the Avengers' doubts came from just one guy :p"  
 > \- Steve Rogers
