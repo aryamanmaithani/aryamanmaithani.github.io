@@ -6,20 +6,18 @@ image: /img/iitb.png
 ---
 
 ### Department of Mathematics
-* Currently taking 
-	* [MA 401 - Linear Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20401)
-	* [MA 403 - Real Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20403)
-	* [MA 419 - Basic Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20419)
-	* [MA 523 - Basic Number Theory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20523)
-	* [SI 419 - Combinatorics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=SI%20419)
+* [MA 401 - Linear Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20401)
+* [MA 403 - Real Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20403)
+* [MA 419 - Basic Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20419)
+* [MA 523 - Basic Number Theory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20523)
+* [SI 419 - Combinatorics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=SI%20419)
 * [MA 108 - Ordinary Differential Equations](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20108)
 * [MA 107 - An Introduction to Mathematical Concepts](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20107)
 * [MA 106 - Linear Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20106)
 * [MA 105 - Calculus](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20105) 
 
 ### Department of Computer Science and Engineering
-* Currently taking 
-	* [CS 228 - Logic for CS](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20228)
+* [CS 228 - Logic for CS](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20228)
 * [CS 101 - Computer Programming and Utilization](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20101) 
 
 ### Department of Physics
