@@ -2,7 +2,7 @@
 layout: page
 title: Groups of order p^2 are abelian
 subtitle: 
-image: group.jpg
+image: /img/group.png
 ---
 Let $$p$$ be any prime number.  
 Let $$G$$ be a group with order $$p^2$$. We show that $$G$$ is abelian.  

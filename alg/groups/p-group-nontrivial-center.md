@@ -2,7 +2,7 @@
 layout: page
 title: Nontrivial center of p-groups
 subtitle: 
-image: group.jpg
+image: /img/group.png
 ---
 Let $$p$$ be any prime number and let $$n \ge 1$$ be an integer.  
 Let $$G$$ be a group with order $$p^n$$. We show that $$Z(G)$$ is not trivial.  

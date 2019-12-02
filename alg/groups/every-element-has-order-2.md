@@ -2,7 +2,7 @@
 layout: page
 title: Every element has order 2
 subtitle: 
-image: group.jpg
+image: /img/group.png
 ---
 > Let $$G$$ be a group such that $$x^2 = 1$$ for every $$x \in G$$. We show that $$G$$ is abelian.  
 
