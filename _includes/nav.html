@@ -38,13 +38,23 @@
     </div>
 
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="{{ '' | absolute_url }}">
-	      <img class="avatar-img" src="{{ page.image | relative_url }}" />
-		</a>
-	  </div>
-	</div>
+	 {% if page.image-link %}
+     <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="{{ page.image-link | absolute_url }}">
+          <img class="avatar-img" src="{{ page.image | relative_url }}" />
+      </a>
+      </div>
+    </div>
+    {% else %}
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="{{ '' | absolute_url }}">
+          <img class="avatar-img" src="{{ page.image | relative_url }}" />
+    	</a>
+      </div>
+    </div>
+    {% endif %}
 	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
