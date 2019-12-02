@@ -4,8 +4,8 @@ title: Groups of order p^2 are abelian
 subtitle: 
 image: /img/group.png
 ---
-Let $$p$$ be any prime number.  
-Let $$G$$ be a group with order $$p^2$$. We show that $$G$$ is abelian.  
+> Let $$p$$ be any prime number.  
+> Let $$G$$ be a group with order $$p^2$$. We show that $$G$$ is abelian.  
 
 As $$G$$ has order of the form $$p^n,$$ we know that $$Z(G) \neq (1).$$ (See proof [here](/alg/groups/p-group-nontrivial-center).)  
 Thus, $$|Z(G)| = p$$ or $$|Z(G)| = p^2.$$ In the latter case, we're done as $$Z(G) = G \implies G$$ is abelian.  
