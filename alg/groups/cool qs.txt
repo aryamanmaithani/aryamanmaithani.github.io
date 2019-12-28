@@ -1,0 +1,18 @@
+* Infinite group $$G$$ such that every proper subgroup is finite.  
+* Infinite group containing every finite group as subgroup.  
+* Proper subgroup of $$(\mathbb{R}, +)$$ of finite index.  
+* Infinite group must have proper subgroup.  
+* Group structure on every set.  
+* (Q, +), (Q>0, x), (Q-{0}, x), (Z, +) iso  
+* (R, +), (C, +) iso  
+* (RxQ, +), (R, +) iso  
+
+-- sets and stuff  
+* tukey's lem, zorn's, haus maximal chain, well order, ac  
+* (|X| = \infty \implies |X^2| = |X|) \iff AC  
+* (G set \implies \exists f (G, f) is group) \iff AC  
+** group (and ring) by symmetric difference, product thing 
+* AC \implies (\epsilon-\delta \iff seq continuity)  
+* AC \implies (|A| = \infty \implies |~N| \le |A|)  
+* |S| = |{F \subset S : |F| < \infty}|  
+* 
