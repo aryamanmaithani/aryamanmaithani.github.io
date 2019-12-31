@@ -37,7 +37,7 @@ The letters $$p,$$ $$q,$$ and $$r$$ are used for primes. Moreover, they are assu
 * [Order $$2^n\cdot3$$](2n3) with $$n > 1$$
 * [Order $$3^n\cdot4$$](3n4) with $$n > 1$$
 
-[Here](/sieve) is the list of all order $$\le 200$$ that are taken care of, by the above classifications.
+[Here](sieve) is the list of all order $$\le 200$$ that are taken care of, by the above classifications.
 
 ### Specific Orders
 * [40](40)

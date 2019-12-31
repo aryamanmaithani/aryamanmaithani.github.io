@@ -12,7 +12,12 @@
 * (|X| = \infty \implies |X^2| = |X|) \iff AC  
 * (G set \implies \exists f (G, f) is group) \iff AC  
 ** group (and ring) by symmetric difference, product thing 
-* AC \implies (\epsilon-\delta \iff seq continuity)  
+* AC \implies (\epsilon-\delta \iff seq continuity) https://math.stackexchange.com/questions/126010/continuity-and-the-axiom-of-choice
+https://math.stackexchange.com/questions/1329634/sequential-continuity-is-equivalent-to-epsilon-delta-continuity-implie  
 * AC \implies (|A| = \infty \implies |~N| \le |A|)  
 * |S| = |{F \subset S : |F| < \infty}|  
-* 
+* V has a basis but subspace does not. https://mathoverflow.net/questions/80765/if-v-is-a-vector-space-with-a-basis-w-subseteq-v-has-to-have-a-basis-too
+* failure of AC https://math.stackexchange.com/questions/1253650/is-the-axiom-of-choice-really-all-that-important/1253758#1253758
+
+-- quotes?
+The most annoying thing about an incorrect proof of a correct theorem is that it is very difficult to give a counterexample.
