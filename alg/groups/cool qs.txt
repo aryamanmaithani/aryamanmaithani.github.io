@@ -6,6 +6,7 @@
 * (Q, +), (Q>0, x), (Q-{0}, x), (Z, +) iso  
 * (R, +), (C, +) iso  
 * (RxQ, +), (R, +) iso  
+* countable group with uncountably many (non-isomorphic) subgroups https://math.stackexchange.com/questions/257175/countable-group-uncountably-many-distinct-subgroup?rq=1  
 
 -- sets and stuff  
 * tukey's lem, zorn's, haus maximal chain, well order, ac  
@@ -17,7 +18,10 @@ https://math.stackexchange.com/questions/1329634/sequential-continuity-is-equiva
 * AC \implies (|A| = \infty \implies |~N| \le |A|)  
 * |S| = |{F \subset S : |F| < \infty}|  
 * V has a basis but subspace does not. https://mathoverflow.net/questions/80765/if-v-is-a-vector-space-with-a-basis-w-subseteq-v-has-to-have-a-basis-too
-* failure of AC https://math.stackexchange.com/questions/1253650/is-the-axiom-of-choice-really-all-that-important/1253758#1253758
+* failure of AC https://math.stackexchange.com/questions/1253650/is-the-axiom-of-choice-really-all-that-important/1253758#1253758  
+* uncountable chain of $\mathcal{P}(\mathbb{N})$ https://math.stackexchange.com/questions/1182145/finding-an-uncountable-chain-of-subsets-the-integers  
+* cardinality of set of above chains https://math.stackexchange.com/questions/2300181/cardinality-of-the-set-of-chains-of-mathcal-p-mathbb-n-subseteq?rq=1  
+* cardinality of R^R, R^N, N^R, N^N, continuous functions from R to R, bijections from X to X
 
 -- quotes?
 The most annoying thing about an incorrect proof of a correct theorem is that it is very difficult to give a counterexample.
