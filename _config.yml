@@ -27,6 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Tutorials:
     - MA 105: "tuts/ma-105"
+    - MA 106: "tuts/ma-106"
   More:
     - Courses: "aboutme/courses"
     - Blog: "blog"
