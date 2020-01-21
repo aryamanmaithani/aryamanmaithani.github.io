@@ -11,6 +11,7 @@ image: /img/ma-106.png
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here](https://forms.gle/Q4kdU2MtUzQP94ac9) is where you can do that. You may also ask questions here.   
+[Here](/tuts/ma-106/responses) are my responses to some of your responses.
 
 ## Contact
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
