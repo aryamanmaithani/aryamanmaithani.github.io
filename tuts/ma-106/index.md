@@ -6,7 +6,7 @@ image: /img/ma-106.png
 ---
 
 # Tutorial Hints
-### [Week 1](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-1.pdf)
+### [Week 1](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-2.pdf)
 
 Note that unlike last semester, I am not uploading complete solutions. The hints given should give you enough push to fill in the remaining details yourself.  
 If you still have a doubt, feel free to contact me.
