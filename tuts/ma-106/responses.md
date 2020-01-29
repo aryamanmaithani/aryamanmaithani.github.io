@@ -4,6 +4,15 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "can you please upload ma106 tut solutions including the extra questions it would be really helpful"  
+> \- ~  
+> 28/01/2020, 21:40
+
+I can but I won't. We have been told to not give solutions. I do upload hints for the tutorial questions, though.
+I will not do that for extra questions as it'll be too time consuming for me as well. Plus, you should attempt them yourself and ask your TA (or mail me) if you have doubts.
+
+---
+
 > "Hey, can you post a document on introduction to infinite vector spaces at some point?"  
 > \- Axiom of Choice  
 > 28/01/2020, 11:57
