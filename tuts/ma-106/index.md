@@ -7,7 +7,7 @@ image: /img/ma-106.png
 
 
 > "If there's one thing that MA 106 has taught is that at the end, all ranks are equal."   
-> \- Saksham Gupta
+> \- [Saksham Gupta](/tuts/ma-106/saksham-gupta.jpg)
 
 # Tutorial Hints
 ### [Week 1](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-3.pdf)
@@ -27,4 +27,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 07-02-2020 00:33
+###### 07-02-2020 02:02
