@@ -10,54 +10,42 @@ image: /img/notes.jpg
   </a>
 </div>
 
+<article class="post-preview">
+  <a href = "https://aryamanmaithani.github.io/notes/cs-213/">
+    <h2 class = "post-title">CS 213</h2>
+    <h3 class="=post-subtitle">Data Structures and Algorithms</h3>
+  </a>
+  <p class = "post-meta">
+    Spring 2020
+  </p>
+</article>
 
-<div class="posts-list">
-    {% for post in site.posts %}
-      {% if post.blog-category contains 'notes' %}
-      <article class="post-preview">
-      <a href="{{ post.repo-link }}">
-  	  <h2 class="post-title">{{ post.title }}</h2>
+<article class="post-preview">
+  <a href = "https://aryamanmaithani.github.io/cs-228/">
+    <h2 class = "post-title">CS 228</h2>
+    <h3 class="=post-subtitle">Logic for CS</h3>
+  </a>
+  <p class = "post-meta">
+    Autumn 2019
+  </p>
+</article>
 
-  	  {% if post.subtitle %}
-  	  <h3 class="post-subtitle">
-  	    {{ post.subtitle }}
-  	  </h3>
-  	  {% endif %}
-      </a>
+<article class="post-preview">
+  <a href = "https://aryamanmaithani.github.io/ma-419/">
+    <h2 class = "post-title">MA 419</h2>
+    <h3 class="=post-subtitle">Basic Algebra</h3>
+  </a>
+  <p class = "post-meta">
+    Autumn 2019
+  </p>
+</article>
 
-      <p class="post-meta">
-        {{ post.semester }}
-      </p>
-
-      {% if post.tags.size > 0 %}
-      <div class="blog-tags">
-        Tags:
-        {% if site.link-tags %}
-        {% for tag in post.tags %}
-        <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-        {% endfor %}
-        {% else %}
-          {{ post.tags | join: ", " }}
-        {% endif %}
-      </div>
-      {% endif %}
-
-     </article>
-    {% endif %}
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Notes</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Notes &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<article class="post-preview">
+  <a href = "https://aryamanmaithani.github.io/ma-107/">
+    <h2 class = "post-title">MA 107</h2>
+    <h3 class="=post-subtitle">An Introduction to Mathematical Concepts</h3>
+  </a>
+  <p class = "post-meta">
+    Spring 2019
+  </p>
+</article>
