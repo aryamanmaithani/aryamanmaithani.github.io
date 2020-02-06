@@ -229,3 +229,6 @@ We should be able to define a class in C++. Not as professional as SQL classes m
 → Don't copy. You won't be able to get away.  
 → We'll get caught in the end. People got screwed in ICPC for plagiarism.  
 → Prof: "I care only about your effort, not clean code."
+
+##### [Prev](/notes/cs-213/lec05) | [Next](/notes/cs-213/lec07)
+#### [CS 213](/notes/cs-213)

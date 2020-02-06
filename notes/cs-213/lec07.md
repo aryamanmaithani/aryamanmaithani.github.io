@@ -135,3 +135,6 @@ We also want to overload `<<` to print lists directly.
 Thus, we want to make a good definition in `class list{};` so that we can use all these operations.
 
 `insert` is $$O(1)$$. (Refer the code of list given by professor.)
+
+##### [Prev](/notes/cs-213/lec06) | [Next](/notes/cs-213/lec08)
+#### [CS 213](/notes/cs-213)

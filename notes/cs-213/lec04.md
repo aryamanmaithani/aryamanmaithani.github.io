@@ -51,3 +51,6 @@ Then find the next by looking at $$x^3$$
 Programming part - find the coefficients of $$P_1$$, $$P_2$$  
 Need a method to do that without knowing the roots.  
 > Hint: Consider $$P(x)P(-x)$$
+
+##### [Prev](/notes/cs-213/lec03) | [Next](/notes/cs-213/lec05)
+#### [CS 213](/notes/cs-213)

@@ -90,3 +90,6 @@ In class, we'll look at one algorithm of complexity $$O(n^3)$$.
 * Newton Raphsson
 * Interval half
 * Graephe's Root square -> Gives all n roots (approx, of course) simultaneously
+
+##### [Next](/notes/cs-213/lec04)
+#### [CS 213](/notes/cs-213)

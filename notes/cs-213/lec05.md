@@ -68,3 +68,6 @@ Then, $$T(n) = aT(n/b) + g(n).$$
 $$T(n) = a(aT(n/b^2) + g(n/b)) + g(n) = a^2T(n/b^2) + a g(n/b) + g(n) = ...$$  
 
 If $$g(n)$$ is polynomial, say $$n^d$$, then we know the complexity $$T(n)$$ as a function of $$n$$. (Master's Theorem)
+
+##### [Prev](/notes/cs-213/lec04) | [Next](/notes/cs-213/lec06)
+#### [CS 213](/notes/cs-213)
