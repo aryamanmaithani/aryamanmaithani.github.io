@@ -4,6 +4,28 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+
+> "If we are able to understand lecture slides, would you still recommend reading Gilbert Strang/ solving problems from it? "  
+> \- x  
+> 02/02/2020, 18:49
+
+Well, this depends mainly on what the purpose of asking this question.  
+If you want to know from the point of view of exams/grades, then I guess it's fine even if you don't read anything extra.  
+If it's from the perspective of learning more, then well, it never hurts.
+
+---
+
+> "I am a bit confused about the properties of the rank of matrices, particularly those where we take the product of two matrices. It would of great help if you list some properties with a little explanation"  
+> \- Charlie Harper  
+> 02/02/2020, 16:16
+
+I'm not very sure as to what your confusion is.  
+Tutorial 3 question 4 does address the relation between ranks of matrices and their product.  
+Moreover, using question 1 you can recover also get more information.  
+If there's something more particular that you want, you may drop another comment. Meanwhile, if I can think of something useful to post, I shall do so.
+
+---
+
 > "can you please upload ma106 tut solutions including the extra questions it would be really helpful"  
 > \- ~  
 > 28/01/2020, 21:40
