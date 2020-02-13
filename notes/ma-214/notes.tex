@@ -217,4 +217,84 @@ Also, I've modified some things compared to the lecture slides wherever I felt i
 	(Look at slide 25 of Lecture 7 for an example.)\\~\\
 	\emph{Remark.} It can be shown that $I = T_N + c_2h^2 + c_4h^4 + \cdots.$ This is why we used the special case formula of \ref{sec:inter}. \ref{rich}.
 \end{enumerate}
+
+\section{Numerical Differentiation}
+\begin{enumerate} 
+	\itemsep1em
+	\item \[f'(a) \approx \frac{f(a + h) - f(a)}{h}\]
+	\[E(f) = -\frac{1}{2}hf''(\eta) \quad \text{ for some }\eta\in[a, a+h].\]
+	\item \textbf{Central Difference Formula}\\
+	\[f'(a) \approx \frac{f(a + h) - f(a-h)}{2h}\]
+	\[E(f) = -\frac{1}{6}h^3f^{(3)}(\eta) \quad \text{ for some }\eta\in[a-h, a+h].\]
+	Note that this is an $O(h^2)$ approximation. Thus, we can use the special case of \S\ref{sec:inter}. \ref{rich}. for better accuracy.
+	\item \[f'(a) \approx \frac{-3f(a) + 4f(a + h) - f(a + 2h)}{2h}\]
+	\[E(f) = \frac{1}{3}h^3f^{(3)}(\eta) \quad \text{ for some }\eta\in[a, a+2h].\]\\
+	\\
+	Formula 2 is always the better one whenever applicable. At end points, formula 3 is better than formula 1.
+	\item \textbf{Central difference for second derivative}\\
+	\[f''(x_0) = \frac{f(x_0 + h) - 2f(x_0) + f(x_0 - h)}{h^2} - \frac{h^2}{12}f^{(4)}(\xi),\]
+	for some $\xi \in (x_0 - h, x_0 + h).$
+	%
+	\item \textbf{Solving boundary-value problems in ODE}\\
+	Suppose that we want to solve the following (linear) ODE:
+	\[y''(x) + f(x)y'(x) + g(x)y = q(x)\]
+	in the interval $[a, b]$ such that we know $y(a) = \alpha,$ and $y(b) = \beta.$ \\~\\
+	Set $h := \frac{b - a}{N}$ for some $N \in \mathbb{N}$ and $x_0 = a + ih$ for $h \in \{0, 1, \ldots, N\}.$\\
+	Using central difference approximation, we set up $N-1$ linear equations as follows:
+	\[\frac{y_{i-1} - 2y_0 + y_i}{h^2} + f(x_i)\frac{y_{i+1} - y_{i-1}}{2h} + g(x_i)(y_i) = q(x_i)\]
+	\[i = 1, 2, \ldots, N-1\]
+	The above equations can be rearranged as:
+	\[\left(1 - \frac{hf_i}{2}\right)y_{i-1} + (-2 + h^2g_i)y_i + \left(1 + \frac{hf_i}{2}\right)y_{i+1} = h^2q_i,\]
+	for $i = 1, \ldots, N-1;$ where $f_i = f(x_i)$ and so on.\\
+\end{enumerate}
+
+\section{Solution of non-linear equations}
+Let $f$ be a continuous function on $[a_0, b_0]$ such that $f(a_0)f(b_0) < 0$ in all these cases. We want to find a root of $f$ in $[a_0, b_0].$ (Existence in implied.)
+\begin{enumerate} 
+	\itemsep1em
+	\item \textbf{Bisection Method}\\
+	Set $n = 0$ to start with.\\
+	Loop over the following:\\
+	Set $m = \frac{a_n + b_n}{2}.$\\
+	If $f(a_n)f(m) < 0,$ then set $a_{n+1} = a_n$ and $b_{n+1} = m.$\\
+	Else, set $a_{n+1} = m$ and $b_{n+1} = b_n.$\\
+	Increase $n$ by one.\\
+	We still have a root in $[a_n, b_n].$
+	%
+	\item \textbf{Regula-falsi or false-position method}\\
+	Set $n = 0$ to start with.\\
+	Loop over the following:\\
+	Set $w = \frac{f(b_n)a_n - f(a_n)b_n}{f(b_n) - f(a_n)}.$\\
+	If $f(a_n)f(w) < 0,$ then set $a_{n+1} = a_n$ and $b_{n+1} = w.$\\
+	Else, set $a_{n+1} = w$ and $b_{n+1} = b_n.$\\
+	Increase $n$ by one.\\
+	We still have a root in $[a_n, b_n].$
+	%
+	\item \textbf{Modified regula-falsi}\\
+	Set $n = 0$ and $w_0 = a_0$ to start with.\\
+	Loop over the following:\\
+	Set $F = f(a_n)$ and $G = f(b_n).$\\
+	Set $w_{n+1} = \dfrac{Ga_n -Fb_n}{G - F}.$\\
+	If $f(a_n)f(w_{n+1}) \le 0,$ then set $a_{n+1} = a_n$ and $b_{n+1} = w_{n+1}$ and $G =f(w_{n+1}).$\\
+	Furthermore, if we also have $f(w_{n})f(w_{n+1}) > 0,$ set $F = \frac{F}{2}.$\\
+	Else, set $a_{n+1} = w_{n+1}$ and $b_{n+1} = b_n$ and $F = f(w_{n+1}).$\\
+	Furthermore, if we also have $f(w_{n})f(w_{n+1}) > 0,$ set $G = \frac{G}{2}.$\\
+	Increase $n$ by one.\\
+	We still have a root in $[a_n, b_n].$	
+	%
+	\item \textbf{Secant method}\\
+	Set $x_0 = a,$ $x_1 = b$ and until satisfied, keep computing $x_n$ given by
+	\[x_{n+1} = \frac{f(x_n)x_{n-1} - f(x_{n-1})x_n}{f(x_n) - f(x_{n-1})} \qquad \text{ for } n \ge 1.\]
+	\emph{Remark.} This process will be forced to stop if we arrive at $f(x_n) = f(x_{n-1})$ at some point.
+\end{enumerate}
+
+\section{Iterative methods}
+\begin{enumerate} 
+	\itemsep1em
+	\item You are given a function $f$ which is continuously differentiable and you want to find its root. You are also given some $x_0.$\\
+	Compute the following sequence recursively until satisfied:
+	\[x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)} \qquad \text{ for } n \ge 0.\]
+\end{enumerate}
+
+
 \end{document}

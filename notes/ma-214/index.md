@@ -9,3 +9,10 @@ Due to this, the notes don't contain theory.
 Ergo, don't treat them as an alternative to the slides.  
 
 * [PDF](notes.pdf)
+
+I shall also post the solutions of the _theoretical_ tutorial questions.  
+* [Tutorial 1](tut-01.pdf): Questions 2 and 5
+* [Tutorial 2](tut-02.pdf): Questions 1 and 4
+* [Tutorial 3](tut-03.pdf): Questions 1 and 4
+
+If you have any corrections regarding the notes and/or tutorial solutions, kindly [mail me](mailto:aryamanmaithani@gmail.com) at aryamanmaithani@gmail.com.
