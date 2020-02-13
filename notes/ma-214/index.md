@@ -9,6 +9,7 @@ Due to this, the notes don't contain theory.
 Ergo, don't treat them as an alternative to the slides.  
 
 * [PDF](notes.pdf)
+Note that this is updated from time to time. Check the date of the PDF to see the last date of updation.
 
 I shall also post the solutions of the _theoretical_ tutorial questions.  
 * [Tutorial 1](tut-01.pdf): Questions 2 and 5
