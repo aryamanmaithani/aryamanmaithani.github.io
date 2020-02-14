@@ -60,7 +60,7 @@ The divide part is $$2T(n/2)$$.
 ---
 
 ## Fast multiplication of integers
-Let $$a$$ and $$b$$ be two $$2n$$$-bits integers, $$a = (a_{2n-1}, a_{2n-2}, ..., a_1, a_0)_2$$ and $$b = (b_{2n-1}, b_{2n-2}, ..., b_1, b_0)_2$$.  
+Let $$a$$ and $$b$$ be two $$2n$$-bits integers, $$a = (a_{2n-1}, a_{2n-2}, ..., a_1, a_0)_2$$ and $$b = (b_{2n-1}, b_{2n-2}, ..., b_1, b_0)_2$$.  
 
 $$A_1 := (a_{2n-1}, a_{2n-2}, ..., a_n)_{2}$$  
 $$A_2 := (a_{n-1}, a_{n-2}, ..., a_0)_{2}$$  
@@ -108,7 +108,7 @@ $$
 Thus, we have reduced (divided) the multiplication problem into multiplication of smaller submatrices.
 #### Complexity
 
-$$T(n) = T(n/2) + O(n^2)$$ 
+$$T(n) = T(n/2) + O(n^2)$$  
 $$O(n^2)$$ is for additions.  
 
 ---
@@ -164,9 +164,9 @@ Note that $$a^k = a^{\log_b n}$$ and thus,
 $$f(n) = af(n/b) + cn$$  
 $$f(n) = a^kf(1) + cn\left(1 + \left(\frac{a}{b}\right) + \cdots + \left(\frac{a}{b}\right)^{k-1} \right)$$
 
-Let us take the case that a = b = 2.
+Let us take the case that a = b = 2.  
 $$f(n) = c_12^k + c_2kn \sim c_1'n + c_2kn$$  
-Both the terms have an n term. k will dominate the whole thing giving
+Both the terms have an $$n$$ term. $$kn$$ will dominate the whole thing giving
 > $$f(n) = O(n \log n).$$
 
 ## Master Theorem
