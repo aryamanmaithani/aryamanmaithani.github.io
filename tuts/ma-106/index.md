@@ -11,7 +11,8 @@ image: /img/ma-106.png
 
 # Tutorial Hints
 ### [Week 1](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-3.pdf)
-### [Week 4](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-5.pdf)
+### [Week 4](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-5.pdf)  
+### [Practice problems of Week 3](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/tut-3-extra.pdf)
 
 All the best for the exam!  
 
