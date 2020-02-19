@@ -5,6 +5,20 @@ subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
 
+> "Firstly, thanks for all your help with MA105. I've never personally(or anonymously) asked you a question before, but your doubt clearing on the Whatsapp groups and the tut solutions saved my ass and got me a good grade.  
+>  
+>I am once again asking for your academic support.  
+>  
+>Please, upload the solutions of the practice problems of just tut sheet 3; nothing more, nothing less. The proofs are either too trivial-seeming or too difficult for me (and my friends) to prove."  
+> \- Bernie  
+> 16/02/2020, 21:19
+
+Hello, Bernie. I'm happy to know that I could (indirectly) help you out during MA 105.  
+Either you haven't seen this page or you've chosen to ignore the other response where I said that I won't upload solutions/hints of the practice problems.  
+However, I really enjoyed reading your response. So, [here](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/tut-3-extra.pdf) you go.  
+
+---
+
 > "If we are able to understand lecture slides, would you still recommend reading Gilbert Strang/ solving problems from it? "  
 > \- x  
 > 02/02/2020, 18:49
