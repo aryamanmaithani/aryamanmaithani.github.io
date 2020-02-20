@@ -4,10 +4,24 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "Does the set containing all sets contain itself?"  
+> \- Bertie
+
+begone, Russell.  
+_Does the set of all sets not containing themselves, contain itself?_  
+
+---
+> "gud😌"  
+> \- -------- 12 Grader
+
+thancc.
+
+---
+
 > "\*thancc  
 > P.S THIS WEBPAGE WAS AMAZING AND THANKS FOR DOING ALL THIS AND YOURE WONDERFUL.  
 > P.P.S look at all that high effort."  
-> \- Artemis
+> \- admin
 
 oof, thancccccccc.  
 P.S. thancc.  
