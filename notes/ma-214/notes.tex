@@ -28,7 +28,8 @@
 
 \title{MA 214: Numerical Analysis Notes}
 \author{Aryaman Maithani}
-\date{\today}
+\date{\today\\
+Until: Lecture 12}
 
 \begin{document}
 \maketitle
@@ -37,7 +38,8 @@
 \end{center}
 This is just a collection of formulae/algorithms compiled together.\\
 In the case of algorithms, I explain the procedure concisely. However, do not take this as a substitute for lecture slides as I don't go into the theory at all.\\
-Also, I've modified some things compared to the lecture slides wherever I felt it was an error. So, be warned.
+Also, I've modified some things compared to the lecture slides wherever I felt it was an error. So, be warned.\\
+Sometimes, I also change the order in the notes compared to how it was taught in slides if I feel like that's more efficient.
 
 \hrulefill
 
@@ -358,9 +360,8 @@ Let $f$ be a continuous function on $[a_0, b_0]$ such that $f(a_0)f(b_0) < 0$ in
 \end{theorem}
 
 \section{Solving systems of linear equations}
-\begin{enumerate} 
-	\itemsep1em
-	\item \textbf{LU Factorisation}\\
+\subsection{LU Factorisation}
+
 	We want solve $Ax = b$ where $A$ is some known $n\times n$ matrix, $b$ a known $n\times1$ matrix and $x$ is unknown.\\
 	\emph{Assumption}: $Ax = b$ can be solved without any row interchange.\\
 	We define (finite) sequences of matrices $A^{(n)} = [a^{(n)}_{ij}]$ and $b^{(n)}.$ \\
@@ -389,7 +390,6 @@ Let $f$ be a continuous function on $[a_0, b_0]$ such that $f(a_0)f(b_0) < 0$ in
 		\vdots & \vdots & \vdots & \vdots & \ddots & \vdots\\
 		0 & 0 & \cdots & -m_{n, k} & \cdots & 1\\
 	\end{bmatrix},\]
-\end{enumerate}
 along with
 \[A^{(k+1)} = M^{(k)}A^{(k)} = M^{(k)}\cdots M^{(1)}A, \text{ and}\]
 \[b^{(k+1)} = M^{(k)}b^{(k)} = M^{(k)}\cdots M^{(1)}b.\]
@@ -406,5 +406,53 @@ Then, we have
 \end{bmatrix}.\] 
 Thus, we have $A = LU.$ Now, set $y = Ux.$ We solve $Ly = b$ for $y.$ This is easy because $L$ is lower triangular.\\
 Then, we solve $Ux = y$ for $x.$\\~\\
-Check slide 27 of Lecture 11 for example.
+Check slide 27 of Lecture 11 for example.\\~\\
+LU factorisation requires $\theta(n^3/3)$ multiplication and division and $\theta(n^3/3)$ addition and subtraction. However, once the factorisation is done, it can be used again and again to solve $Ax = b$ for different values of $b.$ The number of equations then taken to solve $Ax = b$ is $\theta(2n^2).$
+
+\subsection{LPU Factorisation}
+In the previous case, we assumed that we aren't doing any row operations on $A$ when doing the Gauss elimination. Now, we relax that condition.\\
+Suppose, if possible, we have done some row exchanges while doing Gauss elimination on $A.$ Construct the matrix $P$ which is obtained upon doing those exact row exchanges on $I.$ (Only the row exchanges.)\\
+Suppose that the the final product of doing the Gauss elimination following the previous procedure gave us the upper triangular matrix as $U$ and lower one as $L.$\\
+Then, that means $PA = LU.$ Thus, solving $Ax = b$ can first be reduced to $PAx = Pb = b'.$ Now, converting $PA$ to $LU$ does not take any row exchange, so we're back in business. (Back to the previous case, that is.)\\
+Check slide 15 of Lecture 12 for example.
+
+\subsection{Cholesky's Algorithm}
+\begin{defn} 
+	A matrix $A$ is positive definite if:
+	\begin{enumerate} 
+		\item $A = A^t,$ and
+		\item $x^tAx > 0$ for all $x \neq 0.$
+	\end{enumerate}
+\end{defn}
+Given any positive definite matrix $A,$ we can write $A = LL^t,$ where $L$ is lower triangular. (And thus, $L^T$ would be upper triangular.)\\
+The algorithm to do so is as follows:\\
+Let $L = (l_{ij}).$ We now construct these entries.\\~\\
+\texttt{
+	set $l_{ii} := \sqrt{a_{11}}.$\\
+	for $j = 2, 3, \ldots, n:$ \\
+	\phantom{123456} set $l_{j1} := \frac{a_{j1}}{l_{11}}.$\\
+	for $i = 2, 3, \ldots, n - 1:$\\~\\
+	\phantom{123456} set $l_{ii} := \sqrt{\displaystyle a_{ii} - \sum_{k=1}^{i-1}l_{ik}^2}$\\~\\
+	\phantom{123456} for $j = i+1, \ldots, n:$ \\
+	\phantom{123456}\phantom{123456}set $l_{ji} := \displaystyle a_{ji} - \frac{\displaystyle\sum_{k=1}^{i-1}l_{jk}l_{ik}}{l_{ii}}.$\\~\\
+	set $l_{nn} := \sqrt{a_{nn} - \displaystyle\sum_{k=1}^{n-1}l_{nk}^2}.$
+}\\~\\
+Note that in the above, we've only defined $l_{ij}$ for when $i \ge j.$ The others are obviously $0.$\\~\\
+Cholevsky's algorithm requires $\theta(n^3/6)$ multiplication and division and $\theta(n^3/6)$ addition and subtraction.
+
+\subsection{Scaled partial pivoting}
+Suppose we want to solve $Ax = b.$ This could lead to round off errors (check slide 17 of Lecture 12). One possible way to combat this is to do the following:\\~\\
+First, define the scale factor $s_i$ of row $i$ as the maximum modulus of any element in the row. More precisely, $s_i := \displaystyle\max_{1 \le j \le n} |a_{ij}|.$\\
+(Note that we assume that $A$ is invertible and thus, every $s_i$ will be nonzero.)\\~\\
+Now, along the first column, we find the row which has the greatest ratio $\dfrac{|a_{k1}|}{s_k}.$ Suppose this is achieved for row $p,$ that is,
+\[\frac{|a_{p1}|}{s_p} = \max_{1 \le k \le n}\frac{|a_{k1}|}{s_k}.\]
+If $p \neq 1,$ then we perform $R_1 \leftrightarrow R_p.$\\
+(Now, when we refer to $s_p$, we will mean the scale factor of the new $p,$ that is, the original $s_1.$ Similarly, for $s_1.$)\\
+Now, we make everything below $a_{11}$ zero using the standard row operation.\\~\\
+Now, we repeat the same thing by going along column 2 and finding the row which has the greatest ratio $\dfrac{|a_{k2}|}{s_k}.$ If the row is not 2, then we perform the interchange and go on.\\~\\
+Two things I would like to point out:\\
+1. We never change the value of $s_i$ except the interchanging that we do. In particular, after doing the row operations like $R_2 - m_{21}R_1,$ I will \textbf{not} recalculate the value of $s_2.$\\
+2. When considering the ratios $\dfrac{|a_{ki}|}{s_k}$ for column $i,$ we will consider the $a_{ki}$ that is currently present. That is, in this case, we will consider the values that we get after performing all the operations that have been performed until that point.\\~\\
+Consider the example given in slide 22 of Lecture 12. After doing $R_1 \leftrightarrow R_3, R_2 - \frac{4.01}{1.09}R_1,$ and $R_3 - \frac{2.11}{1.09}R_1,$ we \emph{do not} recalculate $s_i.$ (We do exchange the values.)\\
+However, when considering the ratios, we consider the new matrix for taking $a_{k2}$ obtained after the above subtractions.
 \end{document}
