@@ -4,6 +4,33 @@ title: Responses
 subtitle: My responses to some of the anonymous feedback sent
 image:
 ---
+> "This is rather a very plain, basic message/question. It used to be more strategic approach to questions, now its more and more of understanding "stuff", which I am sort of failing at. But when I see your approach (and most of the students in my group) to questions, I don't think I can ever be so detailed at solving math, considering all the given conditions and stuff (specially, proving things), I sort of never know where to start from and even if I do, I never know how to continue. Does this mean, I've got to refer to books and practice (a lot :/) to develop my understanding in more of a *mathematical* way (because at this point, I'm just-- sort of clueless)? 
+> 
+> (P.S. It went too lengthy, sorry. XD)"  
+> \- [NAME REDACTED]  
+> 24/02/2020, 13:58
+
+Hey,  
+I guess it _is_ true that you'd have to put in efforts. One nice thing to do would be to find another person who's also interested and just run your proof/ideas past them and ask them to find flaws. Conversely, you do the same for them.  
+This will help in strengthening your thought process. A lot of problem that people face in "writing proofs" just comes from lack of logical reasoning from one step to the other. Mathematical arguments rely mainly on the definitions and axioms, that is, having some starting set of rules and seeing what you can logically deduce from those.  
+In the end, have fun!
+
+---
+
+> "how can we prove the cayley hamilton theorem for a general square matrix? I was able to prove it for diagonalizable matrix but can't generalize the result."  
+> \- [NAME REDACTED]  
+> 21/02/2020, 13:21
+
+I don't think the responses page is really a good place to get an answer for something like this as the proof does get a bit involved.  
+The idea is the following:  
+Suppose $$T: V \to V$$ is a linear transform. Let $$p_T(x)$$ denote its characteristic polynomial. We want to show that $$p_T(T)$$ is the zero function.  
+First prove this: Given any subspace $$W \subset V$$ such that $$T(W) \subset W$$, we have that the characteristic polynomial of $$T|_W$$ divides $$p_T(x)$$.  
+Then, you show that given any $$v \in V$$, the space $$W = \operatorname{span}\{v, T(v), T^2(v), \ldots\}$$ has the property that $$T(W) \subset W$$. ($$T^2(v) = T(T(v))$$ and so on.)  
+
+Conclude that $$p_T(T)v = 0$$. As this will be true for all $$v \in V$$, you get that $$p_T(T)$$ is the zero operator.
+
+---
+
 
 > "Firstly, thanks for all your help with MA105. I've never personally(or anonymously) asked you a question before, but your doubt clearing on the Whatsapp groups and the tut solutions saved my ass and got me a good grade.  
 >  
