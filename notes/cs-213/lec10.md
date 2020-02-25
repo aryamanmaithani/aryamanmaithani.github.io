@@ -23,7 +23,7 @@ There's only one ternary operator. (Trivia fact.)
 How do we interpret:  
 `x + y * z % 9 <= y && y <= 5 || x == 10`  
 We put the number of the operators from the table and evaluate from left to right. If the one of the right is greater, then we do the right operator first.  
-[Pic](notes/cs-213/exp-eval.png)  
+[Pic](/notes/cs-213/exp-eval.png)  
 Suppose `y = 9`, `z = 3`, `x = 6`.  
 Refer to the picture and see that this will be evaluated as follows:  
 ```C++
@@ -40,7 +40,7 @@ false
 
 Note that if we had just put brackets, then we clearly could've done it. Point is how we interpret in the absence of brackets.  
 We can represent this using a tree.  
-[Pic](notes/cs-213/exp-tree.png)
+[Pic](/notes/cs-213/exp-tree.png)
 
 Note that to compute any node, we must compute its children. This forces the expression to be evaluated in the way it should be, according to the table.  
   
