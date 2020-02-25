@@ -91,9 +91,11 @@ incoming_op = 0;
 while(string s){
     if s is an operand: print s
     if s is an operator:
+        incoming_op = s
         while(precedence(incoming_op) <= precedence(top_of_stack_op)){
-            print(pop());       // removes the operator as well
+            print(pop())       // removes the operator as well
         }
+        push(incoming_op)
 }
 ```
 
@@ -102,7 +104,7 @@ Thus, given any implementation of stack, we can print out postfix.
 #### Evaluating postfix
 First question → given an expression, is it a valid postfix expression to begin with?  
 This is also done using stack.  
-As long as we're reading operands, keep putting them in stack. If you reach an operator, pop the last two values of the stack and put `operand-1 operator operator-2` instead. (Example, replace `a` and `b` with `a+b`.)  
+As long as we're reading operands, keep putting them in stack. If you reach an operator, pop the last two values of the stack and put `operand-1 operator operator-2` instead. (Example, replace `a` and `b` with `a+b` in case you read a `+` and the last two elements of the stack were `b` and `a`.)  
 
 ## Words from Samad
 He's gonna discuss the assignments and tell the common errors.  
