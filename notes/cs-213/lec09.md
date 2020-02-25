@@ -105,7 +105,7 @@ This takes $$1 + 2 + \cdots + n = \frac{1}{2}n(n+1) = O(n^2)$$ time.
 Look at the table and tell professor in the next class whether you agree with all the complexities for the operations or whether you have anything better.
 
 #### Questions on polynomials
-1. Come up with a function `isParse()` which gives yes/no. That is, come up with a definition to classify polynomials as sparse or not. $$\simO(\sqrt{n})$$
+1. Come up with a function `isParse()` which gives yes/no. That is, come up with a definition to classify polynomials as sparse or not. $$\sim O(\sqrt{n}).$$ (Not saying that the time complexity of `isParse()` is $$(O(\sqrt{n}))$$. The number of nonzero coefficients should be around $$\sqrt{n}$$.)
 2. `display()` → ascending/descending
 3. evaluate it at a point
 4. polynomial multiplication → polynomials of max degree $$m$$ and $$n$$. How much time? (Worst case, ofc.)
@@ -115,5 +115,9 @@ Don't write code. Better questions → can my data type do these things? If not,
 Answer the same stuff for matrices with their basic operations. Things like trace, positive definite, et cetera.
 
 Another question with sparsity → how much does the sparsity change after doing some operation? Does it still remain sparse?
+
+### Acknowledgment
+Thanks to Andrews Varghese for pointing out a sentence that was originally phrased ambiguously.
+
 ##### [Prev](/notes/cs-213/lec08) | [Next](/notes/cs-213/lec10)
 #### [CS 213](/notes/cs-213)
