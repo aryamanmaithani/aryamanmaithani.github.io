@@ -71,7 +71,7 @@ If you have any operator, start stacking it up.
 If the newer operator being added is less (in precedence) in priority than the last operator sitting on top, eject the topmost operator and put it in the line. In fact, continue throwing out the operators on top until the operator left is smaller.  
 Once the expression is all done. Throw out the operations to the line.  
 
-This stack structure is called FIFO - first in first out.  
+This stack structure is called LIFO - last in first out.  
 #### Stack organisation
 * Collection of values
 * operations
@@ -143,6 +143,8 @@ However top-down is far easier to implement. The same way we do it in merge sort
 In fact, this _is_ merge sort. It's just the "fundamental unit" of merging is different. However, the difference is that when we merge two integers, is just $$O(1)$$. (Just one comparison.)  
 On the other had, merging two arrays itself is $$O(n)$$.  
 
+### Acknowledgment
+Thanks to Andrews Varghese and Rohan Gupta for pointing out errors that had originally crept in.
 
 ##### [Prev](/notes/cs-213/lec09) | [Next](/notes/cs-213/lec11)
 #### [CS 213](/notes/cs-213)
