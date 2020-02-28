@@ -124,7 +124,10 @@ Sometimes, I also change the order in the notes compared to how it was taught in
 	\[M = N_1(h) + k_2h^2 + k_4h^4 + \cdots.\]
 	In this case, we define:
 	\[N_j(h) := N_{j-1}(h/2) + \frac{N_{j-1}(h/2) - N_{j-1}(h)}{4^{j-1} - 1} \quad \text{ for } j \ge 2.\]
-	Then, we do the remaining stuff as before.
+	Then, we do the remaining stuff as before.\\
+	We define 
+	\[R_h^k := \frac{N_k(h) - N_k(2h)}{N_k(h/2) - N_k(h)}.\]
+	The closer that $R_h^k$ is to $4^k,$ the better is the approximation.
 \end{enumerate}
 
 \section{Numerical Integration}
@@ -228,9 +231,6 @@ Sometimes, I also change the order in the notes compared to how it was taught in
 		\]
 	$T^3_8$ will be a good approximation, then.\\
 	(Look at slide 25 of Lecture 7 for an example.)\\~\\
-	We define 
-	\[R_h^k := \frac{N_k(h) - N_k(2h)}{N_k(h/2) - N_k(h)}.\]
-	The closer that $R_h^k$ is to $4^k,$ the better is the approximation.\\~\\
 	\emph{Remark.} It can be shown that $I = T_N + c_2h^2 + c_4h^4 + \cdots.$ This is why we used the special case formula of \ref{sec:inter}. \ref{rich}.
 \end{enumerate}
 
