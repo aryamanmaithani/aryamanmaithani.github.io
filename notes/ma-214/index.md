@@ -17,4 +17,5 @@ I shall also post the solutions of the _theoretical_ tutorial questions.
 * [Tutorial 3](tut-03.pdf): Questions 1 and 4
 
 If you have any corrections regarding the notes and/or tutorial solutions, kindly [mail me](mailto:aryamanmaithani@gmail.com) at aryamanmaithani@gmail.com.  
-Alternately, you may drop a message anonymously [here](https://forms.gle/dYNWHtemQB2yURvX7).
+Alternately, you may drop a message anonymously [here](https://forms.gle/dYNWHtemQB2yURvX7).  
+To those who are using the above form to demand solutions of all tutorial questions - I shall not be doing that. The reason is simple: they are direct questions for which you already have solved examples in slides.
