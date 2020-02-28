@@ -252,7 +252,7 @@ Sometimes, I also change the order in the notes compared to how it was taught in
 	Suppose that we want to solve the following (linear) ODE:
 	\[y''(x) + f(x)y'(x) + g(x)y = q(x)\]
 	in the interval $[a, b]$ such that we know $y(a) = \alpha,$ and $y(b) = \beta.$ \\~\\
-	Set $h := \frac{b - a}{N}$ for some $N \in \mathbb{N}$ and $x_0 = a + ih$ for $h \in \{0, 1, \ldots, N\}.$\\
+	Set $h := \frac{b - a}{N}$ for some $N \in \mathbb{N}$ and $x_i = a + ih$ for $h \in \{0, 1, \ldots, N\}.$\\
 	Using central difference approximation, we set up $N-1$ linear equations as follows:
 	\[\frac{y_{i-1} - 2y_0 + y_i}{h^2} + f(x_i)\frac{y_{i+1} - y_{i-1}}{2h} + g(x_i)(y_i) = q(x_i)\]
 	\[i = 1, 2, \ldots, N-1\]
