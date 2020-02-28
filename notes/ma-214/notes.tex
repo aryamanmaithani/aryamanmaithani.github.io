@@ -9,6 +9,7 @@
 \newtheorem{theorem}{Theorem}
 \newtheorem{lem}{Lemma}
 \newtheorem{defn}{Definition}
+\usepackage{hyperref}
 
 \setlength\parindent{0pt}
 
@@ -202,7 +203,7 @@ Sometimes, I also change the order in the notes compared to how it was taught in
 	\[I \approx P = \sum_{i=1}^{n}\overline{S_i}.\]
 	%
 	\item \textbf{Romberg Integration}\\
-	Essentially the baby of composite Trapezoidal rule and Romberg integration.\\
+	Essentially the baby of composite Trapezoidal rule and Richardson extrapolation.\\
 	Suppose we want to calculate $\displaystyle\int_{a}^{b} f(x) \text{d}x.$\\
 	Let $N$ be a power of $2$.\\
 	$T_N := \dfrac{h}{2}\left[f(x_0) + 2\displaystyle\sum_{i=1}^{N-1}f(a + ih) + f(x_N)\right],$ where $Nh = b-a.$\\~\\
