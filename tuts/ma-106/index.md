@@ -4,7 +4,7 @@ title: MA 106
 subtitle: Resources related to MA 106 (Linear Algebra) Tutorials will be posted here
 image: /img/ma-106.png
 ---
-
+This is the webpage I maintained during the time that I was a TA for MA 106 in the Spring (first half) semester of 2020.  
 
 > "If there's one thing that MA 106 has taught is that at the end, all ranks are equal."   
 > \- [Saksham Gupta](/tuts/ma-106/saksham-gupta.jpg)
@@ -14,7 +14,7 @@ image: /img/ma-106.png
 ### [Week 4](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-5.pdf)  
 ### [Practice problems of Week 3](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/tut-3-extra.pdf)
 
-All the best for the exam!  
+The tutorial sheets can be found [here](https://github.com/aryamanmaithani/ma-106-tut/tree/master/Tutorial%20Sheets).  
 
 Note that unlike last semester, I am not uploading complete solutions. The hints given should give you enough push to fill in the remaining details yourself.  
 If you still have a doubt, feel free to contact me.
