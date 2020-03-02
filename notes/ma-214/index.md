@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MA 214
-subtitle: Notes
+subtitle: Numerical Analysis
 image:
 ---
 I had starting making this PDF as a compilation of formulae/algorithms for quick access as compared to going through the slides.  
