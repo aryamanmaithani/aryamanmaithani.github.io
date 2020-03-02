@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HS 101
-subtitle: Notes
+subtitle: Economics
 image:
 ---
 Links to the notes I've made:
