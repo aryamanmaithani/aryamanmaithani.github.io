@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CS 213
-subtitle: Links to the notes I've made
+subtitle: Data Structures and Algorithms
 image:
 ---
 These are a collection of notes that I'm typing during the classes.  
