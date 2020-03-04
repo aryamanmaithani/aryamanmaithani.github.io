@@ -4,7 +4,8 @@ title: HS 101
 subtitle: Microeconomics
 image:
 ---
-##Lecture 1
+
+## Lecture 1
 * Scarcity: means that society has limited resources and therefore cannot produce all the goods and services people wish to have.
 * Economics is the study of how society manages its scarce resources.  
 * Efficiency means society gets the most that it can from its scarce resources.
