@@ -17,6 +17,7 @@ I shall also post the solutions of the _theoretical_ tutorial questions.
 * [Tutorial 3](tut-03.pdf): Questions 1 and 4
 * [Tutorial 4](tut-04.pdf): Question 4
 * [Tutorial 5](tut-05.pdf): Question 4
+* [Tutorial 6](tut-06.pdf): All questions
 
 If you have any corrections regarding the notes and/or tutorial solutions, kindly [mail me](mailto:aryamanmaithani@gmail.com) at aryamanmaithani@gmail.com.  
 Alternately, you may drop a message anonymously [here](https://forms.gle/dYNWHtemQB2yURvX7).  
