@@ -16,4 +16,5 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 ### [Presentations](/presentations)
 ### [Reports](/reports)
 ### [Groups](/alg/groups)
+### [LaTeX](/latex)
 <!-- ### [Tutorials](/tuts) -->
