@@ -139,3 +139,41 @@ Next class: A bit of game theory.
     - Furniture making company: rapidly cut forests because they see that the demand is high
         + Air quality bad because of cutting
         + Neither the store nor the consumers take care of that
+
+## Lecture 3 (5th March 2020)
+* Recap: Countries don't continue their promises. Coordination is tough. Static (one-time game) or finite game → prisoner dilemma type scenario, impossible to maintain cooperation. (Even though cooperation would've been beneficial for everyone.)
+    - Only possible if you keep $$\beta$$ high enough. Care highly enough about future. Recall the overlapping generation model. "How much you consume in your lifetime and how much you leave for your children."
+        + Again depends on discount rate. How much do you care for your children/grandchildren?
+        + How much they care is a big factor.
+* "migation", "correlated equilibrium", "sunspot equilibrium" → technical terms, is there a role of a third party? In the previous case, we didn't take it into account.
+* "strategic delegation" → choose not to act yourself but delegate the power of acting to a third party. Can show that in certain cases, delegation actually improves the outcome (with different amount of skills, information), that is, a better outcome for everybody.
+    - In infinite case, and $$\beta$$ is sufficiently high, we don't need a third party to get a good equilibrium.
+
+* Recall: Adam Smith's "invisible hand". Just by the forces of supply and demand, we get equilibrium. No third party.
+    - However, not always true. Market failures can still happen and the invisible hand alone can't do it.
+* Externality: An uncompensated impact of one person's actions on the well-being of a bystander.
+    - invisible hand never talk about this.
+    - recall the examples of earlier (smoking, buying AC, et cetera)
+    - (negative) externalities cause markets to be inefficient and thus fail to maximise total surplus
+        + positive externalities could also exist (vaccination, buying a plant, medical research)
+    - When the impact on the bystander is adverse (beneficial), the externality is called a negative (positive) externality.
+    - Negative externality: leads to markets producing __larger__ quantity than is socially desirable.
+        + More things lead to more dissatisfaction of the third parties but the market forces don't take this into account.
+    - Example: The market for aluminum
+        + Quantity produced and consumed is efficient in the sense that it maximises surplus of producer and consumer.
+        + However, if it emits pollution, that is not taken into account and thus, society as a whole has a problem.
+    - Another example: Upstream/downstream firm
+        + A firm (called upstream) is having an impact on another (downstream) which is not taken into account.
+    - <Graph shows how supply-demand is off from the social cost-demand curve>
+* Internalising an externality: incorporate the externalities
+    - _Internalising an externality involved altering incentives so that people take account of the external effects of their actions._
+    - Government can really do two things: 
+        + tax
+        + subsidise
+    - Government can tax companies to recover the social costs. This shifts the supply curve upwards. → gives social optimum
+* Positive externality: analogous to the earlier case
+    - If there is a positive externality, you should be willing to pay more as it has more benefit. That is, the social demand curve should be higher than the true demand curve.
+        + (depending on the story, it could be that the supply goes lower)
+    - here, the government will encourage this by subsidising (internalising)
+* Positive externality from RnD → however, people can later steal my ideas :(
+    - Government encourages RnD by enforcing strong patent laws. Companies sufficiently assured.
