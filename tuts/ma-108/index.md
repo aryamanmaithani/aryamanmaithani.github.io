@@ -10,8 +10,9 @@ image: /img/ma-108.png
 The tutorials can be found [here](http://www.math.iitb.ac.in/~preeti/ma108-2019/root_2016.pdf).  
 
 
-<!-- # Additional Resources
-* [Extra questions](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Additional%20Resources/Extra%20questions.pdf) -->
+# Additional Resources
+<!-- * [Extra questions](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Additional%20Resources/Extra%20questions.pdf) -->
+* [Simply connected, closed and exact forms](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Additional%20resources/closed-exact-simply-connected.pdf), a recap of simply connected sets. Also, the connection between closed and exact forms.
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here](https://forms.gle/nif2qPuB7GfSbqxt5) is where you can do that. You may also ask questions here.   
@@ -21,4 +22,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 04-03-2020 15:31
+###### 07-03-2020 10:15
