@@ -11,7 +11,7 @@ Else, you might be interested in the following pages:
 * [MA 214](/notes/ma-214)
 * [CS 213](/notes/cs-213)
 * [HS 101](/notes/hs-101)
-* [HS 200](/notes/hs-200)
+* [HS 200](/notes/hs-200)  
 These are (some of the) courses that I am taking currently. For these, I've been making e-notes and uploading them regularly.
 
 You may also be interested in checking out [Student Seminar in Mathematics Department, IITB](https://student-seminar-math-iitb.github.io), an initiative of mine and [Som Phene](https://somphene.github.io)'s.
@@ -22,4 +22,5 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 ### [Reports](/reports)
 ### [Groups](/alg/groups)
 ### [LaTeX](/latex)
+### [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
 <!-- ### [Tutorials](/tuts) -->
