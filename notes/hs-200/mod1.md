@@ -177,3 +177,53 @@ Next class: A bit of game theory.
     - here, the government will encourage this by subsidising (internalising)
 * Positive externality from RnD → however, people can later steal my ideas :(
     - Government encourages RnD by enforcing strong patent laws. Companies sufficiently assured.
+
+## Lecture 4 (12th March 2020)
+* Recalling externalities: AC, smoking, et cetera
+* Public goods: apply free of charge. No supply-demand interaction.
+    - analysis of supply and demand won't work
+    - private enterprises can't ensure the production and consumption of goods in proper amount
+        + they don't care since no profit for them. Won't enter market.
+    - If you're willing to pay money for product (like clean air, air purifier), then private enterprises will be interested.
+    - But stuff like clean air is important. Thus, we need a non-profit-caring party like a government or NGO.
+* Excludability: property of a good whereby a person can be prevented from using it.
+    - example: private land, can prosecute someone for trespassing
+* Rivalry: property of a good whereby one person's use diminishes other people's use
+    - example: cake. If I eat cake, you can't (lol sad)
+* Four types of goods:
+    - Private goods: excludable and rival
+        + oil
+        + ice-cream cones
+        + clothing
+    - Public goods: neither excludable nor rival
+        + [fairly large] public parks (assuming not very congested)
+        + national defense
+    - Common resources: rival but not excludable 
+        + tree with fruits
+        + fish in ocean
+    - Natural monopolies: excludable but not rival 
+        + private parks
+        + telecom operators
+* Free-rider: person who receives the benefits of a public good but does not pay for it
+    - since people can't be excluded from enjoying the benefits of a public good, individuals may withhold paying for it hoping someone else will pay for it
+        + tax evasion. _Why should I pay taxes if I know that government will get money for national defense, etc. anyway. Not like they can stop me from using it._
+    - the free-rider problems prevents private markets from supplying market goods.
+        + people don't pay. Everyone wants to be a free rider. Since it's a non-excludable and non-profit product, no one wants to pay. __Coordination issue__ again.  
+        Could've been possible that even after paying, they would have net benefit. But they still won't pay.  
+        Somewhat similar to prisoner's dilemma. Not exactly because no (strictly) dominant strategy.
+* free-rider problem: who will free ride? Sequence of playing is important.
+    - first mover's advantage in some cases and second mover's advantage in some others.
+        + first mover's: Tic-Tac-Toe
+        + last mover's: two people open a restaurant. First guy makes his menu. The other makes the same menu but one rupee lesser.
+            * In this setup, everyone will wait for others to play first.
+            * the discount rate has to be kept in mind. Waiting for others to play stalls the project into the future. Cannot wait forever. I'll play anyway even if I have to forgo the last mover's advantage.
+            * Three people: L, M, N. They want a park but only two are required to pay. A person goes door to door asking people to contribute.  
+            L approached first. Then M, then N.  
+            Everyone has two choices: contribute (C) or not-contribute (NC). Two outcomes: park made (P) or not made (NP)
+                - Suppose here are the values:
+                  → NC, P: 4  
+                  → C, P: 3
+                  → NC, NP: 2
+                  → C, NP: 1
+                - Is there a first mover's advantage or last? Draw a game tree!
+                    + See the [pic](/notes/hs-200/movers-tree.png)
