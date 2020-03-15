@@ -5,7 +5,7 @@ subtitle: Collection of my presentations
 image: /img/notes.jpg
 ---
 <div class="posts-list">
-    {% for post in site.posts %}
+    {% for post in site.presentations %}
       {% if post.blog-category contains 'presentation' %}
       <article class="post-preview">
       <a href="{{ post.url | relative_url }}">
