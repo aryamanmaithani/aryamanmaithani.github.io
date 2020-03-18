@@ -23,4 +23,5 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 ### [Groups](/alg/groups)
 ### [LaTeX](/latex)
 ### [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
-<!-- ### [Tutorials](/tuts) -->
+### [Tutorials](/tuts)
+### [Anonymous Message](https://forms.gle/faFYkmjNnevF5nBK9)
