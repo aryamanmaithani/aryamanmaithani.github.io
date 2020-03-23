@@ -16,6 +16,7 @@ If you'ren't from my tutorial, don't get scared upon seeing this. This is just s
 # Additional Resources
 <!-- * [Extra questions](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Additional%20Resources/Extra%20questions.pdf) -->
 * [Simply connected, closed and exact forms](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Additional%20resources/closed-exact-simply-connected.pdf), a recap of simply connected sets. Also, the connection between closed and exact forms.
+* [Prof. G.K. Srinivasan's Notes](http://www.math.iitb.ac.in/~gopal/MA108/ma108_handwritten_notes_2008.pdf), notes that we followed when I was taught MA 108 by [Professor GKS](http://www.math.iitb.ac.in/~gopal/). Very nicely written, useful during this Corona break.
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here](https://forms.gle/nif2qPuB7GfSbqxt5) is where you can do that. You may also ask questions here.   
@@ -25,4 +26,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 18-03-2020 20:31
+###### 24-03-2020 00:12
