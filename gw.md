@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grounwdwork
+title: Groundwork
 subtitle: Convenership
 ---
 
