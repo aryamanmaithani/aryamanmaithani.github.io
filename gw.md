@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grounwdwork
-subtitle: Convernship
+subtitle: Convenership
 ---
 
 ## Duties and responsibilities
