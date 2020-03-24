@@ -3,6 +3,7 @@ layout: page
 title: Grounwdwork
 subtitle: Convernship
 ---
+
 ## Duties and responsibilities
 * Main stuff
     - SoS
