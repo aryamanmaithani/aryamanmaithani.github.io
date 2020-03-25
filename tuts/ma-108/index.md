@@ -6,7 +6,7 @@ image: /img/ma-108.png
 ---
 
 # Tutorial Hints 
-### [Week 1](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-2.pdf) |
+### [Week 1](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-3.pdf)
 The tutorials can be found [here](http://www.math.iitb.ac.in/~preeti/ma108-2019/root_2016.pdf). 
 
 # Assignments
@@ -27,4 +27,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 25-03-2020 17:48
+###### 25-03-2020 19:18
