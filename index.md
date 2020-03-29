@@ -12,7 +12,9 @@ Else, you might be interested in the following pages:
 * [CS 213](/notes/cs-213)
 * [HS 101](/notes/hs-101)
 * [HS 200](/notes/hs-200)  
-These are (some of the) courses that I am taking currently. For these, I've been making e-notes and uploading them regularly.
+These are (some of the) courses that I am taking currently. For these, I've been making e-notes and uploading them regularly (or well, was doing so until Corona).
+
+During this Corona "vacation", I'm making some [notes on Category Theory](/presentations/cat-theory). This is more or less to get myself to understand it better.
 
 You may also be interested in checking out [Student Seminar in Mathematics Department, IITB](https://student-seminar-math-iitb.github.io), an initiative of mine and [Som Phene](https://somphene.github.io)'s.
 
