@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Aryaman Maithani
-image: img/self.jpg
+image: img/about.jpg
 ---
 
 Hello! My name is Aryaman Maithani.  
@@ -16,3 +16,7 @@ These days, I'm a TA for the course MA 108, Ordinary Differential Equations.
 * [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)
 * [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)
 * [aryaman@math.iitb.ac.in](mailto:aryaman@math.iitb.ac.in)
+
+
+### Picture credits
+The picture displayed on this page was taken by Pari Vermani.
