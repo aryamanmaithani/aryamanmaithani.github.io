@@ -32,9 +32,11 @@
 ∨||shortcut:\vee
 ∨||shortcut:\or
 ∩||shortcut:\cap
+∩||shortcut:\intersection
 ∩||shortcut:`n
 ⊓||shortcut:\sqcap
 ∪||shortcut:\cup
+∪||shortcut:\union
 ∪||shortcut:`u
 ⊔||shortcut:\sqcup
 ∮||shortcut:\oint
