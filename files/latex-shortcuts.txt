@@ -166,5 +166,7 @@
 Ψ||shortcut:\Psi
 Ω||shortcut:\Omega
 ∫||shortcut:\int
+∫∫||shortcut:\iint
+∫∫∫||shortcut:\iiint
 ∫( ͡° ͜ʖ ͡°)dx||shortcut:len
 ∫( ͡° ͜ʖ ͡°)dⓧ||shortcut:lenx
