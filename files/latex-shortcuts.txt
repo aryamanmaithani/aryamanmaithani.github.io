@@ -15,7 +15,7 @@
 ∃||shortcut:`E
 ∄||shortcut:\not\exists
 ∄||shortcut:\nexists
-∄||shortcut:/E
+∄||shortcut:\E
 ∅||shortcut:\emptyset
 ∅||shortcut:`0
 ∇||shortcut:\grad
