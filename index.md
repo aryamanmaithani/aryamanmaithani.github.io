@@ -20,11 +20,17 @@ During this Corona "vacation", I'm making some [notes on Category Theory](/prese
 You may also be interested in checking out [Student Seminar in Mathematics Department, IITB](https://student-seminar-math-iitb.github.io), an initiative of mine and [Som Phene](https://somphene.github.io)'s.
 
 # Links
-### [Notes](/notes)
-### [Presentations](/presentations)
-### [Reports](/reports)
-### [Groups](/alg/groups)
-### [LaTeX](/latex)
-### [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
-### [Tutorials](/tuts)
-### [Anonymous Message](https://forms.gle/faFYkmjNnevF5nBK9)
+## Math
+* [Presentations](/presentations)
+* [Reports](/reports)
+* [Groups](/alg/groups)
+
+## Academic
+* [Notes](/notes)
+* [Tutorials](/tuts), pages I made while TA'ing for courses
+* [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
+
+## Miscellaneous
+* [LaTeX](/latex)
+* [Setting up math keyboard shortcuts (Android)](/shortcuts)
+* [Anonymous Message](https://forms.gle/faFYkmjNnevF5nBK9)
