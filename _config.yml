@@ -300,3 +300,5 @@ collections:
     output: true
 
 anon-form: "https://forms.gle/faFYkmjNnevF5nBK9"
+plugins:
+  - jekyll-target-blank
