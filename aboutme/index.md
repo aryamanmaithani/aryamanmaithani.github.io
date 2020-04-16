@@ -19,4 +19,4 @@ These days, I'm a TA for the course MA 108, Ordinary Differential Equations.
 
 
 ### Picture credits
-The picture displayed on this page was taken by Pari Vermani.
+The picture displayed on this page was taken by [Pari Vermani](/img/park.jpg).
