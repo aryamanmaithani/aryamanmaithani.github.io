@@ -13,4 +13,5 @@
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
 
-<a href="{{ linkurl }}">{{ include.link[0] }}</a>
+<!-- <a class="sidebar-nav-item{% if page.url == linkurl %} active{% endif %}" href="{{ linkurl }}">{{ include.link[0] }}</a> -->
+<a class="sidebar-nav-item{% if page.url == linkurl %} active{% endif %}" href="{{ linkurl }}"><i class="ion-ios-medical-outline"></i> <span class="">{{ include.link[0] }}</span></a>
