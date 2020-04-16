@@ -2,6 +2,7 @@
 layout: page
 title: Home
 subtitle: My Personal Website
+image: /img/avatar-icon.png
 ---
 Hello, you have reached [my](/aboutme) website.  
 This website is mainly for the compilation of my academic work. Use the navigation bar to see more.  
@@ -31,6 +32,7 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 * [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
 
 ## Miscellaneous
-* [LaTeX](/latex)
+* [(Quick) intro to LaTeX](/latex)
 * [Setting up math keyboard shortcuts (Android)](/shortcuts)
-* [Anonymous Message](https://forms.gle/faFYkmjNnevF5nBK9)
+* [Setting up your website](/website)
+* [Anonymous Message]({{ site.anon-form }})
