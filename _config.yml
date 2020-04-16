@@ -1,10 +1,11 @@
 # --- General options --- #
 # bundle exec jekyll serve
 # Name of website
-title: Home
+title: Aryaman
+tagline: I didn't exist
 
 # Short description of your site
-description: math boi
+description: Click on the links to explore!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,18 +21,45 @@ description: math boi
 
 # List of links in the navigation bar
 navbar-links:
-  Academic:
-    - Notes: "notes"
-    - Reports: "reports"
-    - Presentations: "presentations"
-  About Me: "aboutme"
-  Tutorials:
-    - MA 105: "tuts/ma-105"
-    - MA 106: "tuts/ma-106"
-    - MA 108: "tuts/ma-108"
-  More:
-    - Courses: "aboutme/courses"
-    - Blog: "blog"
+  - title: Home
+    href:  /
+  - title: Academic
+    subcategories:
+    - title: Notes
+      href:  /notes/
+    - title: Presentations
+      href:  /presentations/
+    - title: Reports
+      href:  /reports/
+  - title: Tutorials
+    href: /tuts/
+    subcategories:
+    - title: MA 105
+      href:  /tuts/ma-105/
+    - title: MA 106
+      href:  /tuts/ma-106/
+    - title: MA 108
+      href:  /tuts/ma-108/
+  - title: More
+    subcategories:
+    - title: Courses
+      href:  /aboutme/courses/
+    - title: Blog
+      href:  /blog/
+  - title: About Me
+    href:  /aboutme/
+  # Academic:
+  #   - Notes: "notes/"
+  #   - Reports: "reports/"
+  #   - Presentations: "presentations/"
+  # About Me: "aboutme/"
+  # Tutorials:
+  #   - MA 105: "tuts/ma-105/"
+  #   - MA 106: "tuts/ma-106/"
+  #   - MA 108: "tuts/ma-108/"
+  # More:
+  #   - Courses: "aboutme/courses/"
+  #   - Blog: "blog/"
   #Dropdown:
   #  - Item 1: "http://www.google.com/"
   #  - Item 2: "http://www.github.com/"
@@ -270,3 +298,5 @@ collections:
     output: true
   presentations: 
     output: true
+
+anon-form: "https://forms.gle/faFYkmjNnevF5nBK9"
