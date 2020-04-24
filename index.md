@@ -35,4 +35,5 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 * [(Quick) intro to LaTeX](/latex)
 * [Setting up math keyboard shortcuts (Android)](/shortcuts)
 * [Setting up your website](/website)
+* [When things are too trivial](/trivial)
 * [Anonymous Message]({{ site.anon-form }})
