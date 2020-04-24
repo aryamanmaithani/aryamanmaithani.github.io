@@ -5,7 +5,7 @@ subtitle: mfw no proof
 image: /img/trivial.png
 ---
 A list of things to say when you can't be bothered to write a proof.  
-Text file can be found [here](/file/trivial.txt).
+Text file can be found [here](/files/trivial.txt).
 
 1. Obviously
 2. Clearly
