@@ -229,7 +229,7 @@ Text file can be found [here](/files/trivial.txt).
 220. For all we know,
 221. Promise me you won’t tell mom, but
 222. It would be a disservice to human intelligence to deny that
-223. Proof of the following has been intentially omitted:
+223. Proof of the following has been intentionally omitted:
 224. here isn’t enough space in the footnote section to prove that
 225. Someone of your status would understand that
 226. It would stand to reason that
