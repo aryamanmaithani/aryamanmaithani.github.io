@@ -5,6 +5,11 @@ subtitle: Resources related to MA 108 (ODE) Tutorials will be posted here
 image: /img/ma-108.png
 ---
 
+# Notes
+### [PDF](https://aryamanmaithani.github.io/tuts/ma-108/summary/MA-108-methods.pdf)
+Due to the SARS-CoV-2 pandemic, it looks like this course had to be brought to an abrupt end. However, I believe that this is quite an important course and thus, students should still learn it. However, I understand that one may not feel motivated enough to go through all the [notes posted by the course instructor](http://www.math.iitb.ac.in/~preeti/ma108-2019/) and thus, I have written a compilation of my own.  
+This does not go in depth as much as the notes but summarises all the methods one would have learnt in the course.  
+
 # Tutorial Hints 
 ### [Week 1](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-3.pdf)
 The tutorials can be found [here](http://www.math.iitb.ac.in/~preeti/ma108-2019/root_2016.pdf). 
@@ -27,4 +32,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 25-03-2020 19:18
+###### 02-05-2020 05:05
