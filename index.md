@@ -31,9 +31,15 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 * [Tutorials](/tuts), pages I made while TA'ing for courses
 * [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
 
-## Miscellaneous
+## Tutorials, of sorts
 * [(Quick) intro to LaTeX](/latex)
 * [Setting up math keyboard shortcuts (Android)](/shortcuts)
 * [Setting up your website](/website)
+
+## some terrible creations
+* [a bad maze](/maze)
 * [When things are too trivial](/trivial)
-* [Anonymous Message]({{ site.anon-form }})
+
+---
+
+If you have something to tell and wish to do so anonymously, you may drop a message [here]({{ site.anon-form }}).
