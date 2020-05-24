@@ -6,12 +6,11 @@ image: /img/iitb.png
 ---
 
 ### Department of Mathematics
-* Currently taking 
-	* [MA 214 - Numerical Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-	* [MA 410 - Multivariable Calculus](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20410)
-	* [MA 412 - Complex Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20412)
-    * [MA 414 - Algebra I](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20414)
-    * [MA 842 - Topics in Algebra 2](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20842)
+* [MA 214 - Numerical Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
+* [MA 410 - Multivariable Calculus](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20410)
+* [MA 412 - Complex Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20412)
+* [MA 414 - Algebra I](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20414)
+* [MA 842 - Topics in Algebra 2](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20842)
 * [MA 401 - Linear Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20401)
 * [MA 403 - Real Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20403)
 * [MA 419 - Basic Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20419)
@@ -24,8 +23,7 @@ image: /img/iitb.png
 
 ### Department of Computer Science and Engineering
 
-* Currently taking 
-	* [CS 213 - Data Structures and Algorithms](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20213)
+* [CS 213 - Data Structures and Algorithms](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20213)
 * [CS 228 - Logic for CS](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20228)
 * [CS 101 - Computer Programming and Utilization](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20101) 
 
