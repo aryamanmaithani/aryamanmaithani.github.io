@@ -265,5 +265,5 @@ You may submit a line of your own [here]({{ site.anon-form }}).
 
 1. This is the choice of Steins;Gate,  
 \- Wrath
-2. As is mentioned in the vedas,
+2. As is mentioned in the vedas,  
 \- A well-wisher
