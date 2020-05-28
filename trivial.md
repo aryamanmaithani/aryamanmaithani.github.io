@@ -5,7 +5,8 @@ subtitle: mfw no proof
 image: /img/trivial.png
 ---
 A list of things to say when you can't be bothered to write a proof.  
-Text file can be found [here](/files/trivial.txt).
+Text file can be found [here](/files/trivial.txt).  
+([Credits](https://m.facebook.com/groups/1567682496877142?view=permalink&id=2374147299563987))
 
 1. Obviously
 2. Clearly
@@ -259,3 +260,10 @@ Text file can be found [here](/files/trivial.txt).
 250. Without further ado,
 
 You may submit a line of your own [here]({{ site.anon-form }}).
+
+### Your submissions
+
+1. This is the choice of Steins;Gate,  
+- Wrath
+2. As is mentioned in the vedas,
+- A well-wisher
