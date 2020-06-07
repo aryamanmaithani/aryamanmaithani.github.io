@@ -11,7 +11,7 @@ I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http:
 
 I'm also occasionally active at [Mathematics StackExchange](https://math.stackexchange.com). Here's my flair.  
 
-<a href="https://math.stackexchange.com/users/427810/aryaman-maithani"><img src="https://math.stackexchange.com/users/flair/427810.png" width="208" height="58" alt="profile for Aryaman Maithani at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Aryaman Maithani at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"></a>
+<a href="https://math.stackexchange.com/users/427810/aryaman-maithani"><img src="https://math.stackexchange.com/users/flair/427810.png?theme=dark" width="208" height="58" alt="profile for Aryaman Maithani at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Aryaman Maithani at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"></a>
 
 ### Contact
 
