@@ -11,4 +11,4 @@ Here's a worse maze.
 Mail me at [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com) with the answer if you get it. I shall feature you here if you want.
 
 # Solvers so far
-1. [Amit Rajaraman](bit.ly/RickAstleyOfficial)
+1. [Amit Rajaraman](http://bit.ly/RickAstleyOfficial) (8th July, 2020)
