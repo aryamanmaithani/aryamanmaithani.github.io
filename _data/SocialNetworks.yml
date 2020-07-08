@@ -43,7 +43,7 @@ xing:
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
+  baseURL: "https://math.stackexchange.com/users/"
   icon: "fa-stack-overflow"
 
 snapchat:
