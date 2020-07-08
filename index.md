@@ -38,6 +38,7 @@ You may also be interested in checking out [Student Seminar in Mathematics Depar
 
 ## some terrible creations
 * [a bad maze](/maze)
+* [a worse maze](/worse-maze)
 * [When things are too trivial](/trivial)
 
 ---
