@@ -267,3 +267,9 @@ You may submit a line of your own [here]({{ site.anon-form }}).
 \- Wrath
 2. As is mentioned in the vedas,  
 \- A well-wisher
+3. As found out by Newton/Galileo/some great scientists n-hundred years ago,  
+\- Sharl Eclair/Sharley Claire
+4. By the blessing of Elves and Men and all Free Folk,  
+\- Gandalf
+5. As Jesus sometimes says,  
+\- Ram (no, not the goat)
