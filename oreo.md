@@ -4,7 +4,7 @@ title: Oreo
 subtitle: puns
 ---
 
-### What do you call Oreo when he's...
+## What do you call Oreo when he's...
 
 an anime?  
 Oreogairu
@@ -239,7 +239,10 @@ Glamoreo
 a form of horror theater?  
 Phantasmagoreo
 
-### Miscellaneous
+---
+---
+
+## Miscellaneous
 
 How does Oreo give his lectures?  
 Extemporeo
