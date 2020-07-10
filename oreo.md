@@ -293,6 +293,6 @@ I oweo you
 ---
 
 
-[Here]({{ site.anon-form }}) is where you may submit your own. (Just mention somewhere that you're making an Oreo submission.)
+[Here]({{ site.anon-form }}) is where you may submit your own. (Just mention Oreo in the context.)
 
 Rule - it __must__ contain the string "Oreo" (or "oweo") in it. (Usage of American/owo spelling for this is fine.)
