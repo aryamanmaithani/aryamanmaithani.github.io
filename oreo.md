@@ -4,7 +4,7 @@ title: Oreo
 subtitle: puns
 ---
 
-## What do you call Oreo when he's...
+# What do you call Oreo when he's...
 
 an anime?  
 Oreogairu
@@ -201,7 +201,7 @@ Toreo
 
 ---
 
-subliming?
+subliming?  
 Camphoreo
 
 ---
@@ -242,7 +242,7 @@ Phantasmagoreo
 ---
 ---
 
-## Miscellaneous
+# Miscellaneous
 
 How does Oreo give his lectures?  
 Extemporeo
