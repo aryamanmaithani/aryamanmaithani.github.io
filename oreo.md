@@ -255,7 +255,7 @@ Phantasmagoreo
 
 # Miscellaneous
 
-How does Oreo give his lectures?  
+How does Oreo (not) give his lectures?  
 Extemporeo
 
 ---
