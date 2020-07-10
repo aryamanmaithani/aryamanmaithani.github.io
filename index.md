@@ -29,6 +29,7 @@ This website is mainly for the compilation of my academic work. Use the navigati
 * [a bad maze](/maze)
 * [a worse maze](/worse-maze)
 * [When things are too trivial](/trivial)
+* Some [loss](/loss.txt)es.
 
 ---
 
