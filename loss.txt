@@ -41,3 +41,5 @@ In spring, man built a pillar;
 In summer, another;
 In autumn, they held;
 In winter, one fell.
+
+(works everywhere)
