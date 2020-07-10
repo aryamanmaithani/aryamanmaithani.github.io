@@ -2,6 +2,17 @@
 layout: page
 title: Oreo
 subtitle: puns
+image: /img/oreo.png
+---
+
+# Context
+I've been nicknamed Oreo by some friends.  
+Some friends have made some puns.  
+Some puns are what I've featured here.  
+
+The picture above has been drawn by [Ananya Burli](/img/onionya.jpeg).  
+
+---
 ---
 
 # What do you call Oreo when he's...
@@ -280,3 +291,8 @@ I oweo you
 (This counts because owo language.)
 
 ---
+
+
+[Here]({{ site.anon-form }}) is where you may submit your own. (Just mention somewhere that you're making an Oreo submission.)
+
+Rule - it __must__ contain the string "Oreo" (or "oweo") in it. (Usage of American/owo spelling for this is fine.)
