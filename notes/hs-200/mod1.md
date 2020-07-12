@@ -2,7 +2,6 @@
 layout: page
 title: HS 200
 subtitle: Module 1 - Economic Aspect
-image:
 ---
 ## Lecture 1 (2nd March 2020)
 * In ES 200, we were introduced to the ecological and health aspects.
