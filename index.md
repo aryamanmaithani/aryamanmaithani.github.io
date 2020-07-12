@@ -3,6 +3,7 @@ layout: page
 title: Home
 subtitle: My Personal Website
 image: /img/avatar-icon.png
+light-image: /img/light-avatar-icon.png
 ---
 Hello, you have reached [my](/aboutme) website.  
 This website is mainly for the compilation of my academic work. Use the navigation bar to see more.  
