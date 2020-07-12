@@ -226,4 +226,4 @@ Next class: A bit of game theory.
                   → NC, NP: 2
                   → C, NP: 1
                 - Is there a first mover's advantage or last? Draw a game tree!
-                    + See the [pic](/notes/hs-200/movers-tree.png)
+                    + See the [pic](/notes/hs-200/movers-advantage.png)
