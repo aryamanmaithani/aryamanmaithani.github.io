@@ -5,9 +5,9 @@ subtitle: Tutorial of sorts
 ---
 As should be evident, this website is hosted on [GitHub Pages](https://pages.github.com/). The link should help you get started.  
 
-The layout that I originally used was [Beautiful Jekyll](https://pages.github.com/). Now, I have added a lot more things so you probably can't even recognise Beautiful Jekyll. (In fact, I think it's only the original skeleton code that is the true Beautiful Jekyll.)
+The layout that I originally used was [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/). Now, I have added a lot more things so you probably can't even recognise Beautiful Jekyll. (In fact, I think it's only the original skeleton code that is the true Beautiful Jekyll.)
 
-The [link](https://pages.github.com/) has a nice tutorial which you can follow to make your own website. You could, however, wish to use another layout. [Here](https://jekyll-themes.com/free/) is a list of many other (free) themes that you could use.
+The [link](https://deanattali.com/beautiful-jekyll/) has a nice tutorial which you can follow to make your own website. You could, however, wish to use another layout. [Here](https://jekyll-themes.com/free/) is a list of many other (free) themes that you could use.
 
 You can also find the source files for this website [here](https://www.github.com/aryamanmaithani/aryamanmaithani.github.io). You do have my permission to use whatever code you want. However, I would ___highly___ suggest you to use the layouts listed earlier. This is because I have made a huge amount of changes without any sort of documentation - this would likely lead to a lot of confusion. The code as of now has been put together quite sloppily from different places and I would assume that it would be a nightmare for a third person to figure it out.
 
