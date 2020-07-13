@@ -281,7 +281,7 @@ Rigoreo
 ---
 
 What do you call it when someone says smack about Oreo?  
-Rumoureo
+Rumoreo
 
 ---
 
