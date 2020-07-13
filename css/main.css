@@ -787,8 +787,7 @@ A.blog-button:active {text-decoration: none; color: white;}
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  display: inline-block;
-  /*border-bottom: 1px solid #111;*/
+  padding-left: 2rem;
 }
 .masthead-title {
   margin-top: 0;
