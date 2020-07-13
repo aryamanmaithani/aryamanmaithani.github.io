@@ -3,7 +3,7 @@ layout: page
 title: Home
 subtitle: My Personal Website
 image: /img/avatar-icon.png
-light-image: /img/light-avatar-icon.png
+light-image: /img/avatar-icon-light.png
 ---
 Hello, you have reached [my](/aboutme) website.  
 Here is where I put stuff I make. Mostly math.  

@@ -3,7 +3,7 @@ layout: page
 title: Courses
 subtitle: IIT Bombay
 image: /img/iitb.png
-light-image: /img/light-iitb.png
+light-image: /img/iitb-light.png
 ---
 
 ### Department of Mathematics

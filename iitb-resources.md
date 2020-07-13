@@ -3,7 +3,7 @@ layout: page
 title: IITB Resources
 subtitle: Useful links
 image: /img/iitb.png
-light-image: /img/light-iitb.png
+light-image: /img/iitb-light.png
 ---
 * Mathematics Courses
     - [MA 105](/tuts/ma-105), resources from when I was a TA for this course
