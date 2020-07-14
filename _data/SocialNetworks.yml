@@ -44,7 +44,7 @@ xing:
 stackoverflow:
   name: "StackOverflow"
   baseURL: "https://math.stackexchange.com/users/"
-  icon: "fa-stack-overflow"
+  icon: "fa-stack-exchange"
 
 snapchat:
   name: "Snapchat"
