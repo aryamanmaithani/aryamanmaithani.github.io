@@ -125,7 +125,7 @@ author:
 social-network-links:
   rss: true
   email: "aryamanmaithani@gmail.com"
-  facebook: aryaman.maithani
+  # facebook: aryaman.maithani
   github: aryamanmaithani
   stackexchange: "427810/aryaman-maithani"
 #  twitter: daattali
