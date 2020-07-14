@@ -41,8 +41,8 @@ xing:
   baseURL: "https://www.xing.com/profile/"
   icon: "fa-xing"
 
-stackoverflow:
-  name: "StackOverflow"
+stackexchange:
+  name: "StackExchange"
   baseURL: "https://math.stackexchange.com/users/"
   icon: "fa-stack-exchange"
 
