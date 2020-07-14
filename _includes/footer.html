@@ -8,11 +8,11 @@
             {%- assign element = site.data.SocialNetworks[curkey] -%}
             <li>
             {%- if curkey == 'rss' -%}
-              <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}">
+              <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}" target="_blank">
             {%- elsif curkey == 'yelp' -%}
-              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}" target="_blank">
             {%- else -%}
-              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" target="_blank">
             {%- endif -%}
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fa fa-circle fa-stack-2x"></i>
@@ -45,7 +45,7 @@
       <a href="./website">About the website</a>
     </p>
     <p class="theme-by text-muted">
-      <a href="{{ site.anon-form }}">Anonymous message</a>
+      <a href="{{ site.anon-form }}" target="_blank">Anonymous message</a>
     </p>
       </div>
     </div>
