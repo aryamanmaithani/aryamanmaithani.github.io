@@ -40,13 +40,12 @@ If you have something to tell and wish to do so anonymously, you may drop a mess
 
 ---
 
+## Visitor count
 <table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/randommathguy/count.svg" alt="vistor count" height="50" /></td>
-  </tr>
-  <tr>
-    <td>(Count was started on 21st July 2020)</td>
-    <td>(This is most likely not a very good measure since it updates with every refresh but oh, well.)</td>    
-  </tr>
+    <tr>
+        <td>You are visitor</td>
+        <td><img src="https://profile-counter.glitch.me/aryamanmaithani/count.svg" alt="vistor count" height="50" /></td>
+    </tr>
 </table>
+(Count was started on 21st July 2020.)  
+(This is most likely not a very good measure since it updates with every refresh but oh, well.)   
