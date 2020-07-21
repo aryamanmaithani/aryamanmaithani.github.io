@@ -37,3 +37,14 @@ Links below and also in the sidebar.
 ---
 
 If you have something to tell and wish to do so anonymously, you may drop a message [here]({{ site.anon-form }}){:target="_blank"}.
+
+---
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/aryamanmaithani/count.svg" alt="vistor count" height="50" /></td>
+    <td>(Count was started on 21st July 2020)</td>
+    <td>(This is most likely not a very good measure since it updates with every refresh but oh, well.)</td>    
+  </tr>
+</table>
