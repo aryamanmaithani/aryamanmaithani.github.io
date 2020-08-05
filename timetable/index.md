@@ -20,9 +20,9 @@ Note that this is made for IITB timetables, customised to the slots here.
 
 1. Open any online service that lets you compile python online while also accepting input. (For example, [this](https://www.tutorialspoint.com/execute_python_online.php).)
 2. Open [this text file](/timetable.txt) and copy the content in the input area.
-3. Open [this text file](/online-code.txt) which contains the Python code customised for online purposes. Copy the content into the code area.
+3. Open [this text file](timetable/timetable-online-code.txt) which contains the Python code customised for online purposes. Copy the content into the code area.
 4. Modify the content in the input area as per the instructions below.
-5. Compile the code.
+5. Compile the python code.
 
 # Part II: Generating the table
 
