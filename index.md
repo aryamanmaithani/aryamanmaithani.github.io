@@ -13,8 +13,7 @@ Links below and also in the sidebar.
 
 # Links
 ## Math
-* [Presentations](/presentations)
-* [Reports](/reports)
+* [Math stuff I've written](/math), a collection of notes/reports/presentations
 * [Groups](/alg/groups)
 
 ## Academic
@@ -23,6 +22,7 @@ Links below and also in the sidebar.
 * [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
 
 ## Tutorials, of sorts
+* [IITB Timetable in LaTeX](/timetable)
 * [(Quick) intro to LaTeX](/latex)
 * [Setting up math keyboard shortcuts (Android)](/shortcuts)
 * [Setting up your website](/website)
