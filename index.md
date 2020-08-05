@@ -22,7 +22,7 @@ Links below and also in the sidebar.
 * [IITB Resources](/iitb-resources), collection of notes/tutorial solutions I made for various courses
 
 ## Tutorials, of sorts
-* [IITB Timetable in LaTeX](/timetable)
+* [IITB Timetable in LaTeX](/timetable/)
 * [(Quick) intro to LaTeX](/latex)
 * [Setting up math keyboard shortcuts (Android)](/shortcuts)
 * [Setting up your website](/website)
