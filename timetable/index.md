@@ -20,13 +20,13 @@ Note that this is made for IITB timetables, customised to the slots here.
 
 1. Open any online service that lets you compile python online while also accepting input. (For example, [this](https://www.tutorialspoint.com/execute_python_online.php).)
 2. Open [this text file](/timetable.txt) and copy the content in the input area.
-3. Open [this text file](/timetable-online-code.txt) which contains the Python code customised for online purposes. Copy the content into the code area.
+3. Open [this text file](/online-code.txt) which contains the Python code customised for online purposes. Copy the content into the code area.
 4. Modify the content in the input area as per the instructions below.
 5. Compile the code.
 
 # Part II: Generating the table
 
-1. Download [this tex file](/timetable.tex). (If you don't have a local LaTeX compiler, you can use some online service like [Overleaf](https://www.overleaf.com/).)
+1. Download [this tex file](/timetable.tex). (If you don't have a local LaTeX compiler, you can use some online service like [Overleaf](https://www.overleaf.com/){:target="_blank"}.)
 2. You can can modify the title on line 25. (Alternately, search for the phrase "MODIFY TITLE" in the file.)
 3. Copy the output of the python code and replace the comment "% INSERT CODE HERE" (on line 32) with the output.
 4. Compile.
