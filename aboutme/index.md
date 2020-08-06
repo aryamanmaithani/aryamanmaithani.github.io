@@ -11,7 +11,6 @@ I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http:
 
 [Here](cool) is a list of some things I find interesting.
 
-
 ## Other online activities
 
 I am somewhat active on [MathStackexchange](https://math.stackexchange.com/).
