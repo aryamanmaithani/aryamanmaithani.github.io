@@ -9,6 +9,8 @@ Hello! My name is Aryaman Maithani.
 I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http://www.math.iitb.ac.in). I'm pursuing a Bachelors in Science in Mathematics as my major. I am also pursuing a minor in [CSE](http://www.cse.iitb.ac.in) and honours in Mathematics.   
 [Here](/aboutme/courses) is a list of courses that I have taken and am taking.
 
+[Here](cool) is a list of some things I find interesting.
+
 
 ## Other online activities
 
