@@ -1,0 +1,5 @@
+https://math.stackexchange.com/questions/3748886/function-which-takes-only-a-finite-number-of-values
+https://math.stackexchange.com/questions/3749747/for-an-infinite-sequence-of-functions-bbbr-to-bbbr-each-function-is-a-co
+https://math.stackexchange.com/questions/3700784/f0-f1-0-fx-fracfxhfx-h2-implies-fx-0-for-0-1
+https://math.stackexchange.com/questions/3749718/continuous-function-taking-a-value
+https://math.stackexchange.com/questions/3754629/let-i-be-an-open-interval-f-is-continuous-if-and-only-if-the-inverse-image
