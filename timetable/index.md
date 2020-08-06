@@ -67,3 +67,6 @@ You can even get funkier and use math commands (within math mode, of course). Up
 
 # Feedback
 If there are any errors or if you want to suggest something, you can either [mail me](mailto:aryamanmaithani@gmail.com) or drop a message [here]({{ site.anon-form }}){:target="_blank"}.
+
+# Bugs
+Had to code slot 5 and 7 separately, this might lead to unproportionally long cells. If you have any (simple) fix, let me know.
