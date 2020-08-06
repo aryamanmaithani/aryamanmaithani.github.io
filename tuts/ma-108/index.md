@@ -6,7 +6,7 @@ image: /img/ma-108.png
 ---
 
 # Notes
-### [PDF](https://aryamanmaithani.github.io/tuts/ma-108/summary/MA-108-methods.pdf)
+### [PDF](/math/ma-108/MA-108-methods.pdf)
 Due to the SARS-CoV-2 pandemic, it looks like this course had to be brought to an abrupt end. However, I believe that this is quite an important course and thus, students should still learn it. However, I understand that one may not feel motivated enough to go through all the [notes posted by the course instructor](http://www.math.iitb.ac.in/~preeti/ma108-2019/) and thus, I have written a compilation of my own.  
 This does not go in depth as much as the notes but summarises all the methods one would have learnt in the course.  
 
