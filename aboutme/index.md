@@ -16,7 +16,7 @@ I am somewhat active on [MathStackexchange](https://math.stackexchange.com/).
 
 <a href="https://math.stackexchange.com/users/427810/aryaman-maithani"><img src="https://math.stackexchange.com/users/flair/427810.png?theme=dark" width="208" height="58" alt="profile for Aryaman Maithani at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Aryaman Maithani at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"></a>
 
-[Here](/stackex) is a list of questions I've found interesting.
+[Here](stackex) is a list of questions I've found interesting.
 
 I also enjoy solving problems on [Project Euler](https://projecteuler.net/).
 
