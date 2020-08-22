@@ -10,6 +10,9 @@ The in-browser works nicely on laptop/desktop by opening the file within your br
 ## Informal tutorial 
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/informal-tut.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/informal-tut.pdf)
 
+## Extra Questions
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/extra.pdf)
+
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here]({{ site.anon-form }}){:target="_blank"} is where you can do that. Put the context as "MA 205." You may also ask questions here.   
@@ -19,4 +22,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 21-08-2020 09:55 PM
+###### 22-08-2020 11:42 AM
