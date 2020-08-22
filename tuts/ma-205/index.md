@@ -7,7 +7,8 @@ subtitle: Resources related to MA 205 (Complex Analysis) Tutorials will be poste
 In the following, I post two links for PDFs. One opens the PDF in GitHub. Here, you can't select text but this is nice for mobile even without downloading it.  
 The in-browser works nicely on laptop/desktop by opening the file within your browser. However, on phones, it'll lead to a download.
 
-## Informal tutorial: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/informal-tut.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/informal-tut.pdf)
+## Informal tutorial 
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/informal-tut.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/informal-tut.pdf)
 
 
 ## Feedback
