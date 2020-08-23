@@ -8,7 +8,7 @@ In the following, I post two links for PDFs. One opens the PDF in GitHub. Here, 
 The in-browser works nicely on laptop/desktop by opening the file within your browser. However, on phones, it'll lead to a download.
 
 ## Tutorial Solutions 
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutins.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutins.pdf)
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutions.pdf)
 Unlike previous semesters, I'm not going to make one every week. I'll just keep updating this file. (The file has a time stamp of last update.)
 
 ## Informal tutorial 
