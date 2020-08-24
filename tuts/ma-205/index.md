@@ -11,6 +11,11 @@ The in-browser works nicely on laptop/desktop by opening the file within your br
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutions.pdf)
 Unlike previous semesters, I'm not going to make one every week. I'll just keep updating this file. (The file has a time stamp of last update.)
 
+### Dark mode
+The same file is also available in dark mode, for the nocturnals.
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutions-dark.pdf)
+(Hopefully, I'll remember to update this whenever I update the other one.)
+
 ## Informal tutorial 
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/informal-tut.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/informal-tut.pdf)
 
@@ -26,4 +31,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 23-08-2020 08:29 PM
+###### 24-08-2020 05:10 PM
