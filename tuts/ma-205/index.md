@@ -16,6 +16,10 @@ The same file is also available in dark mode, for the nocturnals.
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutions-dark.pdf)
 (Hopefully, I'll remember to update this whenever I update the other one.)
 
+## Live tutorial PDF
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/live-tutorial-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/live-tutorial-solutions.pdf)
+This too, will be updated weekly.
+
 ## Informal tutorial 
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/informal-tut.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/informal-tut.pdf)
 
@@ -31,4 +35,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 24-08-2020 05:10 PM
+###### 25-08-2020 08:27 PM
