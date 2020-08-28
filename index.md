@@ -9,6 +9,8 @@ Hello, you have reached [my](/aboutme) website.
 Here is where I put stuff I make. Mostly math.  
 Links below and also in the sidebar.
 
+If you're looking for MA 205, that is [here](/tuts/ma-205).
+
 <!-- You may also be interested in checking out [Student Seminar in Mathematics Department, IITB](https://student-seminar-math-iitb.github.io), an initiative of mine and [Som Phene](https://somphene.github.io)'s. -->
 
 # Links
