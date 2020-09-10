@@ -97,7 +97,7 @@ danke
 > \- Clint Barton
 
 $$\mathbf{n}$$ is always taken to be the unit vector at the point. It's just that $$\mathbf{n}$$ is constant in the case of planes.  
-$$dS$$ is just notation, it does have any more meaning than that. In differential notation, we may also write $$dS = \|\Phi_u\times\Phi_v\|d(u, v)$$. Again, I'll emphasise that this is just notation.
+$$dS$$ is just notation, it does not have any more meaning than that (for us). In differential notation, we may also write $$dS = \|\Phi_u\times\Phi_v\|d(u, v)$$. Again, I'll emphasise that this is just notation.
 
 ---
 
