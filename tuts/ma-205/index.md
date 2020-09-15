@@ -23,6 +23,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 * Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/live-tutorial-solutions.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/live-tutorial-solutions.pdf)
 * Week 2: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials/2.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials/2.pdf)
 * Week 3: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials/3.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials/3.pdf)
+* Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials/4.pdf)
 
 
 ## Extra Questions
@@ -39,4 +40,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 08-09-2020 09:46 PM
+###### 15-09-2020 08:39 PM
