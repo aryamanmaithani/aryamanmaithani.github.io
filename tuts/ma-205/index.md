@@ -16,6 +16,11 @@ The same file is also available in dark mode, for the nocturnals.
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutions-dark.pdf)
 (Hopefully, I'll remember to update this whenever I update the other one.)
 
+## TSC Slides
+
+#### Without pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/TSC1.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/TSC1.pdf)
+#### With pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/TSC1-with-pauses.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/TSC1-with-pauses.pdf)
+
 ## Handwritten Solutions
 These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
 
@@ -40,4 +45,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 15-09-2020 08:39 PM
+###### 17-09-2020 10:46 AM
