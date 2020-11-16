@@ -29,7 +29,7 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 <!-- [Here](/tuts/ma-205/responses) are my responses to some of your responses. -->
 
 ## Contact
-[aryamanmaithani.iitb@gmail.com](mailto:aryamanmaithani.iitb@gmail.com)  
+[aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 16-11-2020 03:44 PM
+###### 16-11-2020 04:07 PM
