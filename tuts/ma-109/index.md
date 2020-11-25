@@ -19,6 +19,11 @@ The same file is also available in dark mode, for the nocturnals.
 
 You may also want to see my [older tutorial solutions](/tuts/ma-105).
 
+## Recap Slides
+
+#### Without pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/recap.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/recap.pdf)
+#### With pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/recap-with-pauses.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/recap-with-pauses.pdf)
+
 ## Handwritten Solutions
 These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
 
@@ -43,10 +48,10 @@ The same file is also available in light mode, for the nocturnals.
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here]({{ site.anon-form }}){:target="_blank"} is where you can do that. Put the context as "MA 109." You may also ask questions here.   
-<!-- [Here](/tuts/ma-205/responses) are my responses to some of your responses. -->
+<!-- [Here](/tuts/ma-109/responses) are my responses to some of your responses. -->
 
 ## Contact
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 25-11-2020 04:00 PM
+###### 25-11-2020 04:07 PM
