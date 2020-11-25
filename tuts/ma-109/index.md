@@ -9,13 +9,10 @@ In the following, I post two links for PDFs. One opens the PDF in GitHub. Here, 
 The in-browser works nicely on laptop/desktop by opening the file within your browser. However, on phones, it'll lead to a download.
 
 ## Tutorial Solutions $$(\LaTeX)$$
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/tut-solutions.pdf)
-Unlike previous semesters, I'm not going to make one every week. I'll just keep updating this file. (The file has a time stamp of last update. Moreover, if I update something from earlier, I will usually mark it in blue.)  
+#### Light mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/tut-solutions.pdf)
+#### Dark mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/tut-solutions-dark.pdf)
 
-### Dark mode
-The same file is also available in dark mode, for the nocturnals.
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/tut-solutions-dark.pdf)
-(Hopefully, I'll remember to update this whenever I update the other one.)
+I'm not going to make a new one every week. I'll just keep updating this file. (The file has a time stamp of last update. Moreover, if I update something from earlier, I will usually mark it in blue.)  
 
 You may also want to see my [older tutorial solutions](/tuts/ma-105).
 
@@ -30,10 +27,8 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 * Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/1.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/1.pdf)
 
 ## Extra Questions
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra.pdf)
-### Light mode
-The same file is also available in light mode, for the nocturnals.
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra-light.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra-light.pdf)
+#### Dark mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra.pdf)
+#### Light mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra-light.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra-light.pdf)
 (Hopefully, I'll remember to update this whenever I update the other one.)
 
 ## Other resources
@@ -54,4 +49,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 25-11-2020 04:07 PM
+###### 25-11-2020 04:10 PM
