@@ -8,11 +8,28 @@ image: /img/ma-105.png
 In the following, I post two links for PDFs. One opens the PDF in GitHub. Here, you can't select text but this is nice for mobile even without downloading it.  
 The in-browser works nicely on laptop/desktop by opening the file within your browser. However, on phones, it'll lead to a download.
 
+## Tutorial Solutions $$(\LaTeX)$$
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/tut-solutions.pdf)
+Unlike previous semesters, I'm not going to make one every week. I'll just keep updating this file. (The file has a time stamp of last update. Moreover, if I update something from earlier, I will usually mark it in blue.)  
+
+### Dark mode
+The same file is also available in dark mode, for the nocturnals.
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/tut-solutions-dark.pdf)
+(Hopefully, I'll remember to update this whenever I update the other one.)
+
+You may also want to see my [older tutorial solutions](/tuts/ma-105).
+
 ## Handwritten Solutions
 These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
 
+* Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/1.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/1.pdf)
+
 ## Extra Questions
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra.pdf)
+### Light mode
+The same file is also available in light mode, for the nocturnals.
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra-light.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra-light.pdf)
+(Hopefully, I'll remember to update this whenever I update the other one.)
 
 ## Other resources
 * [Collection of some counterexamples](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Counterexamples.pdf) 
@@ -20,7 +37,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 * Here is a link to a document I was writing that interested students may read about - [Topology, restricted](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Topology%2C%20restricted.pdf) 
 <!-- * [A slightly different definition of Riemann integration](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Integration%20with%20tagged%20partition.pdf) -->
 <!-- * [A precise definition of simply-connected sets](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Simply%20connected%20sets.pdf) -->
-* [Ten Tips for Writing Mathematical Proofs](https://www.ms.uky.edu/~kott/proof_help.pdf), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
+* [Ten Tips for Writing Mathematical Proofs](https://drive.google.com/file/d/1yh3nIm9_oSY8KKl2gktmZT22EHIWikiQ/view), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
 <!-- * [A geometric approach to saddle points of surfaces](http://www.math.iitb.ac.in/~srg/preprints/TechPaperGhorpade-1.pdf), by [Sudhir R. Ghorpade](http://www.math.iitb.ac.in/~srg/) and [Balmohan V. Limaye](http://www.math.iitb.ac.in/~bvl/). However, note that this is **not** the definition that we will be following in this course. -->
 
@@ -32,4 +49,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 16-11-2020 04:07 PM
+###### 25-11-2020 04:00 PM
