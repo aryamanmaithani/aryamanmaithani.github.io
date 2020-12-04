@@ -25,6 +25,13 @@ You may also want to see my [older tutorial solutions](/tuts/ma-105).
 These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
 
 * Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/1.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/1.pdf)
+* Week 2: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/2.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/2.pdf)
+* Week 3: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/3.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/5.pdf)
+* Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/4.pdf)
+* Week 5: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/5.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/5.pdf)
+* Week 6: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/handwritten/6.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/handwritten/6.pdf)
+
+I'm just putting all the links here so I don't have to update website weekly. The links will only point to actual content after that week's tutorial.
 
 ## Extra Questions
 #### Dark mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/extra.pdf)
@@ -49,4 +56,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 25-11-2020 04:10 PM
+###### 04-12-2020 07:13 PM
