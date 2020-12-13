@@ -16,6 +16,9 @@ I'm not going to make a new one every week. I'll just keep updating this file. (
 
 You may also want to see my [older tutorial solutions](/tuts/ma-105).
 
+## Assignment Solutions $$(\LaTeX)$$
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/assign-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/assign-solutions.pdf)
+
 ## Recap Slides
 
 #### Without pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/recap.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/recap.pdf)
@@ -56,4 +59,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 09-12-2020 03:50 PM
+###### 13-12-2020 8:40 PM
