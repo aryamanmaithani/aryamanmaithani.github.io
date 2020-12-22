@@ -15,7 +15,7 @@ Pages I made when I TA'd these courses
           {%- if link.desc -%}
           <div class="post-entry-container">
             <div class="post-entry">
-              <a href="/math{{ blink[0] | relative_url }}"> {{ link.desc }} </a>
+              <a href="/tuts{{ blink[0] | relative_url }}"> {{ link.desc }} </a>
             </div>
           </div>
           {%- endif -%}
