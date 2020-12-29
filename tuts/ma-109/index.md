@@ -14,6 +14,8 @@ The in-browser works nicely on laptop/desktop by opening the file within your br
 
 I'm not going to make a new one every week. I'll just keep updating this file. (The file has a time stamp of last update. Moreover, if I update something from earlier, I will usually mark it in blue.)  
 
+The questions can be found in this [Information Booklet](http://www.math.iitb.ac.in/~ravir/WeeklyTutorials/2020ma109tutorial.pdf).
+
 You may also want to see my [older tutorial solutions](/tuts/ma-105).
 
 ## Assignment Solutions $$(\LaTeX)$$
@@ -49,7 +51,7 @@ I'm just putting all the links here so I don't have to update website weekly. Th
 <!-- * [A precise definition of simply-connected sets](https://github.com/aryamanmaithani/ma-105-tut/blob/master/Additional%20resources/Simply%20connected%20sets.pdf) -->
 * [Ten Tips for Writing Mathematical Proofs](https://drive.google.com/file/d/1yh3nIm9_oSY8KKl2gktmZT22EHIWikiQ/view), by [Katharine Ott](https://www.bates.edu/faculty-expertise/profile/katharine-a-ott/)
 * [Calculus for Mathematicians](https://cr.yp.to/papers/calculus.pdf), by [D. J. Bernstein](https://cr.yp.to/djb.html)
-<!-- * [A geometric approach to saddle points of surfaces](http://www.math.iitb.ac.in/~srg/preprints/TechPaperGhorpade-1.pdf), by [Sudhir R. Ghorpade](http://www.math.iitb.ac.in/~srg/) and [Balmohan V. Limaye](http://www.math.iitb.ac.in/~bvl/). However, note that this is **not** the definition that we will be following in this course. -->
+* [A geometric approach to saddle points of surfaces](http://www.math.iitb.ac.in/~srg/preprints/TechPaperGhorpade-1.pdf), by [Sudhir R. Ghorpade](http://www.math.iitb.ac.in/~srg/) and [Balmohan V. Limaye](http://www.math.iitb.ac.in/~bvl/). However, note that this is **not** the definition that we will be following in this course.
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here]({{ site.anon-form }}){:target="_blank"} is where you can do that. Put the context as "MA 109." You may also ask questions here.   
@@ -59,4 +61,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 13-12-2020 8:40 PM
+###### 30-12-2020 1:39 AM
