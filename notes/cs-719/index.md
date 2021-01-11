@@ -5,4 +5,4 @@ subtitle: Notes
 ---
 
 ## Handwritten Notes
-#### [In-browser](/notes/mas-719/hand-notes.pdf) | [In-GitHub](https://github.com/aryamanmaithani/aryamanmaithani.github.io/blob/master/notes/cs-719/hand-notes.md)
+#### [In-browser](/notes/mas-719/hand-notes.pdf) | [In-GitHub](https://github.com/aryamanmaithani/aryamanmaithani.github.io/blob/master/notes/cs-719/hand-notes.pdf)
