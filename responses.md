@@ -12,6 +12,46 @@ I read all of the submissions here quite quickly. However, my response is typica
 
 ---
 
+> "Aryaman, I love you man , I deeply appreciate your work and the fact that you take doubts on whatsapp groups as well. You are such an inspiration for the students of upcoming years, and you will be remembered till doomsday. I will never forget you. Thanks , you are bringing changes in lives of many students, believe it or not, your work aspires me and other students. Once again Thank you."  
+> \- Eshller  
+> 12/12/2020, 23:02  
+
+Thank __you__ for your nice message, I really appreciate this. I'm glad to know. :D
+
+\- 14/01/2021
+
+---
+
+> "Really admire what you do and how passionate you are about math. Keep it going. I've recommended your website to a lot of 109 kids and they simply love it ;)"  
+> \- Pseudo Name  
+> 05/12/2020, 14:50  
+
+Thank you! :D
+
+\- 14/01/2021
+
+---
+
+> "Before "All lefts reserved" you used Copyright symbol instead of Copyleft. Not sure that was intentional or not so letting you know! ¯\\_( ͡° ͜ʖ ͡°)_/¯"  
+> \- nobody  
+> 03/12/2020, 22:51  
+
+That's a good point, I actually thought I had used the copyleft symbol. In any case, I had definitely considered putting that but I guess I forgot, maybe I'll change it in the near future.
+
+\- 14/01/2021
+
+---
+
+> "The notes are great! Do you use overleaf for typing them?"  
+> \- pi  
+> 03/11/2020, 15:45  
+
+I'm a bit late in responding, but the answer is "No." I use Sublime Text and have set it up locally.
+
+\- 14/01/2021
+
+---
+
 For this message, I'm going to respond line by line.
 
 > "Maths was my favourite subject, before encountering MA105. It somewhat didn't appeal to my liking of computational math; I guess, the rigorous approach was just too much for me. My biggest question (yet unanswered) is how does someone come to like this type of maths?    
