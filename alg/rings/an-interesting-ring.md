@@ -58,12 +58,12 @@ Also recall that $$\Spec(R)$$ is a topological space in the [Zariski topology](h
 
 Consider the following ideals in $$R$$: 
 
-\begin{align}
+\begin{aligned}
 	I_1 &= \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus 0 \oplus \cdots\\  
 	I_2 &= \mathbb{Z}/2\mathbb{Z} \oplus \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus \cdots\\  
 	&\vdots\\  
 	I_n &= \underbrace{\mathbb{Z}/2\mathbb{Z} \oplus \cdots \oplus \mathbb{Z}/2\mathbb{Z}}_{n} \oplus 0 \oplus \cdots
-\end{align}
+\end{aligned}
 
 We have
 
@@ -74,3 +74,9 @@ which gives us a decreasing chain of closed sets
 $$V(I_1) \supset V(I_2) \supset \cdots.$$
 
 We show that the inclusions are strict. It suffices to show that for each $$n$$, there exists a prime ideal $$\mathfrak{p}_n$$ containing $$I_n$$ and not $$I_{n+1}$$.
+
+It can be verified that
+
+$$\mathfrak{p}_n = \underbrace{\mathbb{Z}/2\mathbb{Z} \times \cdots \times \mathbb{Z}/2\mathbb{Z}}_{n} \times 0 \times \mathbb{Z}/2\mathbb{Z} \times \mathbb{Z}/2\mathbb{Z} \times \cdots$$
+
+is an ideal in $$R$$ which contains $$I_n$$ and not $$I_{n+1}$$. To see that it is prime, note that $$R/\mathfrak{p}_n \cong \mathbb{Z}/2\mathbb{Z}$$.
