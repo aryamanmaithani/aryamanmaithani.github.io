@@ -5,13 +5,13 @@ title: An interesting ring
 
 $$\newcommand{\Spec}{\operatorname{Spec}}$$
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC autolink="true" -->
 
-- Not Noetherian
-- Every prime ideal is maximal
-- The poset $$\Spec\(R\)$$ has the Noetherian property
-- The topological space $$\Spec\(R\)$$ is not Noetherian
-- $$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$
+- [Not Noetherian](#not-noetherian)
+- [Every prime ideal is maximal](#every-prime-ideal-is-maximal)
+- [The poset $$\Spec\(R\)$$ has the Noetherian property](#the-poset-%24%24specr%24%24-has-the-noetherian-property)
+- [The topological space $$\Spec\(R\)$$ is not Noetherian](#the-topological-space-%24%24specr%24%24-is-not-noetherian)
+- [$$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$](#%24%24r_mathfrakp%24%24-is-noetherian-for-every-prime-%24%24mathfrakp%24%24)
 
 <!-- /MarkdownTOC -->
 
