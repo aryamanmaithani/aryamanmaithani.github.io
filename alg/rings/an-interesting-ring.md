@@ -58,12 +58,9 @@ Also recall that $$\Spec(R)$$ is a topological space in the [Zariski topology](h
 
 Consider the following ideals in $$R$$: 
 
-\begin{aligned}
-	I_1 &= \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus 0 \oplus \cdots\\  
-	I_2 &= \mathbb{Z}/2\mathbb{Z} \oplus \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus \cdots\\  
-	&\vdots\\  
-	I_n &= \underbrace{\mathbb{Z}/2\mathbb{Z} \oplus \cdots \oplus \mathbb{Z}/2\mathbb{Z}}_{n} \oplus 0 \oplus \cdots
-\end{aligned}
+$$I_n &= \underbrace{\mathbb{Z}/2\mathbb{Z} \oplus \cdots \oplus \mathbb{Z}/2\mathbb{Z}}_{n} \oplus 0 \oplus \cdots$$
+
+for $$n \in \mathbb{N}$$.
 
 We have
 
@@ -80,3 +77,7 @@ It can be verified that
 $$\mathfrak{p}_n = \underbrace{\mathbb{Z}/2\mathbb{Z} \times \cdots \times \mathbb{Z}/2\mathbb{Z}}_{n} \times 0 \times \mathbb{Z}/2\mathbb{Z} \times \mathbb{Z}/2\mathbb{Z} \times \cdots$$
 
 is an ideal in $$R$$ which contains $$I_n$$ and not $$I_{n+1}$$. To see that it is prime, note that $$R/\mathfrak{p}_n \cong \mathbb{Z}/2\mathbb{Z}$$.
+
+## $$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$
+
+Note that this is interesting because this shows that being Noetherian is not a "local" property.
