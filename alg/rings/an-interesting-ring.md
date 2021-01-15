@@ -5,22 +5,21 @@ title: An interesting ring
 
 $$\newcommand{\Spec}{\operatorname{Spec}}$$
 
-<!-- MarkdownTOC autolink="true" -->
-
-- [Not Noetherian](#not-noetherian)
-- [Every prime ideal is maximal](#every-prime-ideal-is-maximal)
-- [The poset $$\Spec\(R\)$$ has the Noetherian property](#the-poset-%24%24specr%24%24-has-the-noetherian-property)
-- [The topological space $$\Spec\(R\)$$ is not Noetherian](#the-topological-space-%24%24specr%24%24-is-not-noetherian)
-- [$$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$](#%24%24r_mathfrakp%24%24-is-noetherian-for-every-prime-%24%24mathfrakp%24%24)
-
-<!-- /MarkdownTOC -->
-
-
 Consider the following ring
 
 $$R = \prod_{i = 1}^{\infty}\mathbb{Z}/2\mathbb{Z}.$$
 
 I will now show that this is an interesting ring, a ring you should care about.
+
+<!-- MarkdownTOC autolink="true" -->
+
+- [Not Noetherian](#not-noetherian)
+- [Every prime ideal is maximal](#every-prime-ideal-is-maximal)
+- [The poset Spec\(R\) has the Noetherian property](#the-poset-specr-has-the-noetherian-property)
+- [The topological space \Spec\(R\) is not Noetherian](#the-topological-space-specr-is-not-noetherian)
+- [R\_p is Noetherian for every prime p](#r_p-is-noetherian-for-every-prime-p)
+
+<!-- /MarkdownTOC -->
 
 ## Not Noetherian
 
@@ -47,7 +46,7 @@ However, $$S$$ is an integral domain. Thus, $$y^2 = y$$ forces that $$y = 0, 1$$
 
 Thus, we conclude that $$S \cong \mathbb{Z}/2\mathbb{Z}$$. However, since this is a field, we conclude that $$\mathfrak{p}$$ is maximal. $$\blacksquare$$
 
-## The poset $$\Spec(R)$$ has the Noetherian property
+## The poset Spec(R) has the Noetherian property
 
 To be more precise, any increasing chain of prime ideals
 
@@ -57,7 +56,7 @@ stabilises.
 
 However, this is clear at once because every prime is maximal.
 
-## The topological space $$\Spec(R)$$ is not Noetherian
+## The topological space \Spec(R) is not Noetherian
 
 Recall that a topological space $$X$$ is said to be Noetherian if every increasing chain
 
@@ -89,7 +88,7 @@ $$\mathfrak{p}_n = \underbrace{\mathbb{Z}/2\mathbb{Z} \times \cdots \times \math
 
 is an ideal in $$R$$ which contains $$I_n$$ and not $$I_{n+1}$$. To see that it is prime, note that $$R/\mathfrak{p}_n \cong \mathbb{Z}/2\mathbb{Z}$$. $$\blacksquare$$
 
-## $$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$
+## R\_p is Noetherian for every prime p
 
 Note that this is interesting because this shows that being Noetherian is not a "local" property.
 
