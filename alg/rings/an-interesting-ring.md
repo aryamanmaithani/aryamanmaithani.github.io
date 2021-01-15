@@ -58,7 +58,7 @@ Also recall that $$\Spec(R)$$ is a topological space in the [Zariski topology](h
 
 Consider the following ideals in $$R$$: 
 
-$$I_n &= \underbrace{\mathbb{Z}/2\mathbb{Z} \oplus \cdots \oplus \mathbb{Z}/2\mathbb{Z}}_{n} \oplus 0 \oplus \cdots$$
+$$I_n = \underbrace{\mathbb{Z}/2\mathbb{Z} \oplus \cdots \oplus \mathbb{Z}/2\mathbb{Z}}_{n} \oplus 0 \oplus \cdots$$
 
 for $$n \in \mathbb{N}$$.
 
@@ -81,3 +81,9 @@ is an ideal in $$R$$ which contains $$I_n$$ and not $$I_{n+1}$$. To see that it 
 ## $$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$
 
 Note that this is interesting because this shows that being Noetherian is not a "local" property.
+
+To prove this, we recall that we have the following bijection
+
+$$\Spec(R_{\mathfrak{p}}) \longleftrightarrow \{\mathfrak{q} \in \Spec(R) : \mathfrak{q} \subset \mathfrak{p}\}.$$
+
+Since every prime ideal in $$R$$ is maximal, we get that the only element in the right set is $$\mathfrak{p}$$. Thus, $$\Spec(R_{\mathfrak{p}})$$ is a singleton. 
