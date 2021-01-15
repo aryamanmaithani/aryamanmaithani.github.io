@@ -16,7 +16,7 @@ I will now show that this is an interesting ring, a ring you should care about.
 - [Not Noetherian](#not-noetherian)
 - [Every prime ideal is maximal](#every-prime-ideal-is-maximal)
 - [The poset Spec\(R\) has the Noetherian property](#the-poset-specr-has-the-noetherian-property)
-- [The topological space \Spec\(R\) is not Noetherian](#the-topological-space-specr-is-not-noetherian)
+- [The topological space Spec\(R\) is not Noetherian](#the-topological-space-specr-is-not-noetherian)
 - [R\_p is Noetherian for every prime p](#r_p-is-noetherian-for-every-prime-p)
 
 <!-- /MarkdownTOC -->
@@ -56,7 +56,7 @@ stabilises.
 
 However, this is clear at once because every prime is maximal.
 
-## The topological space \Spec(R) is not Noetherian
+## The topological space Spec(R) is not Noetherian
 
 Recall that a topological space $$X$$ is said to be Noetherian if every increasing chain
 
@@ -96,11 +96,11 @@ To prove this, we recall that we have the following bijection
 
 $$\Spec(R_{\mathfrak{p}}) \longleftrightarrow \{\mathfrak{q} \in \Spec(R) : \mathfrak{q} \subset \mathfrak{p}\}.$$
 
-Since every prime ideal in $$R$$ is maximal, we get that the only element in the right set is $$\mathfrak{p}$$. Thus, $$\Spec(R_{\mathfrak{p}})$$ is a singleton. Moreover, $$\mathfrak{p}_{\mathfrak{p}}$$ is the unique maximal ideal of $$R_{\mathfrak{p}}$$. We show that $$\mathfrak{p}_{\mathfrak{p}} = 0$$ and conclude that $$R_{p}$$ is a field. This would show that $$R_{\mathfrak{p}}$$ is Noetherian.
+Since every prime ideal in $$R$$ is maximal, we get that the only element in the right set is $$\mathfrak{p}$$. Thus, $$\Spec(R_{\mathfrak{p}})$$ is a singleton. Moreover, $$\mathfrak{p}_{\mathfrak{p}}$$ is the unique maximal ideal of $$R_{\mathfrak{p}}$$. We show that $$\mathfrak{p}_{\mathfrak{p}} = 0$$ and conclude that $$R_{\mathfrak{p}}$$ is a field. This would show that $$R_{\mathfrak{p}}$$ is Noetherian.
 
 Now, recall that the intersection of all prime ideals gives us the nilradical (the ideal of all nilpotent elements) of the ring. Since $$\Spec(R_{\mathfrak{p}})$$ is a singleton, we see
 
-$$\mathcal{N}(R_{\mathfrak{p}}) = \mathfrak{p}_{p}.$$
+$$\mathcal{N}(R_{\mathfrak{p}}) = \mathfrak{p}_{\mathfrak{p}}.$$
 
 We contend that there are no non-zero elements in the nilradical. Indeed, suppose that $$\frac{x}{a} \in R_{\mathfrak{p}}$$ is nilpotent. This would imply that $$\frac{x}{1}$$ is nilpotent. However, for any $$n \in \mathbb{N}$$, note that
 
