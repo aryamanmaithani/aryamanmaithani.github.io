@@ -54,13 +54,23 @@ $$U_1 \subset U_2 \subset U_3 \subset \cdots$$
 
 of open subsets of $$X$$ stabilises. Equivalently, every decreasing chain of closed subsets must stabilise.
 
-Also recall that $$\Spec(R)$$ is a topological space in the [Zariski topology](https://en.wikipedia.org/wiki/Zariski_topology). (We shall use the same notation as in the link.)
+Also recall that $$\Spec(R)$$ is a topological space in the [Zariski topology](https://en.wikipedia.org/wiki/Spectrum_of_a_ring#Zariski_topology). (We shall use the same notation as in the link.)
 
 Consider the following ideals in $$R$$: 
 
 \begin{align}
-	I_1 &= \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus 0 \oplus \cdots\\
-	I_2 &= \mathbb{Z}/2\mathbb{Z} \oplus \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus \cdots\\
-	&\vdots\\
+	I_1 &= \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus 0 \oplus \cdots\\  
+	I_2 &= \mathbb{Z}/2\mathbb{Z} \oplus \mathbb{Z}/2\mathbb{Z} \oplus 0 \oplus \cdots\\  
+	&\vdots\\  
 	I_n &= \underbrace{\mathbb{Z}/2\mathbb{Z} \oplus \cdots \oplus \mathbb{Z}/2\mathbb{Z}}_{n} \oplus 0 \oplus \cdots
 \end{align}
+
+We have
+
+$$I_1 \subset I_2 \subset \cdots$$
+
+which gives us a decreasing chain of closed sets
+
+$$V(I_1) \supset V(I_2) \supset \cdots.$$
+
+We show that the inclusions are strict. It suffices to show that for each $$n$$, there exists a prime ideal $$\mathfrak{p}_n$$ containing $$I_n$$ and not $$I_{n+1}$$.
