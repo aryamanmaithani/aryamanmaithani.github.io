@@ -5,6 +5,17 @@ title: An interesting ring
 
 $$\newcommand{\Spec}{\operatorname{Spec}}$$
 
+<!-- MarkdownTOC -->
+
+- Not Noetherian
+- Every prime ideal is maximal
+- The poset $$\Spec\(R\)$$ has the Noetherian property
+- The topological space $$\Spec\(R\)$$ is not Noetherian
+- $$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$
+
+<!-- /MarkdownTOC -->
+
+
 Consider the following ring
 
 $$R = \prod_{i = 1}^{\infty}\mathbb{Z}/2\mathbb{Z}.$$
@@ -76,7 +87,7 @@ It can be verified that
 
 $$\mathfrak{p}_n = \underbrace{\mathbb{Z}/2\mathbb{Z} \times \cdots \times \mathbb{Z}/2\mathbb{Z}}_{n} \times 0 \times \mathbb{Z}/2\mathbb{Z} \times \mathbb{Z}/2\mathbb{Z} \times \cdots$$
 
-is an ideal in $$R$$ which contains $$I_n$$ and not $$I_{n+1}$$. To see that it is prime, note that $$R/\mathfrak{p}_n \cong \mathbb{Z}/2\mathbb{Z}$$.
+is an ideal in $$R$$ which contains $$I_n$$ and not $$I_{n+1}$$. To see that it is prime, note that $$R/\mathfrak{p}_n \cong \mathbb{Z}/2\mathbb{Z}$$. $$\blacksquare$$
 
 ## $$R_{\mathfrak{p}}$$ is Noetherian for every prime $$\mathfrak{p}$$
 
@@ -86,4 +97,18 @@ To prove this, we recall that we have the following bijection
 
 $$\Spec(R_{\mathfrak{p}}) \longleftrightarrow \{\mathfrak{q} \in \Spec(R) : \mathfrak{q} \subset \mathfrak{p}\}.$$
 
-Since every prime ideal in $$R$$ is maximal, we get that the only element in the right set is $$\mathfrak{p}$$. Thus, $$\Spec(R_{\mathfrak{p}})$$ is a singleton. 
+Since every prime ideal in $$R$$ is maximal, we get that the only element in the right set is $$\mathfrak{p}$$. Thus, $$\Spec(R_{\mathfrak{p}})$$ is a singleton. Moreover, $$\mathfrak{p}_{\mathfrak{p}}$$ is the unique maximal ideal of $$R_{\mathfrak{p}}$$. We show that $$\mathfrak{p}_{\mathfrak{p}} = 0$$ and conclude that $$R_{p}$$ is a field. This would show that $$R_{\mathfrak{p}}$$ is Noetherian.
+
+Now, recall that the intersection of all prime ideals gives us the nilradical (the ideal of all nilpotent elements) of the ring. Since $$\Spec(R_{\mathfrak{p}})$$ is a singleton, we see
+
+$$\mathcal{N}(R_{\mathfrak{p}}) = \mathfrak{p}_{p}.$$
+
+We contend that there are no non-zero elements in the nilradical. Indeed, suppose that $$\frac{x}{a} \in R_{\mathfrak{p}}$$ is nilpotent. This would imply that $$\frac{x}{1}$$ is nilpotent. However, for any $$n \in \mathbb{N}$$, note that
+
+$$\left(\frac{x}{1}\right)^n = \frac{x^n}{1^n} = \frac{x}{1}$$
+
+since every element of $$R$$ is idempotent. Thus, there are no nonzero nilpotents in $$R_{\mathfrak{p}}$$ and thus,
+
+$$\mathfrak{p}_{\mathfrak{p}} = \mathcal{N}(R_{\mathfrak{p}}) = 0,$$
+
+as desired. $$\blacksquare$$
