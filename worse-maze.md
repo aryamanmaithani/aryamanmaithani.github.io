@@ -14,3 +14,4 @@ Mail me at [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com) with th
 1. [Amit Rajaraman](http://bit.ly/RickAstleyOfficial) (8th July, 2020)
 2. Anon-1 (9th July, 2020) (Yes, the same Anon-1 as in [a bad maze](/maze).)
 3. Aman Singh (10th July, 2020)
+4. Mithil Vakde (16th July, 2020)
