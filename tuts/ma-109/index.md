@@ -21,6 +21,9 @@ You may also want to see my [older tutorial solutions](/tuts/ma-105).
 ## Assignment Solutions $$(\LaTeX)$$
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/assign-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/assign-solutions.pdf)
 
+## Midsem solutions $$(\LaTeX)$$
+#### [In-GitHub PDF Link](midsem-solutions) | [In-browser PDF Link](midsem-solutions)
+
 ## Recap Slides
 
 #### Without pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-109-tut/blob/master/recap.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-109-tut/recap.pdf)
@@ -61,4 +64,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 30-12-2020 1:39 AM
+###### 17-01-2021 11:14 AM
