@@ -69,5 +69,5 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 0. [Existence of a continuous function $$f$$ such that it takes the value $$0$$ on a set with positive measure but is not locally constant at any such point.](https://math.stackexchange.com/questions/3749718/continuous-function-taking-a-value){:target="_blank"}
 
-0. [Let $$I$$ be an open interval. $$f'$$ is continuous if and only if the inverse image under $$f'$$ of any point is a closed set.](https://math.stackexchange.com/questions/3754629/let-i-be-an-open-interval-f-is-continuous-if-and-only-if-the-inverse-imag){:target="_blank"}  
-(In the comments, you'll also find me being a dummy. :))
+<!-- 0. [Let $$I$$ be an open interval. $$f'$$ is continuous if and only if the inverse image under $$f'$$ of any point is a closed set.](https://math.stackexchange.com/questions/3754629/let-i-be-an-open-interval-f-is-continuous-if-and-only-if-the-inverse-imag){:target="_blank"}   -->
+<!-- (In the comments, you'll also find me being a dummy. :)) -->
