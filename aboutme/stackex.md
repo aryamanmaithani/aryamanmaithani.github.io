@@ -35,7 +35,7 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 0. [How many decimal expansions can a real number have?](https://math.stackexchange.com/questions/4019484/how-many-base-10-decimal-expansions-can-a-real-number-have/4019506#4019506){:target="_blank"}
 
-0. [If $$f(z)$$ is analytic on $$\{\lvert z \rvert \leq 1\}$$, and $$f(z)$$ is real on $$\{\lvert z \rvert = 1\}$$, then $$f(z)$$ is a constant.](https://math.stackexchange.com/questions/4036294/fz-is-analytic-on-z-leq-1-and-fz-is-real-on-z-1-sh/4036398#4036398){:target="_blank"}
+0. [If $$f$$ is analytic on $$\{\lvert z \rvert \leq 1\}$$, and $$f$$ is real on $$\{\lvert z \rvert = 1\}$$, then $$f$$ is a constant.](https://math.stackexchange.com/questions/4036294/fz-is-analytic-on-z-leq-1-and-fz-is-real-on-z-1-sh/4036398#4036398){:target="_blank"}
 
 ### topology
 
