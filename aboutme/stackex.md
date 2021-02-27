@@ -19,6 +19,8 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 0. [If a group has subgroups of orders $$r$$ and $$s$$, then it has a subgroup of order $$rs$$ when $$r$$ and $$s$$ are coprime.](https://math.stackexchange.com/questions/3723849/if-an-abelian-group-has-subgroups-of-relatively-prime-orders-r-and-swhich-are-c/3723859#3723859){:target="_blank"}
 
+0. [Every proper subgroup of $$\mathbb{Z}(p^{\infty})$$ is of the form $$\left\langle \overline{\frac{1}{p^n}} \right\rangle$$ for some $$n>0$$.](https://math.stackexchange.com/questions/4019318/every-proper-subgroup-of-mathbbzp-infty-is-of-the-form-left-langle/4019343#4019343){:target="_blank"}
+
 ### analysis
 
 0. [Let $$g \in C^1(\mathbb{R^2}, \mathbb{R})$$. Show that an injective $$f \in C^1 ((-1,1), \mathbb{R^2})$$ exists, so $$g \circ f$$ is constant.](https://math.stackexchange.com/questions/3700688/constant-function-composition/3700786#3700786){:target="_blank"}
@@ -30,6 +32,14 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 0. [$$\displaystyle\lim_{n\to \infty}\left(1 + \dfrac{z}{n}\right)^n$$ does not converge uniformly on $$\Bbb C$$.](https://math.stackexchange.com/questions/3688829/prove-lim-n-to-infty-1-z-nn-does-not-converge-uniformly-on-mathbb/3688838#3688838){:target="_blank"}
 
 0. [$$e^{-\cos^2x}$$ has a unique fixed point.](https://math.stackexchange.com/questions/3693667/prove-that-the-function-f-bbb-r-to-bbb-r-defined-by-fx-e-cosx2/3693692#3693692){:target="_blank"}
+
+0. [How many decimal expansions can a real number have?](https://math.stackexchange.com/questions/4019484/how-many-base-10-decimal-expansions-can-a-real-number-have/4019506#4019506){:target="_blank"}
+
+0. [If $$f(z)$$ is analytic on $$\{|z| \leq 1\}$$, and $$f(z)$$ is real on $$\{|z| = 1\}$$, then $$f(z)$$ is a constant.](https://math.stackexchange.com/questions/4036294/fz-is-analytic-on-z-leq-1-and-fz-is-real-on-z-1-sh/4036398#4036398){:target="_blank"}
+
+### topology
+
+0. [$$S^3 \setminus S^1$$ is connected.](https://math.stackexchange.com/questions/4024438/prove-that-s3-setminus-s1-is-connected/4025660#4025660){:target="_blank"}
 
 ### number-theory
 
