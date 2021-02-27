@@ -19,7 +19,7 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 0. [If a group has subgroups of orders $$r$$ and $$s$$, then it has a subgroup of order $$rs$$ when $$r$$ and $$s$$ are coprime.](https://math.stackexchange.com/questions/3723849/if-an-abelian-group-has-subgroups-of-relatively-prime-orders-r-and-swhich-are-c/3723859#3723859){:target="_blank"}
 
-0. [Every proper subgroup of $$\mathbb{Z}(p^{\infty})$$ is of the form $$\left\langle \overline{\frac{1}{p^n}} \right\rangle$$ for some $$n>0$$.](https://math.stackexchange.com/questions/4019318/every-proper-subgroup-of-mathbbzp-infty-is-of-the-form-left-langle/4019343#4019343){:target="_blank"}
+0. [Every proper subgroup of $$\mathbb{Z}(p^{\infty})$$ is of the form $$\left\langle \overline{\dfrac{1}{p^n}} \right\rangle$$ for some $$n>0$$.](https://math.stackexchange.com/questions/4019318/every-proper-subgroup-of-mathbbzp-infty-is-of-the-form-left-langle/4019343#4019343){:target="_blank"}
 
 ### analysis
 
@@ -35,7 +35,7 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 0. [How many decimal expansions can a real number have?](https://math.stackexchange.com/questions/4019484/how-many-base-10-decimal-expansions-can-a-real-number-have/4019506#4019506){:target="_blank"}
 
-0. [If $$f(z)$$ is analytic on $$\{|z| \leq 1\}$$, and $$f(z)$$ is real on $$\{|z| = 1\}$$, then $$f(z)$$ is a constant.](https://math.stackexchange.com/questions/4036294/fz-is-analytic-on-z-leq-1-and-fz-is-real-on-z-1-sh/4036398#4036398){:target="_blank"}
+0. [If $$f(z)$$ is analytic on $$\{\lvert z \rvert \leq 1\}$$, and $$f(z)$$ is real on $$\{\lvert z \rvert = 1\}$$, then $$f(z)$$ is a constant.](https://math.stackexchange.com/questions/4036294/fz-is-analytic-on-z-leq-1-and-fz-is-real-on-z-1-sh/4036398#4036398){:target="_blank"}
 
 ### topology
 
