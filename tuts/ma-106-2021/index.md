@@ -31,6 +31,11 @@ I'm just putting all the links here so I don't have to update website weekly. Th
 ## Extra Questions
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra.pdf)
 
+## (Extra)$$^2$$ Questions
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra-2.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra-2.pdf)
+
+These are questions that came out of discussions in the various groups. Any additional questions will be added to the second document. The first will not be updated, in order to make it easy for you to keep track of changes.
+
 ## Other resources
 * [Introduction to fields and vector spaces](https://aryamanmaithani.github.io/ma-106-2021-tut/fields-and-vector-spaces.pdf) ([This](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/fields-and-vector-spaces.pdf) is the In-GitHub PDF link.) 
 
@@ -42,4 +47,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 11-03-2021 03:36 PM
+###### 11-03-2021 06:09 PM
