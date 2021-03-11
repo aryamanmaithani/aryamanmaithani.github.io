@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MA 109
+title: MA 106
 subtitle: Resources related to MA 106 (Linear Algebra) Tutorials will be posted here
 image: /img/ma-106.png
 ---
@@ -42,4 +42,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 11-03-2021 01:20 PM
+###### 11-03-2021 03:36 PM
