@@ -4,7 +4,9 @@ title: MA 106
 subtitle: Resources related to MA 106 (Linear Algebra) Tutorials will be posted here
 image: /img/ma-106.png
 ---
-This is the webpage I maintained during the time that I was a TA for MA 106 in the Spring (first half) semester of 2020.  
+This is the webpage I maintained during the time that I was a TA for MA 106 in the Spring (first half) semester of 2020. __To see the newer offering of the course, see [here](/tuts).__  
+
+---
 
 > "If there's one thing that MA 106 has taught is that at the end, all ranks are equal."   
 > \- [Saksham Gupta](/tuts/ma-106/saksham-gupta.jpg)
@@ -31,4 +33,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 01-03-2020 13:56
+###### 14-03-2021 10:15
