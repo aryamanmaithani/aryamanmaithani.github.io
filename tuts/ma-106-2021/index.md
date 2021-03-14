@@ -13,7 +13,7 @@ The in-browser works nicely on laptop/desktop by opening the file within your br
 
 ## Recap
 
-#### With pauses: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/recap.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/recap.pdf)
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/recap.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/recap.pdf)
 
 ## Handwritten Solutions
 These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
@@ -47,4 +47,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 11-03-2021 06:09 PM
+###### 14-03-2021 10:28 AM
