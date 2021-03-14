@@ -4,7 +4,7 @@ title: MA 106
 subtitle: Resources related to MA 106 (Linear Algebra) Tutorials will be posted here
 image: /img/ma-106.png
 ---
-This is the webpage I maintained during the time that I was a TA for MA 106 in the Spring (first half) semester of 2020. __To see the newer offering of the course, see [here](/tuts).__  
+This is the webpage I maintained during the time that I was a TA for MA 106 in the Spring (first half) semester of 2020. <span style="color:red">__To see the newer offering of the course, see [here](/tuts/).__ </span>
 
 ---
 
@@ -22,8 +22,10 @@ Note that unlike last semester, I am not uploading complete solutions. The hints
 If you still have a doubt, feel free to contact me.
 
 # Additional Resources
-* [Extra questions](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Additional%20Resources/Extra%20questions.pdf) 
-* [An Introduction to Fields and Vector Spaces](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Additional%20Resources/Fields%20and%20Vector%20Spaces.pdf)
+* Extra questions
+* An Introduction to Fields and Vector Spaces
+
+As of 2021, I have now removed the links from the above because these documents have typos which I have now fixed in the newer versions. For that reason, you may go to [this page](/tuts/) and see the latest offering of MA 106. That page will have the desired links.
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here](https://forms.gle/Q4kdU2MtUzQP94ac9) is where you can do that. You may also ask questions here.   
