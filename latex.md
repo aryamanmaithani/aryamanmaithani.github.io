@@ -27,7 +27,8 @@ Some things to keep in mind:
 3. While we're on this topic, use   `\cdots` when putting dots between operators. For example, $$a_1 + \cdots + a_n.$$ Use `\ldots` when listing something. For example, $$S = \{a_1, \ldots, a_n\}.$$
 4. My personal suggestion for proof-writing: try to use words rather than making it concise using $$\exists$$ and stuff. It improves readability. 
 5. Similarly, use the environment `align*` if you don't need equation numbers. Only number those which you will refer to, later on.
-6. Try to use display math `$$ ... $$` for important equations. This avoids clutter within sentences.
+6. Try to use display math `\[ ... \]` for important equations. This avoids clutter within sentences.
+7. Use `\[ ... \]` instead of `$$ ... $$`. 
 7. Very important - If you refer to a function or a variable, ALWAYS use the `$...$` environment even if it's not "necessary". $f$ and f look very different and that, in my opinion, is a sign of amateur writing.
 8. Conversely, when you use functions like max, sup, min, write `\max`, `\sup`, `\min` while in math mode. These are recognised commands. If it's something not recognised, use `\text{...}` or `\operatorname{...}`.
 9. Use `\displaystyle` to keep the limits formatted nicely. This is difference between $$\lim_{n\to \infty}$$ (`\lim_{n\to \infty}`) and $$\displaystyle\lim_{n\to \infty}$$ (`$$\displaystyle\lim_{n\to \infty}$$`).
