@@ -5,7 +5,7 @@ subtitle: Aryaman Maithani
 image: img/about.jpg
 ---
 
-#### [CV](/files/CV.pdf)
+### [CV](/files/CV.pdf)
 
 Hello! My name is Aryaman Maithani.  
 I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http://www.math.iitb.ac.in). I'm pursuing a Bachelors in Science in Mathematics as my major. I am also pursuing a minor in [CSE](http://www.cse.iitb.ac.in) and honours in Mathematics.   
