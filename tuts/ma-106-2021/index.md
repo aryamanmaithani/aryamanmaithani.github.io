@@ -23,7 +23,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 * Week 3: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/3.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/3.pdf)
 * Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/4.pdf)
 * Week 5: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/5.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/5.pdf)
-* Week 6: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/6.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/6.pdf)
+* Week 6: [In-GitHub PDF Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) \| [In-browser PDF Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * Week 7: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/7.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/7.pdf)
 
 I'm just putting all the links here so I don't have to update website weekly. The links will only point to actual content after that week's tutorial.
@@ -47,4 +47,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)  
 
 #### Last Update
-###### 14-03-2021 10:28 AM
+###### 21-04-2021 05:33 PM
