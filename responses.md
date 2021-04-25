@@ -12,6 +12,64 @@ I read all of the submissions here quite quickly. However, my response is typica
 
 ---
 
+> "We are really thankful for your website.  
+>Tysm...
+>
+>I recorded this video for you on the behalf of all the freshies :)
+>
+>[https://www.youtube.com/watch?v=Lrj2Hq7xqQ8](https://www.youtube.com/watch?v=Lrj2Hq7xqQ8)"  
+> \- Mehnubhav  
+> 20/04/2021, 22:19  
+
+Thank you for this. This was really humbling and nice to watch. Hope to meet you on campus some day. :')
+
+\- 25/04/2021
+
+---
+
+> "Can i be great at Mathematics if:
+>1. I am quite interested in it.
+>2. Currently i am dumb compared to some colleagues of mine who are quite interested in maths as well."  
+> \- Levi3000  
+> 15/04/2021, 05:37  
+
+Yes.
+
+\- 25/04/2021
+
+---
+
+> ""Aryaman - I didn't exist" should actually be "Aryaman - I wasn't".
+It just sounds funnier to me cos its so incomplete and yet a good enough translation!"  
+> \- Visitor  
+> 01/03/2021, 09:58  
+
+Agreed! Changed it.
+
+\- 25/04/2021
+
+---
+
+> "(☞ ͡° ͜ʖ ͡°)☞"  
+> \-   
+> 20/02/2021, 19:29  
+
+(☞ ͡ ͜ʖ ͡ )☞
+
+\- 25/04/2021
+
+---
+
+> "How does one tackle inferiority complex?"  
+> \- A confused Sophie....  
+> 17/01/2021, 01:07  
+
+fake it till you make it
+
+\- 25/04/2021
+
+---
+
 > "Aryaman, I love you man , I deeply appreciate your work and the fact that you take doubts on whatsapp groups as well. You are such an inspiration for the students of upcoming years, and you will be remembered till doomsday. I will never forget you. Thanks , you are bringing changes in lives of many students, believe it or not, your work aspires me and other students. Once again Thank you."  
 > \- [Redacted]  
 > 12/12/2020, 23:02  
