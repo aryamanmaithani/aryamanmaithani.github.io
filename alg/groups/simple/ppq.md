@@ -7,7 +7,7 @@ image-link: /alg/groups/simple
 comments: true
 ---
 Let $$p$$ and $$q$$ be distinct prime numbers.  
-Let $$G$$ be a group with order $$p^2q$$. We show that $$G$$ is simple.  
+Let $$G$$ be a group with order $$p^2q$$. We show that $$G$$ is not simple.  
 #### Case 1. p > q
 Then, by Sylow Theorem (3), we know that $$n_p \mid q$$ and $$n_p \equiv 1 \mod p$$.  
 This gives us that that $$n_p = 1$$ or $$n_p = q$$. However, $$q < p$$ and thus $$q \not\equiv 1 \mod p$$. Thus, $$n_p = 1$$.  
