@@ -15,6 +15,8 @@ This does not go in depth as much as the notes but summarises all the methods on
 #### Dark mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/tut-solutions-dark.pdf)
 The tutorials can be found [here](http://www.math.iitb.ac.in/~preeti/ma108-2019/root_2016.pdf). 
 
+#### Handwritten (for Tutorial on 16/06/2021): [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/tut-5.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/tut-5.pdf)
+
 # Assignments
 * Week 1: [Questions](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Assignments/week-1.pdf) | [Solutions](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Assignments/solutions-1.pdf)
 
@@ -33,4 +35,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 04-05-2021 20:16
+###### 16-06-2021 15:46
