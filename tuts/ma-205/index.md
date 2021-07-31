@@ -7,6 +7,21 @@ subtitle: Resources related to MA 205 (Complex Analysis) Tutorials will be poste
 In the following, I post two links for PDFs. One opens the PDF in GitHub. Here, you can't select text but this is nice for mobile even without downloading it.  
 The in-browser works nicely on laptop/desktop by opening the file within your browser. However, on phones, it'll lead to a download.
 
+# 2021
+These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
+
+* Week 0: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/0.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/0.pdf)
+* Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/1.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/1.pdf)
+* Week 2: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/2.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/2.pdf)
+* Week 3: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/3.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/3.pdf)
+* Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/4.pdf)
+* Week 5: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/5.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/5.pdf)
+* Week 6: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/6.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/6.pdf)
+* Week 7: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/7.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/7.pdf)
+
+
+# 2020
+
 ## Tutorial Solutions $$(\LaTeX)$$
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/tut-solutions.pdf)
 Unlike previous semesters, I'm not going to make one every week. I'll just keep updating this file. (The file has a time stamp of last update. Moreover, if I update something from earlier, I will usually mark it in blue.)  
@@ -47,4 +62,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 04-10-2020 10:40 AM
+###### 31-07-2021 04:55 PM
