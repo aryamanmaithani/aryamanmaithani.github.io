@@ -214,7 +214,7 @@ We need the following stuff:
 Note that the data stored here need not be contiguous  
 → `class` (keeps track of where's the next data)
 
-We should be able to define a class in C++. Not as professional as SQL classes maybe but still nice.
+We should be able to define a class in C++. Not as professional as STL classes maybe but still nice.
 
 ---
 
