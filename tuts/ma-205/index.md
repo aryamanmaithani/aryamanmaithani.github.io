@@ -8,7 +8,7 @@ In the following, I post two links for PDFs. One opens the PDF in GitHub. Here, 
 The in-browser works nicely on laptop/desktop by opening the file within your browser. However, on phones, it'll lead to a download.
 
 # 2021
-These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
+These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference. For $$\LaTeX$$'d solutions of this year's offering, you can check [Ishan Kapnadak's solutions](https://ishankapnadak.github.io/MA205/tut-solutions.pdf).
 
 * Recap : [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/recap.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/recap.pdf)
 
@@ -19,7 +19,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 * Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/4.pdf)
 * Week 5: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/5.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/5.pdf)
 * Week 6: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/6.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/6.pdf)
-* Week 7: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/Tutorials-21/7.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/Tutorials-21/7.pdf)
+* Week 7: [In-GitHub PDF Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) \| [In-browser PDF Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # 2020
 
@@ -63,4 +63,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 07-08-2021 05:41 PM
+###### 08-09-2021 08:40 PM
