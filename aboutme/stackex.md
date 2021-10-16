@@ -85,15 +85,15 @@ While the question doesn't look like it belongs in this tag, my answer solves it
 
 0. [Covering of a compact set by finitely many balls of the form $$B(x_i, 2r)$$ such that the balls $$B(x_i, r)$$s are disjoint.](https://math.stackexchange.com/q/3753760/427810){:target="_blank"}
 
-<!-- 0. [Riemann integrable function taking finitely many values without being locally constant.](https://math.stackexchange.com/questions/3748886/function-which-takes-only-a-finite-number-of-values/3748999#3748999){:target="_blank"} -->
-
 0. [Any infinite sequence of functions $$g_n:\Bbb R\to\Bbb R$$ can be written as composition of functions from a finite set.](https://math.stackexchange.com/q/3749747/427810){:target="_blank"}
 
 0. [$$f(0)=f(1)=0$$, $$f(x)=\dfrac{f(x+h)+f(x-h)}{2}$$ implies $$f(x)=0$$ for $$x \in [0, 1]$$. ($$f$$ is continuous.)](https://math.stackexchange.com/q/3700784/427810){:target="_blank"}
 
 0. [Existence of a continuous function $$f$$ such that it takes the value $$0$$ on a set with positive measure but is not locally constant at any such point.](https://math.stackexchange.com/q/3749718/427810){:target="_blank"}
 
+0. [Are the arctangents of 1, 1.5, 2 linearly independent over the rationals?](https://math.stackexchange.com/q/1712645/427810){:target="_blank"}
+
+<!-- 0. [Riemann integrable function taking finitely many values without being locally constant.](https://math.stackexchange.com/questions/3748886/function-which-takes-only-a-finite-number-of-values/3748999#3748999){:target="_blank"} -->
+
 <!-- 0. [Let $$I$$ be an open interval. $$f'$$ is continuous if and only if the inverse image under $$f'$$ of any point is a closed set.](https://math.stackexchange.com/questions/3754629/let-i-be-an-open-interval-f-is-continuous-if-and-only-if-the-inverse-imag){:target="_blank"}   -->
 <!-- (In the comments, you'll also find me being a dummy. :)) -->
-
-0. [Are the arctangents of 1, 1.5, 2 linearly independent over the rationals?](https://math.stackexchange.com/q/1712645/427810){:target="_blank"}
