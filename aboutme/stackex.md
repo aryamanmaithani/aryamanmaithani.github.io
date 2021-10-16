@@ -8,8 +8,19 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 # My answers
 
+### galois-theory
+
+0. [If $$K/\mathbb{Q}$$ is finite, then there exists a finite extension $$E/K$$ which is not normal](https://math.stackexchange.com/a/4184243/427810){:target="_blank"}
+
+0. [An elementary way of counting the number of generators of $$\mathbb{F}_{q^{n}}$ over $$\mathbb{F}_{q}$$](https://math.stackexchange.com/a/4087728/427810){:target="_blank"}  
+Interestingly, a similar question came up in a test I gave few months later. I started doing it in a more complicated way (similar to my other answer on that question) but then I remembered I had done this special case in an easier way on this post.
+
+0. [Computing the Galois group of $$\mathbb{Q}(\sqrt[6]{-3})/\mathbb{Q}$$](https://math.stackexchange.com/a/4169160/427810){:target="_blank"}
+
 ### group-theory
-0. [Is the subgroup of divisible elements a divisible a subgroup?](https://math.stackexchange.com/a/4264722/427810){:target="_blank"}
+
+0. [Is the subgroup of divisible elements a divisible a subgroup?](https://math.stackexchange.com/a/4264722/427810){:target="_blank"}  
+At the time of writing this, this is probably the answer I consider to be my best one.
 
 0. [A group of order $$pq$$ is abelian when $$p \leq q$$ and $$p \nmid q-1$$.](https://math.stackexchange.com/a/3680676/427810){:target="_blank"}
 
@@ -22,6 +33,11 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 0. [If a group has subgroups of orders $$r$$ and $$s$$, then it has a subgroup of order $$rs$$ when $$r$$ and $$s$$ are coprime.](https://math.stackexchange.com/a/3723859/427810){:target="_blank"}
 
 0. [Every proper subgroup of $$\mathbb{Z}(p^{\infty})$$ is of the form $$\left\langle \overline{\dfrac{1}{p^n}} \right\rangle$$ for some $$n>0$$.](https://math.stackexchange.com/a/4019343/427810){:target="_blank"}
+
+### commutative-algebra
+
+0. [Is $$\arctan(2)$$ a rational multiple of $$\pi$$?](https://math.stackexchange.com/a/4272329/427810){:target="_blank"}  
+While the question doesn't look like it belongs in this tag, my answer solves it using unique factorisation in the domain $$\mathbb{Z}[\sqrt{-1}]$$.
 
 ### analysis
 
@@ -47,9 +63,13 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 ### number-theory
 
+0. [Proving that a certain composition of two integer polynomials has no integer solution](https://math.stackexchange.com/a/4194156/427810){:target="_blank"}
+
 0. [$$23a^2$$ is never the sum of $$3$$ squares.](https://math.stackexchange.com/a/3688457/427810){:target="_blank"}
 
 0. [Finding all $$t$$ such that $$\varphi(t) \mid t$$.](https://math.stackexchange.com/a/3671528/427810){:target="_blank"}
+
+0. [$$(x^{2} - 2)(x^{2} - 3)(x^{2} - 6)$$ has a root in $$\mathbb{F}_{p}$$ for every prime $$p$$](https://math.stackexchange.com/a/4147610/427810){:target="_blank"}
 
 ### linear-algebra
 
@@ -75,3 +95,5 @@ Here is a list of some questions from [Math StackExchange](https://math.stackexc
 
 <!-- 0. [Let $$I$$ be an open interval. $$f'$$ is continuous if and only if the inverse image under $$f'$$ of any point is a closed set.](https://math.stackexchange.com/questions/3754629/let-i-be-an-open-interval-f-is-continuous-if-and-only-if-the-inverse-imag){:target="_blank"}   -->
 <!-- (In the comments, you'll also find me being a dummy. :)) -->
+
+0. [Are the arctangents of 1, 1.5, 2 linearly independent over the rationals?](https://math.stackexchange.com/q/1712645/427810){:target="_blank"}
