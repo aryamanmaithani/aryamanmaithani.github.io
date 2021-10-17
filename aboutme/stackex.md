@@ -39,6 +39,9 @@ At the time of writing this, this is probably the answer I consider to be my bes
 0. [Is $$\arctan(2)$$ a rational multiple of $$\pi$$?](https://math.stackexchange.com/a/4272329/427810){:target="_blank"}  
 While the question doesn't look like it belongs in this tag, my answer solves it using unique factorisation in the domain $$\mathbb{Z}[\sqrt{-1}]$$.
 
+0. [Proving that $$(x^2 + 2)^n + 5(x^{2n-1} + 10x^2 + 5)$$ is irreducible](https://math.stackexchange.com/a/4189435/427810){:target="_blank"}  
+I like this question because it introduced me to a new irreduciblity criterion.
+
 ### analysis
 
 0. [Let $$g \in C^1(\mathbb{R^2}, \mathbb{R})$$. Show that an injective $$f \in C^1 ((-1,1), \mathbb{R^2})$$ exists, so $$g \circ f$$ is constant.](https://math.stackexchange.com/a/3700786/427810){:target="_blank"}
