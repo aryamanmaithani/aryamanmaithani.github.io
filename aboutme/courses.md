@@ -9,24 +9,23 @@ light-image: /img/iitb-light.png
 ### Department of Mathematics
 
 #### 7th Semester
-* [MA 503 - Functional Analysis	](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA5109 - Graph Theory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 515 - Partial Differential Equations](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 811 - Algebra I](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
+* [MA 503 - Functional Analysis	](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20503)
+* [MA5109 - Graph Theory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA5109)
+* [MA 515 - Partial Differential Equations](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20515)
+* [MA 811 - Algebra I](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20811)
 
 #### 6th Semester
-* [MA 406 - General Topology](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 408 - Measure Theory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA5106 - Introduction to Fourier Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 526 - Commutative Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 839 - Advanced Commutative Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
+* [MA 406 - General Topology](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20406)
+* [MA 408 - Measure Theory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20408)
+* [MA5106 - Introduction to Fourier Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA5106)
+* [MA 526 - Commutative Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20526)
+* [MA 839 - Advanced Commutative Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20839)
 
 #### 5th Semester
-* [MA 417 - Ordinary Differential Equations](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA5101 - Algebra II](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 214 - Numerical Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [MA 521 - Theory of Analytic Functions](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
-* [SI 417 - Probability](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
+* [MA 417 - Ordinary Differential Equations](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20417)
+* [MA5101 - Algebra II](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20501)
+* [MA 521 - Theory of Analytic Functions](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20521)
+* [SI 417 - Probability](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=SI%20417)
 
 ## 4th Semester
 * [MA 214 - Numerical Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
@@ -52,9 +51,9 @@ light-image: /img/iitb-light.png
 
 ### Department of Computer Science and Engineering
 
-* [CS 711 - Topics in Computational Ring Theory and Algebras](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20213)
-* [CS 713 - Special Topics in Automata and Logics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20213)
-* [CS 719 - Topics in Mathematical Foundations of Formal Verifications](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20213)
+* [CS 711 - Topics in Computational Ring Theory and Algebras](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20711)
+* [CS 713 - Special Topics in Automata and Logics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20713)
+* [CS 719 - Topics in Mathematical Foundations of Formal Verifications](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20719)
 * [CS 213 - Data Structures and Algorithms](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20213)
 * [CS 228 - Logic for CS](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20228)
 * [CS 101 - Computer Programming and Utilization](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20101) 
