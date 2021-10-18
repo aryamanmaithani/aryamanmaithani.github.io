@@ -27,7 +27,7 @@ light-image: /img/iitb-light.png
 * [MA 521 - Theory of Analytic Functions](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20521)
 * [SI 417 - Probability](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=SI%20417)
 
-## 4th Semester
+#### 4th Semester
 * [MA 214 - Numerical Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
 * [MA 410 - Multivariable Calculus](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20410)
 * [MA 412 - Complex Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20412)
