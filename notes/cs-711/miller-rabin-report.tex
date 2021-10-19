@@ -1,0 +1,236 @@
+\documentclass[12pt]{article}
+\usepackage[lmargin=1in,rmargin=1in,tmargin=1in,bmargin=1in]{geometry}
+
+\usepackage{aryaman}
+
+% \newtheorem*{alg}{Algorithm}
+\newtheorem*{fac}{Fact}
+% \newtheorem*{ex}{Example}
+\DeclareMathOperator{\len}{len}
+
+\title{The Miller Rabin Test\\\small CS 719 Course Report}
+\author{Aryaman Maithani}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Introduction}
+    In this report, we are concerned with finding an algorithm for the following problem. 
+
+    \begin{tcolorbox}
+        {\color{blue}Input:} An integer $n > 1$. 
+
+        {\color{blue}Output:} $\operatorname{isPrime}(n)$.
+    \end{tcolorbox}
+
+    The simplest way to do this is by trial division. Indeed, we simply divide $n$ by $2, 3, 4$, and so on, and see if the remainder is $0$ in any case. As we know, we only need to divide by numbers up to $\sqrt{n}$. The issue with this algorithm is that it is extremely inefficient, requiring $\Theta(\sqrt{n})$ operations, which is \emph{exponential} in the \emph{bit length} $\len(n)$. For example, if $n$ has $100$-decimal digits, it would take more than $10^{33}$ years to perform $\sqrt{n}$ divisions. 
+
+    However, note that the above algorithm does \emph{more} than what we expected from our algorithm. Namely, it not only tells us that the number is prime but also produces a nontrivial factor in the case that $n$ is composite. Na\"{i}vely, one might think that it is necessary for us to produce a prime factor to claim that a number is composite. However, that is not the case.
+
+    In this report, we describe a much faster primality testing. This is a polynomial time algorithm. It allows for $100$-decimal digits numbers to be tested in less than a second. Unlike the earlier algorithm, it does \emph{not} give us a prime factor in the case that $n$ is composite. 
+
+    However, this algorithm is \emph{probabilistic}. This means that the algorithm can make a mistake. Fortunately, one has control over this probability, and can make it arbitrarily small (but not zero).
+
+    For the rest of the talk, we shall assume that $n > 1$ is an \emph{odd} integer. 
+    Let $n = p_{1}^{e_{1}} \cdots p_{r}^{e_{r}}$ be its prime factorisation. \\
+    By $\mathbb{Z}_{n}$, we shall denote the ring of integers modulo $n$. We have a ring homomorphism
+    \begin{align*} 
+        \theta : \mathbb{Z}_{n} &\to \mathbb{Z}_{p_{1}^{e_1}} \times \cdots \times \mathbb{Z}_{p_{r}^{e_{r}}} \\
+        [a]_{n} &\mapsto ([a]_{p_{1}^{e_1}}, \cdots, [a]_{p_{r}^{e_{r}}}).
+    \end{align*}
+     
+    In fact, the Chinese Remainder Theorems tells us that the above is an isomorphism. This gives us a group isomorphism between the group of invertible elements of the two rings as 
+    \begin{equation} \label{eq:CRT-groups}
+        (\mathbb{Z}_{n})^{\ast} \xrightarrow{\cong} (\mathbb{Z}_{p_{1}^{e_1}})^{\ast} \times \cdots \times (\mathbb{Z}_{p_{r}^{e_{r}}})^{\ast}.
+    \end{equation}
+
+    Several probabilistic primality tests, including the Miller–Rabin test, have the following general structure. \\
+
+    \begin{blockquote}
+        Define $\mathbb{Z}_{n}^{+}$ to be the set of nonzero elements of $\mathbb{Z}_{n}$. Note that $\md{\mathbb{Z}_{n}^{+}} = n - 1$. Moreover, $\mathbb{Z}_{n}^{+} = \mathbb{Z}_{n}^{\ast}$ iff $n$ is prime. Suppose also that we define a set $L_{n} \subset \mathbb{Z}_{n}^{+}$ such that: 
+        \begin{enumerate}
+            \item there is an efficient algorithm that on input $n$ and $\alpha \in \mathbb{Z}_{n}^{+}$, determines if $\alpha \in L_{n}$; 
+            \item if $n$ is prime, then $L_{n} = \mathbb{Z}_{n}^{\ast}$; and 
+            \item if $n$ is composite, $\md{L_{n}} \le c(n - 1)$ for some universal constant $c < 1$.
+        \end{enumerate}
+    \end{blockquote}
+
+    \begin{algo}
+        To test for primality, we set a ``repetition parameter'' $k$, and choose random elements $\alpha_{1}, \ldots, \alpha_{k} \in \mathbb{Z}_{n}^{+}$. If $\alpha_{i} \in L_{n}$ for all $i \in \{1, \ldots, k\}$, then we output \texttt{true}; otherwise, we output \texttt{false}.
+    \end{algo}
+     
+    \begin{obs}
+        Let us note some properties of the above algorithm.
+        \begin{enumerate}   
+            \item The algorithm is efficient since we can check $\alpha \in L_{n}$ efficiently. 
+            \item If $n$ is prime,  then the algorithm outputs \texttt{true},  and it does so \emph{correctly}. 
+            \item If $n$ is composite,  then the algorithm \emph{may} output \texttt{true},  with probability at most $c^{k}$.
+        \end{enumerate}
+    \end{obs}
+
+     In particular, note that there is a \emph{one-sided error}.  In fancy language, this is a \emph{Monte Carlo algorithm}.
+
+
+\section{First attempt}
+
+    We now try to define a suitable candidate for $L_{n}$.  
+    \begin{defn}
+        \begin{equation} \label{eq:green}
+            L_{n} \vcentcolon= \{\alpha \in \mathbb{Z}_{n}^{+} : \alpha^{n - 1} = 1\}. 
+        \end{equation}
+    \end{defn}
+     
+    Note that we can test $\alpha \in L_{n}$ efficiently, using a repeated-squaring algorithm.
+
+    \begin{obs}
+        It is easy to see that $L_{n} \subset \mathbb{Z}_{n}^{\ast}$. Indeed, $\alpha^{n - 2}$ acts as the inverse of $\alpha \in L_{n}$. 
+
+        However, one can even note that $L_{n}$ is a \emph{subgroup} of $\mathbb{Z}_{n}^{\ast}$. Indeed, defining $\varphi : \mathbb{Z}_{n}^{\ast} \to \mathbb{Z}_{n}^{\ast}$ to be the $(n - 1)$-power map $x \mapsto x^{n - 1}$, one sees that $L_{n} = \ker(\varphi)$.
+    \end{obs}
+
+    \begin{thm}
+        If $n$ is prime, then $L_{n} = \mathbb{Z}_{n}^{\ast}$. \\
+        If $n$ is composite \emph{and} $L_{n} \subsetneq \mathbb{Z}_{n}^{\ast}$, \emph{then} $\md{L_{n}} \le \frac{1}{2}(n - 1)$.
+    \end{thm}
+     
+    \begin{proof}
+        The first statement is clear. For the second, one recalls that $L_{n}$ is a subgroup of $Z_{n}^{\ast}$. Thus, $\frac{\md{\mathbb{Z}_{n}^{\ast}}}{\md{L_{n}}}$ is a positive integer. Therefore, if the integer is not $1$, it is at least $2$. Hence, we see
+        \begin{equation*} 
+            \md{L_{n}} \le \frac{1}{2}\md{\mathbb{Z}_{n}^{\ast}} \le \frac{1}{2}(n - 1). \qedhere
+        \end{equation*}
+    \end{proof}
+     However, there \emph{are} infinitely many odd composite $n$ for which $L_{n} = \mathbb{Z}_{n}^{\ast}$  and thus, they cannot be ignored.
+
+
+
+    \begin{defn}
+        An odd composite number $n$ such that $L_{n} = \mathbb{Z}_{n}^{\ast}$ is called a \emph{Carmichael number}.
+    \end{defn}
+    
+    \begin{ex}
+        The smallest Carmichael number is $561 = 3 \cdot 11 \cdot 17.$
+    \end{ex}
+     
+    \begin{thm}
+        $n$ is a Carmichael number iff $n$ is of the following form:
+        \begin{enumerate}
+            \item $n = p_{1} \cdots p_{r}$ for distinct primes $p_{i}$,
+            \item $r \ge 3$,
+            \item $(p_{i} - 1) \mid (n - 1)$ for all $i \in \{1, \ldots, r\}$. 
+        \end{enumerate}
+    \end{thm}
+    \begin{proof} 
+        Let $n = p_{1}^{e_{1}} \cdots p_{r}^{e_{r}}$ be a Carmichael number. Recalling \Cref{eq:CRT-groups}, we have
+        \begin{equation*} 
+            \mathbb{Z}_{n}^{\ast} \cong \mathbb{Z}_{p_{1}^{e_1}}^{\ast} \times \cdots \times \mathbb{Z}_{p_{r}^{e_{r}}}^{\ast}.
+        \end{equation*}
+        Since $n - 1$ annihilates the left group, it annihilates the right group. But this happens iff 
+        \begin{equation*} 
+            p_{i}^{e_{i} - 1}(p_{i} - 1) \mid (n - 1)
+        \end{equation*} 
+        for all $i \in \{1, \ldots, r\}$ (since each factor on the right is a cycle group). In particular, $(p_{1} - 1) \mid (n - 1)$. Moreover, if $e_{i} > 1$ for some $i$, then $p_{i} \mid n - 1$, a contradiction. Thus, $e_{i} = 1$ for all $i$.
+
+        Now, we must show that $r \ge 3$. For the sake of contradiction, assume that $r = 2$. In this case, we have $n = p_{1} p_{2}$ for some $p_{1} > p_{2}$. We note that
+        \begin{equation*} 
+            n - 1 = p_{1} p_{2} - 1 = (p_{1} - 1) p_{2} + (p_{2} - 1).
+        \end{equation*}
+        The above shows that $p_{1} - 1 \mid p_{2} - 1$, a contradiction since $p_{1} > p_{2}$.
+
+        Conversely, suppose $n$ has the given form. Let $a$ be coprime to $n$ and hence, to each $p_{i}$. Then, by Fermat's Little Theorem, we have $a^{p_{i} - 1} \equiv 1 \mod p_{i}$. Since $n - 1$ is a multiple of $p_{i} - 1$, we get
+        \begin{equation*} 
+            a^{n - 1} \equiv 1 \mod p_{i}
+        \end{equation*}
+        for all $i \in \{1, \ldots, r\}$. By the Chinese Remainder Theorem, we are now done.
+    \end{proof}
+
+\section{The Miller-Rabin test}
+
+
+    We now define a new set $L_{n}'$ as follows. 
+    \begin{defn}
+        Let $n - 1 = t 2^{h}$  where $t$ is odd, and $h \ge 1$. 
+        \begin{align} 
+            L_{n}' \vcentcolon= \{\alpha \in \mathbb{Z}_{n}^{+} :\ &\alpha^{t2^{h}} = 1 \text{ and} \nonumber \\
+            & \alpha^{t2^{j + 1}} = 1 \Rightarrow \alpha^{t2^{j}} = \pm 1 \label{eq:sepia}\\
+            & \qquad \text{ for } j = 0, \ldots, h - 1\}. \nonumber
+        \end{align}
+    \end{defn}
+      
+    The Miller-Rabin test uses this set $L_{n}'$.  By definition, it is clear that $L_{n}' \subset L_{n}$, since we have the condition \Cref{eq:green} from earlier.  \\
+    In fact, $L_{n}'$ is precisely the set of those elements of $L_{n}$ which also satisfy \Cref{eq:sepia}.
+
+
+
+    Testing whether a given $\alpha \in \mathbb{Z}_{n}^{+}$ belongs to $L_{n}'$ can be done using the following algorithm: 
+    \begin{algo}[Testing membership] \phantom{hi} 
+        \begin{enumerate}
+            \itemsep1mm
+            \item $\beta \leftarrow \alpha^{t}$
+            \item if $\beta = 1$ then return \texttt{true}
+            \item for $j \leftarrow 0$ to $h - 1$ do
+            \begin{itemize}
+                \item if $\beta = -1$ then return \texttt{false}
+                \item if $\beta = 1$ then return \texttt{false}
+                \item $\beta \leftarrow \beta^{2}$
+            \end{itemize}
+            \item return \texttt{false}
+        \end{enumerate}
+    \end{algo}
+     This algorithm runs in time $O(\len(n)^{3})$ and thus, satisfies the first criteria.
+
+
+
+    \begin{thm}
+        If $n$ is prime, then $L_{n}' = \mathbb{Z}_{n}^{\ast}$.  If $n$ is composite, then $\md{L_{n}'} \le \frac{1}{4}(n - 1)$.
+    \end{thm}
+    
+    \begin{proof}  %Write $n - 1 = t2^{h}$ with $t$ odd. 
+        \textbf{Case 1.} $n$ is prime. 
+
+        Note that we have $L_{n}' \subset L_{n} = \mathbb{Z}_{n}^{\ast}$.  Thus, it suffices to prove that $L_{n} \subset L_{n}'$.  But this follows because $x^{2} = 1 \Rightarrow x = \pm 1$ in a field. 
+        
+        \textbf{Case 2.} $n = p^{e}$ for a prime $p \ge 3$ and $e \ge 2$. 
+
+        Recall that $L_{n}$ is the kernel of the $(n - 1)$-power map.  Since $\mathbb{Z}_{n}^{\ast}$ is cyclic, it follows that $\md{L_{n}} = \gcd(\varphi(n), n - 1)$.  We can explicitly calculate it to get 
+        
+        \begin{equation*} 
+            \md{L_{n}'} \le \md{L_{n}} = \gcd(p^{e - 1}(p - 1), p ^{e} - 1) = p - 1 = \frac{p^{e} - 1}{p^{e - 1} + \cdots + 1} \le \frac{n - 1}{4}.
+        \end{equation*}
+
+        \textbf{Case 3.} $n = p_{1}^{e_{1}} \cdots p_{r}^{e_{r}}$ is the standard prime factorisation of $n$, with $r > 1$. \\~\\
+        %    
+        Let $\theta : \mathbb{Z}_{n} \to \mathbb{Z}_{p_{1}^{e_1}} \times \cdots \times \mathbb{Z}_{p_{r}^{e_{r}}}$ be the ring isomorphism from earlier.  \\
+        Write $n - 1 = t2^{h}$ and $\varphi(p_{i}^{e_{i}}) = t_{i}2^{h_{i}}$ in the usual way,  and let $g \vcentcolon= \min\{h, h_{1}, \ldots, h_{r}\}$.  Note that $g \ge 1$, and that each $\mathbb{Z}_{p_{i}^{e_{i}}}^{\ast}$ is a cyclic group of order $t_{i}2^{h_{i}}$.  \\~\\
+        %
+        We first show that $\alpha^{t2^{g}} = 1$.  By definition of $L_{n}'$, we may assume $g < h$.  Now, suppose $\alpha^{t2^{g}} \neq 1$,  and let $j$ be the smallest index in $g, \ldots, h - 1$ such that $\alpha^{t2^{j + 1}} = 1$.  By definition of $L_{n}'$, we have $\alpha^{t2^{j}} = -1$.  Let $i$ be such that $g = h_{i}$.  Writing $\theta(\alpha) = (\alpha_{1}, \ldots, \alpha_{r})$,  we have $\alpha_{i}^{t2^{j}} = -1$.  Thus, the order of $\alpha_{i}^{t}$ (in $\mathbb{Z}_{p_{i}^{e_{i}}}^{\ast}$) is equal to $2^{j + 1}$.  But this is a contradiction since it does not divide $\md{\mathbb{Z}_{p_{i}^{e_{i}}}^{\ast}} = t_{i}2^{h_{i}}$.  \hfill ($\because j \ge g = h_{i}$)
+
+        For $j = 0, \ldots, h$, define $\rho_{j}$ to be the $(t2^{j})$-power map on $\mathbb{Z}_{n}^{\ast}$.  From the previous claim, and the definition of $L_{n}'$, it follows that $\alpha^{t2^{g - 1}} = \pm 1$ $\forall \alpha \in L_{n}'$.  Thus, $L_{n}' \subset \rho_{g - 1}^{-1}(\{\pm 1\})$ and hence, 
+        \begin{equation} \label{eq:01}
+            \md{L_{n}}' \le 2\md{\ker(\rho_{g - 1})}.
+        \end{equation} 
+        Also,
+        \begin{flalign*} 
+            && \md{\ker(\rho_{j})} = \prod_{i = 1}^{r} \gcd(t_{i}2^{h_{i}}, t2^{j}) && \forall j \in \{0, \ldots, h\}.
+        \end{flalign*}
+         Since $g \le h$ and $g \le h_{i}$ for all $i$, we get 
+        \begin{equation} \label{eq:02}
+            2^{r}\md{\ker(\rho_{g - 1})} = \md{\ker(\rho_{g})} \le \md{\ker(\rho_{h})}.
+        \end{equation} 
+        Combining \Cref{eq:01}-\Cref{eq:02}, we get
+        \begin{equation*} 
+            \md{L_{n}'} \le 2^{-r + 1}\md{\ker(\rho_{h})} = \frac{\md{L_{n}}}{2^{r - 1}}.
+        \end{equation*}
+
+        If $r \ge 3$, then we are done  since $\md{L_{n}} \le \md{Z_{n}^{\ast}} \le n - 1$, and $2^{r - 1} \ge 4$.  
+
+        If $r = 2$, then $n$ is not a Carmichael number and thus,  
+        \begin{equation*} 
+            \frac{\md{L_{n}}}{2^{r - 1}} = \frac{\md{L_{n}}}{2} \le \frac{1}{4}(n - 1), 
+        \end{equation*}  
+        and we are again done.
+    \end{proof}
+
+
+\end{document}
