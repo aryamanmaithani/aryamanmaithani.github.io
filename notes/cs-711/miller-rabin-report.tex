@@ -130,7 +130,7 @@
         \begin{equation*} 
             p_{i}^{e_{i} - 1}(p_{i} - 1) \mid (n - 1)
         \end{equation*} 
-        for all $i \in \{1, \ldots, r\}$ (since each factor on the right is a cycle group). In particular, $(p_{1} - 1) \mid (n - 1)$. Moreover, if $e_{i} > 1$ for some $i$, then $p_{i} \mid n - 1$, a contradiction. Thus, $e_{i} = 1$ for all $i$.
+        for all $i \in \{1, \ldots, r\}$ (since each factor on the right is a cycle group). In particular, $(p_{i} - 1) \mid (n - 1)$. Moreover, if $e_{i} > 1$ for some $i$, then $p_{i} \mid n - 1$, a contradiction. Thus, $e_{i} = 1$ for all $i$.
 
         Now, we must show that $r \ge 3$. For the sake of contradiction, assume that $r = 2$. In this case, we have $n = p_{1} p_{2}$ for some $p_{1} > p_{2}$. We note that
         \begin{equation*} 
@@ -171,7 +171,7 @@
             \item if $\beta = 1$ then return \texttt{true}
             \item for $j \leftarrow 0$ to $h - 1$ do
             \begin{itemize}
-                \item if $\beta = -1$ then return \texttt{false}
+                \item if $\beta = -1$ then return \texttt{true}
                 \item if $\beta = 1$ then return \texttt{false}
                 \item $\beta \leftarrow \beta^{2}$
             \end{itemize}
