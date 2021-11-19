@@ -10,14 +10,17 @@ image: /img/ma-108.png
 Due to the SARS-CoV-2 pandemic, it looks like this course had to be brought to an abrupt end. However, I believe that this is quite an important course and thus, students should still learn it. However, I understand that one may not feel motivated enough to go through all the [notes posted by the course instructor](http://www.math.iitb.ac.in/~preeti/ma108-2019/) and thus, I have written a compilation of my own.  
 This does not go in depth as much as the notes but summarises all the methods one would have learnt in the course.  
 
-# Tutorial Hints 
-### [Week 1](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Hints/sheet-3.pdf)
+## Tutorial Solutions $$(\LaTeX)$$
+#### Light mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/tut-solutions.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/tut-solutions.pdf)
+#### Dark mode: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/tut-solutions-dark.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/tut-solutions-dark.pdf)
 The tutorials can be found [here](http://www.math.iitb.ac.in/~preeti/ma108-2019/root_2016.pdf). 
+
+#### Handwritten (for Tutorial on 16/06/2021): [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/tut-5.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/tut-5.pdf)
 
 # Assignments
 * Week 1: [Questions](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Assignments/week-1.pdf) | [Solutions](https://github.com/aryamanmaithani/ma-108-tut/blob/master/Assignments/solutions-1.pdf)
 
-If you'ren't from my tutorial, don't get scared upon seeing this. This is just something I'm doing for my tutorial. Nothing graded.
+If you'ren't from my tutorial, don't get scared upon seeing this. This is just something I'm doing for my tutorial. Nothing graded. (This is from 2020, btw.)
 
 # Additional Resources
 <!-- * [Extra questions](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Additional%20Resources/Extra%20questions.pdf) -->
@@ -32,4 +35,4 @@ If there's something that you want to tell me anonymously, [here](https://forms.
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 02-05-2020 05:05
+###### 16-06-2021 15:46
