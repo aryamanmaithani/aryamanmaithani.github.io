@@ -270,11 +270,11 @@
     \end{thm}
     \pause
 
-    Thus, this set $L_{n}'$ does have the required properties. \pause This choice gives the Miller Rabin test. \pause 
+    Thus, this set $L_{n}'$ does have the required properties. \pause This choice gives the Miller-Rabin test. \pause 
 
     To put it all together, we have the test as:
 
-    \begin{alg}[Miller Rabin]
+    \begin{alg}[Miller-Rabin]
         \begin{enumerate}[<+->]
             \itemsep1mm
             \item input $n$ and $k$
@@ -337,7 +337,7 @@
         \begin{equation*} 
             \md{L_{n}'} \le \frac{\md{L_{n}}}{2^{r - 1}}
         \end{equation*} \pause
-        If $r \ge 3$, then we are done \pause since $\md{L_{n}} \le \md{Z_{n}^{\ast}} \le n - 1$, and $2^{r - 1} \ge 4$. \pause 
+        If $r \ge 3$, then we are done \pause since $\md{L_{n}} \le \md{\mathbb{Z}_{n}^{\ast}} \le n - 1$, and $2^{r - 1} \ge 4$. \pause 
 
         If $r = 2$, then $n$ is not a Carmichael number and thus, \pause 
         \begin{equation*} 
