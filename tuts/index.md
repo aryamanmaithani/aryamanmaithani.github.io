@@ -3,7 +3,7 @@ layout: page
 title: Tutorials
 ---
 
-Pages I made when I TA'd these courses
+Pages I made when I TA'd for these courses.
 
 <div class="posts-list">
     {%- for blink in site.data.tut-links -%}

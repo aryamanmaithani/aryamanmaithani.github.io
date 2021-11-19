@@ -5,11 +5,15 @@ subtitle: Useful links
 image: /img/iitb.png
 light-image: /img/iitb-light.png
 ---
+
+These are resources for some of the more common courses. For the smaller and more specialised courses, you can check my math notes [here](/math) and other notes [here](/notes).
+
 * Mathematics Courses
     - [MA 105](/tuts/ma-105), resources from when I was a TA for this course
     - [MA 106](/tuts/ma-106), resources from when I was a TA for this course
     - [MA 107](/ma-107), notes I made when I was taking this course
     - [MA 108](/tuts/ma-108), resources from when I was a TA for this course
+    - [MA 205](/tuts/ma-205), resources from when I was a TA for this course
     - [MA 214](/notes/ma-214), notes and tutorial solutions I made when taking the course
     - [MA 419](/ma-419), notes I made when I was taking this course
 * Computer Science Courses
