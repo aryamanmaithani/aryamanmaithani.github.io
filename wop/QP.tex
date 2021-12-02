@@ -34,7 +34,7 @@ There are many tutorials online for learning \LaTeX. One starter is on my websit
 
 If you wish to use a result from an earlier question, you can do so even if you have not solved the earlier question.
 
-{\color{red}You may assume that the vector spaces are finite-dimensional, if you want. Just mention that.}
+You may assume that the vector spaces are finite-dimensional, if you want. Just mention that.
 
 \begin{enumerate}
 	\item Let $G$ be a group and $N \unlhd G$ be a normal subgroup. Let $\varphi : G \to H$ be a group homomorphism. We say that \deff{$\varphi$ factors through $G/N$} if there exists a homomorphism $\widetilde{\varphi} : G/N \to H$ such that the following diagram commutes
@@ -71,10 +71,10 @@ If you wish to use a result from an earlier question, you can do so even if you 
 	\begin{enumerate}
 		\item Show that $\{0\}$, $V$, $\ker(T)$, and $\im(T)$ are $T$-invariant. ($\ker$ is the kernel, which you may know as null-space. $\im$ is the image.)
 		\item Let $S : V \to V$ and $W \le V$ be such that $W$ is both $S$ and $T$-invariant. Show that $W$ is also $S \circ T$-invariant.
-		\item Let $S : V \to V$ be such that $T \circ S = S \circ T$. {\color{red}Show that $\ker(S)$ and $\im(S)$ are $T$-invariant.} %\\
+		\item Let $S : V \to V$ be such that $T \circ S = S \circ T$. Show that $\ker(S)$ and $\im(S)$ are $T$-invariant. %\\
 		% In words: commuting operators have the same invariant subspaces.
-		\item Assume that $T$ is invertible. {\color{red}Assume that $W$ is finite-dimensional.} Show that $W$ is $T$-invariant iff $W$ is $T^{-1}$-invariant. \\
-		{\color{red}\textbf{Optional.} Is the problem still true if $W$ is not assumed to be finite-dimensional?}
+		\item Assume that $T$ is invertible. Assume that $W$ is finite-dimensional. Show that $W$ is $T$-invariant iff $W$ is $T^{-1}$-invariant. \\
+		\textbf{Optional.} Is the problem still true if $W$ is not assumed to be finite-dimensional?
 		\item Let $(V, \langle \cdot, \cdot\rangle)$ be a finite-dimensional inner product space. By $T^{\ast}$, we denote the adjoint of $T$. Suppose that $T$ is unitary and $W$ is $T$-invariant. Show that $W^{\perp}$ is also $T$-invariant.
 	\end{enumerate}
 	%
@@ -90,7 +90,7 @@ If you wish to use a result from an earlier question, you can do so even if you 
 	%
 	\item From Section 0.1.3. of my notes here: \url{https://aryamanmaithani.github.io/math/rep-theory/Notes.pdf#page=11}, look at the concept of linearisation. Prove the following:
 	\begin{enumerate}
-		\item Let $X$ be a finite set, and $V$ a $\mathbb{C}$-vector space. Let $f : X \to V$ be a function (note that it does not make sense to talk about $f$ being linear). Show that there exists a unique function $F : \mathbb{C}X \to V$ such that $F|_{X} = f$. In other words, the following diagram commutes:
+		\item Let $X$ be a finite set, and $V$ a $\mathbb{C}$-vector space. Let $f : X \to V$ be a function (note that it does not make sense to talk about $f$ being linear). Show that there exists a unique linear function $F : \mathbb{C}X \to V$ such that $F|_{X} = f$. In other words, the following diagram commutes:
 		\begin{equation*} 
 			\begin{tikzcd}
 				\mathbb{C}X \arrow[r, "F", dashed] & V \\
@@ -98,7 +98,7 @@ If you wish to use a result from an earlier question, you can do so even if you 
 			\end{tikzcd}
 		\end{equation*}
 		(What is the vertical map here?)
-		\item Let $X$ and $Y$ be finite sets, and $f : X \to Y$ be a function. Show that there exists a unique function $F : \mathbb{C}X \to \mathbb{C}Y$ such that $F|_{X} = f$. In other words, the following diagram commutes:
+		\item Let $X$ and $Y$ be finite sets, and $f : X \to Y$ be a function. Show that there exists a unique linear function $F : \mathbb{C}X \to \mathbb{C}Y$ such that $F|_{X} = f$. In other words, the following diagram commutes:
 		\begin{equation*} 
 			\begin{tikzcd}
 				\mathbb{C}X \arrow[r, "F", dashed] & \mathbb{C}Y \\
