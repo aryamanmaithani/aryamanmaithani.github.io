@@ -8,7 +8,10 @@ image: img/latex.png
 As you may have seen, I like $$\LaTeX$$. I encourage everyone to learn it.  
 In my opinion, an efficient way of learning is to start making a document and googling the things along the way.  
 To get started, I feel it's enough to just see one code and its output to get a sense of how it works. That's the point of this page.  
-I would suggest you to first make an account (for free) on [Overleaf](https://www.overleaf.com/?r=6953fddc&rm=d&rs=b). (If you use this link, it counts as a referral for me.) Then, you may see [this](https://www.overleaf.com/read/smxvxtpbvjht) file of mine.  
+I would suggest you to first make an account (for free) on [Overleaf](https://www.overleaf.com/?r=6953fddc&rm=d&rs=b)<!-- Then, you may see [this](https://www.overleaf.com/read/smxvxtpbvjht) file of mine.  --> 
+
+I was a speaker at a $$\LaTeX$$ workshop conducted by [Curry Leaf](https://sites.google.com/view/curryleaf/). You can find the talk on YouTube [here](https://www.youtube.com/watch?v=_Efsc69Inrw). The document used can be found at [this link](https://www.overleaf.com/read/cdjvqzchyfvt).
+
 I think that that contains more or less everything basic needed to get started. 
 
 A more comprehensive tutorial can be found [here](https://www.overleaf.com/read/jcwsxzmtzxmb), made by Adway Girish.
