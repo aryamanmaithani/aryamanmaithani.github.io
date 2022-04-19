@@ -17,7 +17,7 @@ I read all of the submissions here quite quickly. However, my response is typica
 >
 >I recorded this video for you on the behalf of all the freshies :)
 >
->[https://www.youtube.com/watch?v=Lrj2Hq7xqQ8](https://www.youtube.com/watch?v=Lrj2Hq7xqQ8)"  
+>[https://www.youtube.com/watch?v=Lrj2Hq7xqQ8](https://www.youtube.com/watch?v=dQw4w9WgXcQ)"  
 > \- Mehnubhav  
 > 20/04/2021, 22:19  
 
