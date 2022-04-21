@@ -15,3 +15,4 @@ Mail me at [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com) with th
 2. Anon-1 (9th July, 2020) (Yes, the same Anon-1 as in [a bad maze](/maze).)
 3. Aman Singh (10th July, 2020)
 4. Mithil Vakde (16th January, 2021)
+5. Kartik Nair (21st April, 2022)
