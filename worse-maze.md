@@ -16,3 +16,4 @@ Mail me at [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com) with th
 3. Aman Singh (10th July, 2020)
 4. Mithil Vakde (16th January, 2021)
 5. Kartik Nair (21st April, 2022)
+6. Govind Kumar (22nd April, 2022)
