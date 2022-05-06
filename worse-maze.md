@@ -17,3 +17,4 @@ Mail me at [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com) with th
 4. Mithil Vakde (16th January, 2021)
 5. Kartik Nair (21st April, 2022)
 6. Govind Kumar (22nd April, 2022)
+7. [Shivang Tiwari](https://shivang-tiwari.github.io/MyIntro/) (6th May, 2022)
