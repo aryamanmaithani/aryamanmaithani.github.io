@@ -4,7 +4,38 @@ title: MA 106
 subtitle: Resources related to MA 106 (Linear Algebra) Tutorials will be posted here
 image: /img/ma-106.png
 ---
-This is the webpage I maintained during the time that I was a TA for MA 106 in the Spring (first half) semester of 2020. <span style="color:red">__To see the newer offering of the course, see [here](/tuts/).__ </span>
+
+# Additional Resources
+## Extra Questions
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra.pdf)
+
+## (Extra)$$^2$$ Questions
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra-2.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra-2.pdf)
+
+These are questions that came out of discussions in the various groups. Any additional questions will be added to the second document. The first will not be updated, in order to make it easy for you to keep track of changes.
+
+The second has few questions which came out of discussions with the first-year batch of 2020.
+
+## [Introduction to fields and vector spaces](https://aryamanmaithani.github.io/ma-106-2021-tut/fields-and-vector-spaces.pdf) ([This](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/fields-and-vector-spaces.pdf) is the In-GitHub PDF link.)
+
+# Spring 2021
+
+## Recap
+
+#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/recap.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/recap.pdf)
+
+## Handwritten Solutions
+These are the PDFs I make while giving online tutorials. It is advisable to find the videos in the MS Teams for better reference.
+
+* Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/1.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/1.pdf)
+* Week 2: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/2.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/2.pdf)
+* Week 3: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/3.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/3.pdf)
+* Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/4.pdf)
+* Week 5: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/5.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/5.pdf)
+* Week 6: [In-GitHub PDF Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) \| [In-browser PDF Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* Week 7: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/handwritten/7.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/handwritten/7.pdf)
+
+# Spring 2020
 
 ---
 
@@ -18,21 +49,12 @@ This is the webpage I maintained during the time that I was a TA for MA 106 in t
 
 The tutorial sheets can be found [here](https://github.com/aryamanmaithani/ma-106-tut/tree/master/Tutorial%20Sheets).  
 
-Note that unlike last semester, I am not uploading complete solutions. The hints given should give you enough push to fill in the remaining details yourself.  
-If you still have a doubt, feel free to contact me.
-
-# Additional Resources
-* Extra questions
-* An Introduction to Fields and Vector Spaces
-
-As of 2021, I have now removed the links from the above because these documents have typos which I have now fixed in the newer versions. For that reason, you may go to [this page](/tuts/) and see the latest offering of MA 106. That page will have the desired links.
-
 ## Feedback
-If there's something that you want to tell me anonymously, [here](https://forms.gle/Q4kdU2MtUzQP94ac9) is where you can do that. You may also ask questions here.   
+If there's something that you want to tell me anonymously, [here]({{ site.anon-form }}){:target="_blank"} is where you can do that. Put the context as "MA 106." You may also ask questions here.  
 [Here](/tuts/ma-106/responses) are my responses to some of your responses.
 
 ## Contact
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 14-03-2021 10:15
+###### 28-05-2022 10:15
