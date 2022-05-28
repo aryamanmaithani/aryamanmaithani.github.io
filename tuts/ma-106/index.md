@@ -6,17 +6,14 @@ image: /img/ma-106.png
 ---
 
 # Additional Resources
-## Extra Questions
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra.pdf)
+1. Extra Questions  
+[In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra.pdf)
 
-## (Extra)$$^2$$ Questions
-#### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra-2.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra-2.pdf)
+2. (Extra)$$^2$$ Questions  
+[In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/master/extra-2.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-106-2021-tut/extra-2.pdf)  
+This has few additional questions which came out of discussions with the first-year batch of 2020.
 
-These are questions that came out of discussions in the various groups. Any additional questions will be added to the second document. The first will not be updated, in order to make it easy for you to keep track of changes.
-
-The second has few questions which came out of discussions with the first-year batch of 2020.
-
-## [Introduction to fields and vector spaces](https://aryamanmaithani.github.io/ma-106-2021-tut/fields-and-vector-spaces.pdf) ([This](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/fields-and-vector-spaces.pdf) is the In-GitHub PDF link.)
+3. [Introduction to fields and vector spaces](https://aryamanmaithani.github.io/ma-106-2021-tut/fields-and-vector-spaces.pdf) ([This](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/fields-and-vector-spaces.pdf) is the In-GitHub PDF link.)
 
 # Spring 2021
 
