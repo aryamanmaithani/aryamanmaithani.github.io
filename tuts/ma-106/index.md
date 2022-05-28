@@ -15,6 +15,10 @@ This has few additional questions which came out of discussions with the first-y
 
 3. [Introduction to fields and vector spaces](https://aryamanmaithani.github.io/ma-106-2021-tut/fields-and-vector-spaces.pdf) ([This](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/fields-and-vector-spaces.pdf) is the In-GitHub PDF link.)
 
+4. TSC slides  
+With pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC-without-pauses.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC-without-pauses.pdf)
+Without pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC.pdf)
+
 # Spring 2021
 
 ## Recap
@@ -34,8 +38,6 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 
 # Spring 2020
 
----
-
 > "If there's one thing that MA 106 has taught is that at the end, all ranks are equal."   
 > \- [Saksham Gupta](/tuts/ma-106/saksham-gupta.jpg)
 
@@ -46,7 +48,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 
 The tutorial sheets can be found [here](https://github.com/aryamanmaithani/ma-106-tut/tree/master/Tutorial%20Sheets).  
 
-## Feedback
+# Feedback
 If there's something that you want to tell me anonymously, [here]({{ site.anon-form }}){:target="_blank"} is where you can do that. Put the context as "MA 106." You may also ask questions here.  
 [Here](/tuts/ma-106/responses) are my responses to some of your responses.
 
@@ -54,4 +56,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 28-05-2022 10:15
+###### 28-05-2022 23:35
