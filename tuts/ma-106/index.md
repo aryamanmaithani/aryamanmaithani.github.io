@@ -16,7 +16,7 @@ This has few additional questions which came out of discussions with the first-y
 3. [Introduction to fields and vector spaces](https://aryamanmaithani.github.io/ma-106-2021-tut/fields-and-vector-spaces.pdf) ([This](https://github.com/aryamanmaithani/ma-106-2021-tut/blob/main/fields-and-vector-spaces.pdf) is the In-GitHub PDF link.)
 
 4. TSC slides  
-With pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC-without-pauses.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC-without-pauses.pdf)
+With pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC-without-pauses.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC-without-pauses.pdf)  
 Without pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC.pdf)
 
 # Spring 2021
