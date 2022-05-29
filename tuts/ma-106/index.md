@@ -42,7 +42,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 > "If there's one thing that MA 106 has taught is that at the end, all ranks are equal."   
 > \- [Saksham Gupta](/tuts/ma-106/saksham-gupta.jpg)
 
-# Tutorial Hints
+## Tutorial Hints
 ### [Week 1](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-1.pdf) | [Week 2](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-2.pdf) | [Week 3](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-3.pdf)
 ### [Week 4](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-4.pdf) | [Week 5](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/Week-5.pdf)  
 ### [Practice problems of Week 3](https://github.com/aryamanmaithani/ma-106-tut/blob/master/Hints/tut-3-extra.pdf)
