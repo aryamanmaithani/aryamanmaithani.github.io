@@ -18,7 +18,8 @@ This has few additional questions which came out of discussions with the first-y
 4. TSC slides  
 With pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC-without-pauses.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC-without-pauses.pdf)  
 Without pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/TSC.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/TSC.pdf)  
-Here is the QP I showed: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/QP.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/QP.pdf) 
+Here is the QP I showed: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/QP.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/QP.pdf)  
+Here are the scribbles: [In-GitHub](https://github.com/aryamanmaithani/ma-106-tut/blob/master/QP-scribble.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-106-tut/QP-scribble.pdf)
 
 # Spring 2021
 
@@ -57,4 +58,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 29-05-2022 11:39
+###### 29-05-2022 20:16
