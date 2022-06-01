@@ -52,7 +52,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 #### [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-205-tut/blob/master/extra.pdf) | [In-browser PDF Link](https://aryamanmaithani.github.io/ma-205-tut/extra.pdf)
 
 ## My old notes
-I had not taken this course but rather, the "big boi" version of this - MA 412. Interested students may find (part of) my notes from that course [here](/math/ma-412).
+I had not taken this course but rather, the "big boi" version of this - MA 412. Interested students may find (part of) my notes from that course [here](/math/ma-412). I didn't really get to completing those notes. You can find [Amit Rajaraman](https://avatars.githubusercontent.com/u/52618577?v=4)'s notes [here](https://amitrajaraman.github.io/notes/ma-412/main.pdf).
 
 ## Feedback
 If there's something that you want to tell me anonymously, [here]({{ site.anon-form }}){:target="_blank"} is where you can do that. Put the context as "MA 205." You may also ask questions here.   
