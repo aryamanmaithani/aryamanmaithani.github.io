@@ -1,35 +1,19 @@
-ma-108:
-  tit: MA 108, Spring 2021-22
-  desc: Ordinary Differential Equations
-
-ma-106:
-  tit: MA 106, Spring 2021-22
-  desc: Linear Algebra
-
 ma-205:
-  tit: MA 205, Autumn 2021-22
-  desc: Complex Analysis
-
-ma-106:
-  tit: MA 106, Spring 2020-21
-  desc: Linear Algebra
+  tit: MA 205 (Complex Analysis)
+  desc: Autumns 2020-21, 2021-22
 
 ma-109:
-  tit: MA 109, Autumn 2020-21
-  desc: Calculus I
-
-ma-205:
-  tit: MA 205, Autumn 2020-21
-  desc: Complex Analysis
+  tit: MA 109 (Calculus I)
+  desc: Autumn 2020-21
 
 ma-108:
-  tit: MA 108, Spring 2019-20
-  desc: Ordinary Differential Equations
+  tit: MA 108 (Ordinary Differential Equations)
+  desc: Springs 2019-20, 2020-21, 2021-22
 
 ma-106:
-  tit: MA 106, Spring 2019-20
-  desc: Linear Algebra
+  tit: MA 106 (Linear Algebra)
+  desc: Springs 2019-20, 2020-21, 2021-22
 
 ma-105:
-  tit: MA 105, Autumn 2019-20
-  desc: Calculus
+  tit: MA 105 (Calculus I and II)
+  desc: Autumn 2019-20
