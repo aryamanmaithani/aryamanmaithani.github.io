@@ -25,7 +25,7 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 ## TSC
 Slides with pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-108-tut/blob/master/TSC-without-pauses.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-108-tut/TSC-without-pauses.pdf)  
 Slides without pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-108-tut/blob/master/TSC.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-108-tut/TSC.pdf)  
-Here are the scribbles: [In-GitHub](https://github.com/aryamanmaithani/ma-108-tut/blob/master/QP-scribble.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-108-tut/QP-scribble.pdf)
+Here are the scribbles: [MS Teams](https://iitbacin.sharepoint.com/:b:/s/MA108TSC61/Ee5DC-7zkOtDnX1lInweho0BFn0veZyLG-BssweDJdquzw?e=ynDWev)
 
 # 2021
 
@@ -64,4 +64,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 14-06-2022 18:19
+###### 14-06-2022 21:38
