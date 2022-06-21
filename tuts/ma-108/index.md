@@ -17,10 +17,8 @@ These are the PDFs I make while giving online tutorials. It is advisable to find
 * Week 1: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/1.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/1.pdf)
 * Week 2: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/2.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/2.pdf)
 * Week 3: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/3.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/3.pdf)
-* Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/4.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/4.pdf)
-* Week 5: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/5.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/5.pdf)
-* Week 4: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/6.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/6.pdf)
-* Week 7: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/7.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/7.pdf)
+* Weeks 4 and 5: Were offline and I didn't make any PDF.
+* Week 6: [In-GitHub PDF Link](https://github.com/aryamanmaithani/ma-108-tut/blob/master/2022/6.pdf) \| [In-browser PDF Link](https://aryamanmaithani.github.io/ma-108-tut/2022/6.pdf)
 
 ## TSC
 Slides with pauses: [In-GitHub](https://github.com/aryamanmaithani/ma-108-tut/blob/master/TSC-without-pauses.pdf) | [In-browser](https://aryamanmaithani.github.io/ma-108-tut/TSC-without-pauses.pdf)  
@@ -64,4 +62,4 @@ If there's something that you want to tell me anonymously, [here]({{ site.anon-f
 [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)  
 
 #### Last Update
-###### 14-06-2022 21:38
+###### 21-06-2022 17:30
