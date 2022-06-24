@@ -5,7 +5,7 @@ subtitle: Set up shortcuts
 image: img/latex.png
 ---
 
-This is applicable for Android phones. (With some possible finite exceptions.)  
+This is applicable for Android phones. (With some possible finite exceptions.) For PC, see [this](https://github.com/notatyrannosaur/latex-replacements).  
 One possible option is to use a math keyboard - many such are available on the Play Store. However, these tend to be a bit of a pain as it's cumbersome to switch. That's where this method comes in.  
 Android phones have this option of setting up shortcuts for words. (You may look it up how it's done.) This is mainly to set up abbreviations for common words to increase the speed of typing. However, one can use this feature for math symbols as well and that's precisely what I've done.  
 Here's how you can use my shortcuts:  
