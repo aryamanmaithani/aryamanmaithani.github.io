@@ -8,8 +8,9 @@ image: img/about.jpg
 ### [CV](/files/CV.pdf)
 
 Hello! My name is Aryaman Maithani.  
-I am currently an undergrad at the [Department of Mathematics, IIT Bombay](http://www.math.iitb.ac.in). I'm pursuing a Bachelors in Science in Mathematics as my major. I am also pursuing honours in Mathematics.   
-[Here](/aboutme/courses) is a list of courses that I have taken and am taking.
+I am currently a PhD student at the [Department of Mathematics, University of Utah](https://math.utah.edu).  
+I was an undergrad at the [Department of Mathematics, IIT Bombay](http://www.math.iitb.ac.in) where I received a bachelor's with honors in mathematics.   
+<!-- [Here](/aboutme/courses) is a list of courses that I have taken and am taking. -->
 
 [Here](cool) is a list of some things I find interesting.  
 
