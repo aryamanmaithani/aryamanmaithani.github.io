@@ -4,6 +4,8 @@ title: CV
 subtitle: Links appearing on my CV
 ---
 
+# Outdated page (this was applicable for my undergraduate CV)
+
 In case the links on the PDF are not clickable for some reason (for example, you have taken a printout), here is a list of the links, appearing in the same order as in the CV.
 
 1. [Presentation at the Young Mathematicians Conference organized by the Ohio State University](https://www.youtube.com/watch?v=ax-zScZtL7Q)
