@@ -2,18 +2,30 @@
 <body>
 
 Your result:<br>
-<textarea id="myTextarea" style='white-space:pre' rows="10" cols="20"></textarea>
+<textarea id="inputField" style="white-space:pre" rows="10" cols="20"></textarea>
 
-<p></p>
+<br><br>
 
-<button type="button" onclick="myFunction()">Trim</button>
+<button type="button" onclick="myReplaceFunction()">Trim</button>
 
-<p id="demo" style='white-space:pre'></p>
+<button type="button" onclick="myCopyFunction()">Copy</button>
+
+<br><br>
+
+<textarea id="outputField" style="white-space:pre" rows="10" cols="20" readonly></textarea>
 
 <script>
-function myFunction() {
-  var x = document.getElementById("myTextarea").value;
-  document.getElementById("demo").innerHTML = x.replaceAll("\n\n", "\n");
+function myReplaceFunction() {
+  var x = document.getElementById("inputField").value;
+  document.getElementById("outputField").innerHTML = x.replaceAll("\n\n", "\n");
+}
+
+function myCopyFunction() {
+  var copyText = document.getElementById("outputField");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  navigator.clipboard.writeText(copyText.value);
+  alert("Copied!");
 }
 </script>
 
