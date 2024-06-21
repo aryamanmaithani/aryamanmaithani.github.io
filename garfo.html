@@ -10,6 +10,12 @@ Your result:<br>
 
 <button type="button" onclick="myCopyFunction()">Copy</button>
 
+<button type="button" onclick="myClearFunction()">Clear</button>
+
+<br><br>
+
+<button type="button" onclick="myReplaceFunction(); myCopyFunction()">Trim and Copy</button>
+
 <br><br>
 
 <textarea id="outputField" style="white-space:pre" rows="10" cols="20" readonly></textarea>
@@ -17,7 +23,7 @@ Your result:<br>
 <script>
 function myReplaceFunction() {
   var x = document.getElementById("inputField").value;
-  document.getElementById("outputField").innerHTML = x.replaceAll("\n\n", "\n");
+  document.getElementById("outputField").value = x.replaceAll("\n\n", "\n");
 }
 
 function myCopyFunction() {
@@ -27,6 +33,17 @@ function myCopyFunction() {
   navigator.clipboard.writeText(copyText.value);
   alert("Copied!");
 }
+
+function myClearFunction() {
+  document.getElementById("inputField").value = "";
+  document.getElementById("outputField").value = "";
+}
+
+async function myPasteFunction() {
+  const text = await navigator.clipboard.readText();
+  document.getElementById("inputField").value = text;
+}
+
 </script>
 
 </body>
