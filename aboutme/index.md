@@ -26,12 +26,5 @@ I also enjoy solving problems on [Project Euler](https://projecteuler.net/).
 
 <a href="https://projecteuler.net/"><img src="https://projecteuler.net/profile/skandalio.png" width="208" height="58" alt="flair for Aryaman Maithani at Project Euler, A website dedicated to the fascinating world of mathematics and programming." title="Project Euler, A website dedicated to the fascinating world of mathematics and programming."></a>
 
-### Contact
-
-* [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com)
-* [aryaman@iitb.ac.in](mailto:aryaman@iitb.ac.in)
-* [aryaman@math.iitb.ac.in](mailto:aryaman@math.iitb.ac.in)
-
-
 ### Picture credits
 The picture displayed on this page was taken by [Pari Vermani](/img/park.jpg).
