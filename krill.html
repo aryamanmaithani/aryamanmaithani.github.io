@@ -1,0 +1,145 @@
+<html>
+<body>
+
+<button type="button" onclick="loadExample()">Load example</button>
+<br><br>
+
+Your result:<br>
+<textarea id="resultField" style="white-space:pre" rows="10" cols="20"></textarea>
+
+<br><br>
+<button type="button" onclick="myClearFunction1()">Clear</button>
+<br><br>
+
+
+Your answers:<br>
+<textarea id="answerField" style="white-space:pre" rows="10" cols="20"></textarea>
+
+<br><br>
+
+<button type="button" onclick="myClearFunction2()">Clear</button>
+
+<br><br>
+<button type="button" onclick="myReplaceFunction()">Trim</button>
+<button type="button" onclick="myReplaceFunction(); myCopyFunction()">Trim and Copy</button>
+
+<br><br>
+
+<textarea id="outputField" style="white-space:pre" rows="10" cols="20" readonly></textarea>
+
+<br><br>
+<button type="button" onclick="myCopyFunction()">Copy</button>
+
+<script>
+function myReplaceFunction() {
+  const results = document.getElementById("resultField").value;
+  const spoiler = '[SPOILER]' + '\u200B'.repeat(4000);
+
+  const answers = document.getElementById("answerField").value;
+  const lines = answers.split(/\r?\n/);
+
+  let text = "";
+
+  for (let i = 0; i < 7; i++) {
+    text += String(i+1) + ". " + lines[9*i] + "\n";
+  }
+
+  document.getElementById("outputField").value = results + "\n\n" + spoiler + "\n\n" + text;
+}
+
+function myCopyFunction() {
+  var copyText = document.getElementById("outputField");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  navigator.clipboard.writeText(copyText.value);
+  alert("Copied!");
+}
+
+function myClearFunction1() {
+  document.getElementById("resultField").value = "";
+  document.getElementById("outputField").value = "";
+}
+
+function myClearFunction2() {
+  document.getElementById("answerField").value = "";
+  document.getElementById("outputField").value = "";
+}
+
+async function myPasteFunction() {
+  const text = await navigator.clipboard.readText();
+  document.getElementById("inputField").value = text;
+}
+
+function loadExample() {
+  const res = `Krillion #53 🦐
+90
+
+🫧🫧🐟🫧🫧🫧🫧`;
+  
+  const ans = `Hakka noodles
+
+85
++
+
+2
+
+Name a species of great ape
+
+Chimpanzee
+
+10
++
+
+3
+
+Name a character from Stranger Things
+
+Eleven
+
+10
++
+
+4
+
+Name a hot drink
+
+Hot toddy
+
+60
++
+
+5
+
+Name a variety of wine
+
+Port
+
+30
++
+
+6
+
+Name an interjection or exclamation
+
+Huh
+
+30
++
+
+7
+
+Name a country with a coastline
+
+Chile
+
+30
+`;
+
+  document.getElementById("answerField").value = ans;
+  document.getElementById("resultField").value = res;
+}
+
+</script>
+
+</body>
+</html>
