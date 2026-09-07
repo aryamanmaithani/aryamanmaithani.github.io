@@ -41,10 +41,10 @@ function myReplaceFunction() {
   let text = "";
 
   for (let i = 0; i < 7; i++) {
-    text += String(i+1) + ". " + lines[9*i] + "\n";
+    text += "\n" + String(i+1) + ". " + lines[9*i] ;
   }
 
-  document.getElementById("outputField").value = results + "\n\n" + spoiler + "\n\n" + text;
+  document.getElementById("outputField").value = results + "\n\n" + spoiler + "\n" + text;
 }
 
 function myCopyFunction() {
